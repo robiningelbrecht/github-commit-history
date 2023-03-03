@@ -4,7 +4,7 @@ namespace App\Domain;
 
 use SleekDB\Store;
 
-class GithubCommitRepository
+class GitHubCommitRepository
 {
     public function __construct(
         private readonly Store $store

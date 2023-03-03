@@ -3,7 +3,7 @@
 namespace App\Console;
 
 use App\Domain\GitHub;
-use App\Domain\GithubCommitRepositoryFactory;
+use App\Domain\GitHubCommitRepositoryFactory;
 use App\Domain\GitHubRepoRepository;
 use App\Infrastructure\Exception\EntityNotFound;
 use Symfony\Component\Console\Attribute\AsCommand;
@@ -17,7 +17,7 @@ class ImportGitHubActivityConsoleCommand extends Command
     public function __construct(
         private readonly GitHub $gitHub,
         private readonly GitHubRepoRepository $gitHubRepoRepository,
-        private readonly GithubCommitRepositoryFactory $githubCommitRepositoryFactory
+        private readonly GitHubCommitRepositoryFactory $githubCommitRepositoryFactory
     ) {
         parent::__construct();
     }
@@ -28,7 +28,11 @@ class ImportGitHubActivityConsoleCommand extends Command
             try {
                 $this->gitHubRepoRepository->findOneBy($gitHubRepo['full_name']);
             } catch (EntityNotFound) {
-                $this->gitHubRepoRepository->add($gitHubRepo);
+                $languages = $this->gitHub->getRepoLanguages(
+                    $gitHubRepo['owner']['login'],
+                    $gitHubRepo['name'],
+                );
+                $this->gitHubRepoRepository->add(array_merge($gitHubRepo, ['languages' => $languages]));
             }
         }
 
