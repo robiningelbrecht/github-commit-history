@@ -1,0 +1,6 @@
+.env
+nginx
+vendor
+var
+.php-cs-fixer.cache
+.phpunit.result.cache
