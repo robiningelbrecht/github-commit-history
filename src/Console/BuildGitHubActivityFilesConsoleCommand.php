@@ -56,7 +56,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
         $readme = \Safe\file_get_contents($pathToReadMe);
 
         $readme = preg_replace(
-            '/<!--START_SECTION:commits-per-day-time-->\s(.*?)\s<!--END_SECTION:commits-per-day-time-->/',
+            '/<!--START_SECTION:commits-per-day-time-->[\s\S]+<!--END_SECTION:commits-per-day-time-->/',
             implode("\n", [
                 '<!--START_SECTION:commits-per-day-time-->',
                 $dayTimeSummaryContent,
@@ -65,7 +65,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $readme
         );
         $readme = preg_replace(
-            '/<!--START_SECTION:commits-per-weekday-->\s(.*?)\s<!--END_SECTION:commits-per-weekday-->/',
+            '/<!--START_SECTION:commits-per-weekday-->[\s\S]+<!--END_SECTION:commits-per-weekday-->/',
             implode("\n", [
                 '<!--START_SECTION:commits-per-weekday-->',
                 $weekdaySummaryContent,
@@ -74,7 +74,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $readme
         );
         $readme = preg_replace(
-            '/<!--START_SECTION:repos-per-language-->\s(.*?)\s<!--END_SECTION:repos-per-language-->/',
+            '/<!--START_SECTION:repos-per-language-->[\s\S]+<!--END_SECTION:repos-per-language-->/',
             implode("\n", [
                 '<!--START_SECTION:repos-per-language-->',
                 $reposPerLanguageContent,
@@ -142,12 +142,13 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
         $reposPerLanguage = [];
         $repos = $this->gitHubRepoRepository->findAll();
         foreach ($repos as $repo) {
-            foreach ($repo->getLanguages() as $language) {
-                if (!isset($reposPerLanguage[$language])) {
-                    $reposPerLanguage[$language] = 0;
-                }
-                ++$reposPerLanguage[$language];
+            if (!$language = $repo->getMainLanguage()) {
+                continue;
             }
+            if (!isset($reposPerLanguage[$language])) {
+                $reposPerLanguage[$language] = 0;
+            }
+            ++$reposPerLanguage[$language];
         }
 
         return $template->render([

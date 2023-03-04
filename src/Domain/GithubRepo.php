@@ -31,7 +31,16 @@ class GithubRepo implements \JsonSerializable
 
     public function getLanguages(): array
     {
-        return array_keys($this->data['languages']);
+        return $this->data['languages'];
+    }
+
+    public function getMainLanguage(): ?string
+    {
+        if (empty($this->data['languages'])) {
+            return null;
+        }
+
+        return array_search(max($this->data['languages']), $this->data['languages']);
     }
 
     public function getCreatedAt(): \DateTimeImmutable
