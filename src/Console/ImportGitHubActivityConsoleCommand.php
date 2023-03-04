@@ -2,8 +2,10 @@
 
 namespace App\Console;
 
+use App\Domain\Commit;
 use App\Domain\GitHub;
-use App\Domain\GitHubCommitRepositoryFactory;
+use App\Domain\GithubRepo;
+use App\Domain\GitHubRepoCommitRepositoryFactory;
 use App\Domain\GitHubRepoRepository;
 use App\Infrastructure\Exception\EntityNotFound;
 use Symfony\Component\Console\Attribute\AsCommand;
@@ -17,7 +19,7 @@ class ImportGitHubActivityConsoleCommand extends Command
     public function __construct(
         private readonly GitHub $gitHub,
         private readonly GitHubRepoRepository $gitHubRepoRepository,
-        private readonly GitHubCommitRepositoryFactory $githubCommitRepositoryFactory
+        private readonly GitHubRepoCommitRepositoryFactory $gitHubRepoCommitRepositoryFactory
     ) {
         parent::__construct();
     }
@@ -36,19 +38,18 @@ class ImportGitHubActivityConsoleCommand extends Command
                     $gitHubRepo['owner']['login'],
                     $gitHubRepo['name'],
                 );
-                $this->gitHubRepoRepository->add(array_merge($gitHubRepo, ['languages' => $languages]));
+                $this->gitHubRepoRepository->add(GithubRepo::fromMap(array_merge($gitHubRepo, ['languages' => $languages])));
             }
         }
 
         foreach ($this->gitHubRepoRepository->findAll() as $repo) {
-            $commitRepository = $this->githubCommitRepositoryFactory->for($repo['name']);
-            $lastImportedCommit = $commitRepository->findLastImportedCommit();
-            $sinceDate = !empty($lastImportedCommit['commit']['committer']['date']) ? \DateTimeImmutable::createFromFormat('Y-m-d\TH:i:s\Z', $lastImportedCommit['commit']['committer']['date']) : null;
+            $commitRepository = $this->gitHubRepoCommitRepositoryFactory->for($repo->getName());
+            $sinceDate = $commitRepository->findLastImportedCommit()?->getCommitDate();
 
             foreach (['robiningelbrecht', 'robin@baldwin.be', 'robin.ingelbrecht@entityone.be'] as $author) {
                 $commits = $this->gitHub->getRepoCommits(
-                    $repo['owner']['login'],
-                    $repo['name'],
+                    $repo->getOwnerLogin(),
+                    $repo->getName(),
                     $author,
                     $sinceDate
                 );
@@ -57,7 +58,18 @@ class ImportGitHubActivityConsoleCommand extends Command
                     continue;
                 }
 
-                $commitRepository->addMany($commits);
+                foreach ($commits as &$commit) {
+                    $commitDate = \DateTimeImmutable::createFromFormat('Y-m-d\TH:i:s\Z', $commit['commit']['committer']['date']);
+                    // Save timestamp to be able to sort on it.
+                    $commit['commit']['timestamp'] = $commitDate->getTimestamp();
+                }
+
+                $commitRepository->addMany(
+                    array_map(
+                        fn (array $commit) => Commit::fromMap($commit),
+                        $commits
+                    )
+                );
             }
         }
 

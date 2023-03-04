@@ -12,22 +12,28 @@ class GitHubRepoRepository
     ) {
     }
 
+    /**
+     * @return \App\Domain\GithubRepo[]
+     */
     public function findAll(): array
     {
-        return $this->store->findAll();
+        return array_map(
+            fn (array $row) => GithubRepo::fromMap($row),
+            $this->store->findAll()
+        );
     }
 
-    public function findOneBy(string $fullName): array
+    public function findOneBy(string $fullName): GithubRepo
     {
         if (!$row = $this->store->findOneBy(['full_name', '==', $fullName])) {
             throw new EntityNotFound(sprintf('Repo "%s" not found', $fullName));
         }
 
-        return $row;
+        return GithubRepo::fromMap($row);
     }
 
-    public function add(array $repo): void
+    public function add(GithubRepo $repo): void
     {
-        $this->store->insert($repo);
+        $this->store->insert($repo->jsonSerialize());
     }
 }

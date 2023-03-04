@@ -5,11 +5,11 @@ namespace App\Domain;
 use App\Infrastructure\Environment\Settings;
 use SleekDB\Store;
 
-class GitHubCommitRepositoryFactory
+class GitHubRepoCommitRepositoryFactory
 {
-    public function for(string $repoName): GitHubCommitRepository
+    public function for(string $repoName): GitHubRepoCommitRepository
     {
-        return new GitHubCommitRepository(
+        return new GitHubRepoCommitRepository(
             new Store('commit-'.$repoName, Settings::getAppRoot().'/database', [
                 'auto_cache' => false,
                 'timeout' => false,

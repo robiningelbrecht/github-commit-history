@@ -2,32 +2,22 @@
 
 namespace App\Domain;
 
-use SleekDB\Store;
-
 class GitHubCommitRepository
 {
     public function __construct(
-        private readonly Store $store
+        private readonly GitHubRepoRepository $gitHubRepoRepository,
+        private readonly GitHubRepoCommitRepositoryFactory $gitHubRepoCommitRepositoryFactory
     ) {
     }
 
-    public function findLastImportedCommit(): ?array
+    public function getAllCommits(): array
     {
-        $commits = $this->store->findAll(['commit.timestamp' => 'desc'], 1);
-        if ($commits) {
-            return reset($commits);
+        $commits = [];
+        foreach ($this->gitHubRepoRepository->findAll() as $repo) {
+            $commitRepository = $this->gitHubRepoCommitRepositoryFactory->for($repo->getName());
+            $commits = array_merge($commits, $commitRepository->findAll());
         }
 
-        return null;
-    }
-
-    public function addMany(array $commits): void
-    {
-        foreach ($commits as &$commit) {
-            $commitDate = \DateTimeImmutable::createFromFormat('Y-m-d\TH:i:s\Z', $commit['commit']['committer']['date']);
-            // Save timestamp to be able to sort on it.
-            $commit['commit']['timestamp'] = $commitDate->getTimestamp();
-        }
-        $this->store->insertMany($commits);
+        return $commits;
     }
 }
