@@ -151,6 +151,8 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             ++$reposPerLanguage[$language];
         }
 
+        arsort($reposPerLanguage);
+
         return $template->render([
             'title' => '💬 I mostly code in '.array_search(max($reposPerLanguage), $reposPerLanguage),
             'progressBars' => array_map(fn (string $language) => ProgressBar::fromValues(
