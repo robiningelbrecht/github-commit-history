@@ -29,6 +29,11 @@ class GithubRepo implements \JsonSerializable
         return $this->data['topics'];
     }
 
+    public function getLanguages(): array
+    {
+        return array_keys($this->data['languages']);
+    }
+
     public function getCreatedAt(): \DateTimeImmutable
     {
         return new \DateTimeImmutable($this->data['created_at']);

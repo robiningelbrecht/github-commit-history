@@ -41,6 +41,12 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $weekdaySummaryContent,
         );
 
+        $reposPerLanguageContent = $this->buildLanguageProgressBars();
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/commit-history-language-summary.html',
+            $reposPerLanguageContent,
+        );
+
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/repos-for-website.json',
             Json::encode($this->buildReposForWebsite())
@@ -64,6 +70,15 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
                 '<!--START_SECTION:commits-per-weekday-->',
                 $weekdaySummaryContent,
                 '<!--END_SECTION:commits-per-weekday-->',
+            ]),
+            $readme
+        );
+        $readme = preg_replace(
+            '/<!--START_SECTION:repos-per-language-->\s(.*?)\s<!--END_SECTION:repos-per-language-->/',
+            implode("\n", [
+                '<!--START_SECTION:repos-per-language-->',
+                $reposPerLanguageContent,
+                '<!--END_SECTION:repos-per-language-->',
             ]),
             $readme
         );
@@ -117,6 +132,31 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
                 sprintf('%s commits', $commitsPerWeekday[$weekday->value]),
                 ($commitsPerWeekday[$weekday->value] / count($commits)) * 100,
             ), Weekday::cases()),
+        ]);
+    }
+
+    private function buildLanguageProgressBars(): string
+    {
+        $template = $this->twig->load('progress-bars.html.twig');
+
+        $reposPerLanguage = [];
+        $repos = $this->gitHubRepoRepository->findAll();
+        foreach ($repos as $repo) {
+            foreach ($repo->getLanguages() as $language) {
+                if (!isset($reposPerLanguage[$language])) {
+                    $reposPerLanguage[$language] = 0;
+                }
+                ++$reposPerLanguage[$language];
+            }
+        }
+
+        return $template->render([
+            'title' => '💬 I mostly code in '.array_search(max($reposPerLanguage), $reposPerLanguage),
+            'progressBars' => array_map(fn (string $language) => ProgressBar::fromValues(
+                $language,
+                sprintf('%s repos', $reposPerLanguage[$language]),
+                ($reposPerLanguage[$language] / count($repos)) * 100,
+            ), array_keys($reposPerLanguage)),
         ]);
     }
 
