@@ -4,6 +4,7 @@ namespace App\Infrastructure\Twig;
 
 use Twig\Environment as TwigEnvironment;
 use Twig\Loader\FilesystemLoader;
+use Twig\TwigFilter;
 use Twig\TwigFunction;
 
 class TwigBuilder
@@ -18,6 +19,7 @@ class TwigBuilder
         $twig = new TwigEnvironment($this->filesystemLoader);
         $twig->addFunction(new TwigFunction('image64', [Base64TwigExtension::class, 'image']));
         $twig->addFunction(new TwigFunction('font64', [Base64TwigExtension::class, 'font']));
+        $twig->addFilter(new TwigFilter('repeat', [StrRepeatTwigExtension::class, 'doRepeat']));
 
         return $twig;
     }

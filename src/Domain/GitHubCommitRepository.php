@@ -10,7 +10,10 @@ class GitHubCommitRepository
     ) {
     }
 
-    public function getAllCommits(): array
+    /**
+     * @return \App\Domain\Commit[]
+     */
+    public function findAll(): array
     {
         $commits = [];
         foreach ($this->gitHubRepoRepository->findAll() as $repo) {

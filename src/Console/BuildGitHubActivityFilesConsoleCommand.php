@@ -2,8 +2,11 @@
 
 namespace App\Console;
 
+use App\Domain\DayTime;
 use App\Domain\GitHubCommitRepository;
+use App\Domain\GithubRepo;
 use App\Domain\GitHubRepoRepository;
+use App\Domain\ProgressBar;
 use App\Infrastructure\Environment\Settings;
 use App\Infrastructure\Serialization\Json;
 use Symfony\Component\Console\Attribute\AsCommand;
@@ -27,15 +30,28 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
     {
         $this->buildReposForWebsite();
 
-        $DAY_TIME_EMOJI = ['🌞', '🌆', '🌃', '🌙'];
-        $DAY_TIME_NAMES = ['Morning', 'Daytime', 'Evening', 'Night'];
-        $WEEK_DAY_NAMES = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+        $template = $this->twig->load('progress-bars.html.twig');
 
-        $template = $this->twig->load('commit-history-day-time-summary.html.twig');
+        $commitsPerDayTime = [];
+        $commits = $this->gitHubCommitRepository->findAll();
+        foreach ($commits as $commit) {
+            $dayTime = DayTime::fromDateTime($commit->getCommitDate());
+            if (!isset($commitsPerDayTime[$dayTime->value])) {
+                $commitsPerDayTime[$dayTime->value] = 0;
+            }
+            ++$commitsPerDayTime[$dayTime->value];
+        }
 
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/commit-history-day-time-summary.json',
-            Json::encode(['content' => $template->render([])]),
+            Settings::getAppRoot().'/build/commit-history-day-time-summary.html',
+            $template->render([
+                'title' => array_sum(array_slice($commitsPerDayTime, 0, 2)) > array_sum(array_slice($commitsPerDayTime, 2, 2)) ? "I'm an Early 🐤" : "I'm a Night 🦉",
+                'progressBars' => array_map(fn (DayTime $dayTime) => ProgressBar::fromValues(
+                    $dayTime->getEmoji().' '.$dayTime->value,
+                    sprintf('%s commits', $commitsPerDayTime[$dayTime->value]),
+                    ($commitsPerDayTime[$dayTime->value] / count($commits)) * 100,
+                ), DayTime::cases()),
+            ]),
         );
 
         return Command::SUCCESS;
@@ -45,17 +61,18 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
     {
         $reposForWebsite = array_filter(
             $this->gitHubRepoRepository->findAll(),
-            fn (array $repo) => in_array('website', $repo['topics'])
+            fn (GithubRepo $repo) => in_array('website', $repo->getTopics())
         );
 
-        $reposForWebsite = array_map(function (array $repo) {
-            $repo['topics'] = array_filter($repo['topics'], fn (string $topic) => 'website' !== $topic);
+        $reposForWebsite = array_map(function (GithubRepo $repo) {
+            $repoAsArray = Json::decode(Json::encode($repo));
+            $repoAsArray['topics'] = array_filter($repo->getTopics(), fn (string $topic) => 'website' !== $topic);
 
-            return $repo;
+            return GithubRepo::fromMap($repoAsArray);
         }, $reposForWebsite);
 
-        usort($reposForWebsite, function (array $a, array $b) {
-            return (new \DateTimeImmutable($a['created_at']))->getTimestamp() < (new \DateTimeImmutable($b['created_at']))->getTimestamp() ? 1 : -1;
+        usort($reposForWebsite, function (GithubRepo $a, GithubRepo $b) {
+            return $a->getCreatedAt()->getTimestamp() < $b->getCreatedAt()->getTimestamp() ? 1 : -1;
         });
 
         \Safe\file_put_contents(

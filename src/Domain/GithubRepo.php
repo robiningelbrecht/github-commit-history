@@ -24,6 +24,16 @@ class GithubRepo implements \JsonSerializable
         return $this->data['owner']['login'];
     }
 
+    public function getTopics(): array
+    {
+        return $this->data['topics'];
+    }
+
+    public function getCreatedAt(): \DateTimeImmutable
+    {
+        return new \DateTimeImmutable($this->data['created_at']);
+    }
+
     public function jsonSerialize(): array
     {
         return $this->data;
