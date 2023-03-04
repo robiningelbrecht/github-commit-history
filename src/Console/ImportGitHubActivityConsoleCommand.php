@@ -28,6 +28,10 @@ class ImportGitHubActivityConsoleCommand extends Command
             try {
                 $this->gitHubRepoRepository->findOneBy($gitHubRepo['full_name']);
             } catch (EntityNotFound) {
+                if ('github-commit-history' === $gitHubRepo['name']) {
+                    continue;
+                }
+
                 $languages = $this->gitHub->getRepoLanguages(
                     $gitHubRepo['owner']['login'],
                     $gitHubRepo['name'],
