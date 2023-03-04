@@ -1,4 +1,4 @@
-# github-commit-history
+# GitHub commit history
 Contains my personal GitHub commit history
 
 <!--START_SECTION:commits-per-day-time-->
