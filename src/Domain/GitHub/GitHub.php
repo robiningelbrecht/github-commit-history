@@ -68,7 +68,7 @@ class GitHub
             ];
 
             if ($since) {
-                $options[RequestOptions::QUERY]['since'] = $since->format(self::DATE_FORMAT);
+                $options[RequestOptions::QUERY]['since'] = $since->add(\DateInterval::createFromDateString('1 second'))->format(self::DATE_FORMAT);
             }
 
             $response = $this->request(sprintf('repos/%s/%s/commits', $owner, $name), 'GET', $options);
