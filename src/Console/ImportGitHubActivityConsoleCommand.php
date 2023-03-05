@@ -59,7 +59,7 @@ class ImportGitHubActivityConsoleCommand extends Command
                 }
 
                 foreach ($commits as &$commit) {
-                    $commitDate = \DateTimeImmutable::createFromFormat('Y-m-d\TH:i:s\Z', $commit['commit']['committer']['date']);
+                    $commitDate = \DateTimeImmutable::createFromFormat(GitHub::DATE_FORMAT, $commit['commit']['committer']['date']);
                     // Save timestamp to be able to sort on it.
                     $commit['commit']['timestamp'] = $commitDate->getTimestamp();
                 }

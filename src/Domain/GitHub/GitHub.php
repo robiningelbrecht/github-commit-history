@@ -8,6 +8,8 @@ use GuzzleHttp\RequestOptions;
 
 class GitHub
 {
+    public const DATE_FORMAT = 'Y-m-d\TH:i:s\Z';
+
     public function __construct(
         private readonly Client $client,
         private readonly GitHubAccessToken $gitHubAccessToken
@@ -61,10 +63,13 @@ class GitHub
                     'per_page' => 100,
                     'page' => $page,
                     'sort' => 'pushed',
-                    'since' => $since?->format('Y-m-d\TH:i:s'),
                     'author' => $author,
                 ],
             ];
+
+            if ($since) {
+                $options[RequestOptions::QUERY]['since'] = $since->format(self::DATE_FORMAT);
+            }
 
             $response = $this->request(sprintf('repos/%s/%s/commits', $owner, $name), 'GET', $options);
             $commits = array_merge($commits, $response);

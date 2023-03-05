@@ -28,7 +28,7 @@ class Commit implements \JsonSerializable
 
     public function getCommitDate(): \DateTimeImmutable
     {
-        return \DateTimeImmutable::createFromFormat('Y-m-d\TH:i:s\Z', $this->data['commit']['committer']['date']);
+        return \DateTimeImmutable::createFromFormat(GitHub::DATE_FORMAT, $this->data['commit']['committer']['date']);
     }
 
     public function jsonSerialize(): array
