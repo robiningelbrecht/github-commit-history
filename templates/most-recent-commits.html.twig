@@ -1,0 +1,12 @@
+**{{ title }}**
+{% set maxRepoLength = 0 %}
+{% for commit in commits %}
+    {% set maxRepoLength = maxRepoLength < commit.getRepo()|length ? commit.getRepo()|length: maxRepoLength %}
+{% endfor %}
+{% set maxRepoLength = maxRepoLength + 2 %}
+
+```text
+{% for commit in commits %}
+{{ commit.getCommitDate().format('d-m-Y') }}  {{ commit.getRepo() }}{{ ' '|repeat(maxRepoLength - commit.getRepo()|length) }}{{ commit.getMessage() }}
+{% endfor %}
+```

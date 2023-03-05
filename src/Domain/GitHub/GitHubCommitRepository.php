@@ -41,7 +41,7 @@ class GitHubCommitRepository
     /**
      * @return \App\Domain\GitHub\Commit[]
      */
-    public function findLastImportedCommits(int $limit): array
+    public function findMostRecentCommits(int $limit): array
     {
         $allCommits = $this->findAll();
         usort($allCommits, function (Commit $a, Commit $b) {

@@ -32,22 +32,28 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $dayTimeSummaryContent = $this->buildDayTimeProgressBars();
+        $dayTimeSummaryContent = $this->renderDayTimeProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/commit-history-day-time-summary.html',
             $dayTimeSummaryContent,
         );
 
-        $weekdaySummaryContent = $this->buildWeekdaysProgressBars();
+        $weekdaySummaryContent = $this->renderWeekdaysProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/commit-history-week-day-summary.html',
             $weekdaySummaryContent,
         );
 
-        $reposPerLanguageContent = $this->buildLanguageProgressBars();
+        $reposPerLanguageContent = $this->renderLanguageProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/commit-history-language-summary.html',
             $reposPerLanguageContent,
+        );
+
+        $mostRecentCommitsContent = $this->renderMostRecentCommits();
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/most-recent-commits.html',
+            $mostRecentCommitsContent,
         );
 
         \Safe\file_put_contents(
@@ -69,14 +75,15 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             ->updateTotalCommitCount($commitsSummary['totalCommits'])
             ->updateCommitsPerDayTime($dayTimeSummaryContent)
             ->updateCommitsPerWeekday($weekdaySummaryContent)
-            ->updateReposPerLanguage($reposPerLanguageContent);
+            ->updateReposPerLanguage($reposPerLanguageContent)
+            ->updateMostRecentCommits($mostRecentCommitsContent);
 
         \Safe\file_put_contents($pathToReadMe, (string) $readme);
 
         return Command::SUCCESS;
     }
 
-    private function buildDayTimeProgressBars(): string
+    private function renderDayTimeProgressBars(): string
     {
         $template = $this->twig->load('progress-bars.html.twig');
 
@@ -100,7 +107,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
         ]);
     }
 
-    private function buildWeekdaysProgressBars(): string
+    private function renderWeekdaysProgressBars(): string
     {
         $template = $this->twig->load('progress-bars.html.twig');
 
@@ -124,7 +131,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
         ]);
     }
 
-    private function buildLanguageProgressBars(): string
+    private function renderLanguageProgressBars(): string
     {
         $template = $this->twig->load('progress-bars.html.twig');
 
@@ -149,6 +156,16 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
                 sprintf('%s repos', $reposPerLanguage[$language]),
                 ($reposPerLanguage[$language] / count($repos)) * 100,
             ), array_keys($reposPerLanguage)),
+        ]);
+    }
+
+    public function renderMostRecentCommits(): string
+    {
+        $template = $this->twig->load('most-recent-commits.html.twig');
+
+        return $template->render([
+            'title' => '⏳ Most recent commits',
+            'commits' => $this->gitHubCommitRepository->findMostRecentCommits(10),
         ]);
     }
 
@@ -189,7 +206,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
         $commitsSummary['totalCommits'] = count($this->gitHubCommitRepository->findAll());
         $commitsSummary['firstCommit'] = $this->gitHubCommitRepository->findFirstImportedCommit()->getCommitDate();
-        $commitsSummary['latestCommits'] = $this->gitHubCommitRepository->findLastImportedCommits(10);
+        $commitsSummary['mostRecentCommits'] = $this->gitHubCommitRepository->findMostRecentCommits(10);
 
         return $commitsSummary;
     }

@@ -11,14 +11,14 @@ class ReadMe implements \Stringable
 
     public function updateFirstCommitDate(\DateTimeImmutable $firstCommitDate): self
     {
-        $this->pregReplace('first-commit-date', $firstCommitDate->format('d-m-Y'));
+        $this->pregReplace('first-commit-date', '`'.$firstCommitDate->format('d-m-Y').'`');
 
         return $this;
     }
 
     public function updateTotalCommitCount(int $totalCommitCount): self
     {
-        $this->pregReplace('total-commit-count', $totalCommitCount);
+        $this->pregReplace('total-commit-count', '`'.$totalCommitCount.'`');
 
         return $this;
     }
@@ -40,6 +40,13 @@ class ReadMe implements \Stringable
     public function updateReposPerLanguage(string $content): self
     {
         $this->pregReplace('repos-per-language', $content, true);
+
+        return $this;
+    }
+
+    public function updateMostRecentCommits(string $content): self
+    {
+        $this->pregReplace('most-recent-commits', $content, true);
 
         return $this;
     }
