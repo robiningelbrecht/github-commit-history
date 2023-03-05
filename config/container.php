@@ -1,7 +1,7 @@
 <?php
 
-use App\Domain\GitHubAccessToken;
-use App\Domain\GitHubRepoRepository;
+use App\Domain\GitHub\GitHubAccessToken;
+use App\Domain\GitHub\GitHubRepoRepository;
 use App\Infrastructure\Console\ConsoleCommandContainer;
 use App\Infrastructure\Environment\Environment;
 use App\Infrastructure\Environment\Settings;

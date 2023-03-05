@@ -2,11 +2,11 @@
 
 namespace App\Console;
 
-use App\Domain\Commit;
-use App\Domain\GitHub;
-use App\Domain\GithubRepo;
-use App\Domain\GitHubRepoCommitRepositoryFactory;
-use App\Domain\GitHubRepoRepository;
+use App\Domain\GitHub\Commit;
+use App\Domain\GitHub\GitHub;
+use App\Domain\GitHub\GithubRepo;
+use App\Domain\GitHub\GitHubRepoCommitRepositoryFactory;
+use App\Domain\GitHub\GitHubRepoRepository;
 use App\Infrastructure\Exception\EntityNotFound;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;

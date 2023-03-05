@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Domain;
+namespace App\Domain\GitHub;
 
 class Commit implements \JsonSerializable
 {

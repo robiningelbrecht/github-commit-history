@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Domain;
+namespace App\Domain\GitHub;
 
 use App\Infrastructure\Serialization\Json;
 use GuzzleHttp\Client;

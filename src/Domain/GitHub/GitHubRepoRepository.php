@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Domain;
+namespace App\Domain\GitHub;
 
 use App\Infrastructure\Exception\EntityNotFound;
 use SleekDB\Store;
@@ -13,7 +13,7 @@ class GitHubRepoRepository
     }
 
     /**
-     * @return \App\Domain\GithubRepo[]
+     * @return \App\Domain\GitHub\GithubRepo[]
      */
     public function findAll(): array
     {
