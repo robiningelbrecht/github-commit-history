@@ -5,11 +5,13 @@ namespace App\Console;
 use App\Domain\DayTime;
 use App\Domain\GitHubCommitRepository;
 use App\Domain\GithubRepo;
+use App\Domain\GitHubRepoCommitRepositoryFactory;
 use App\Domain\GitHubRepoRepository;
 use App\Domain\ProgressBar;
 use App\Domain\Weekday;
 use App\Infrastructure\Environment\Settings;
 use App\Infrastructure\Serialization\Json;
+use Safe\DateTimeImmutable;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -22,6 +24,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
     public function __construct(
         private readonly GitHubRepoRepository $gitHubRepoRepository,
         private readonly GitHubCommitRepository $gitHubCommitRepository,
+        private readonly GitHubRepoCommitRepositoryFactory $gitHubRepoCommitRepositoryFactory,
         private readonly Environment $twig
     ) {
         parent::__construct();
@@ -52,8 +55,26 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             Json::encode($this->buildReposForWebsite())
         );
 
+        $commitsSummary = $this->buildCommitsSummary();
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/commits-summary.json',
+            Json::encode($commitsSummary)
+        );
+
         $pathToReadMe = Settings::getAppRoot().'/README.md';
         $readme = \Safe\file_get_contents($pathToReadMe);
+
+        $readme = preg_replace(
+            '/<!--START_SECTION:first-commit-date-->[\s\S]+<!--END_SECTION:first-commit-date-->/',
+            '<!--START_SECTION:first-commit-date-->`'.$commitsSummary['firstCommit']->format('d-m-Y').'`<!--END_SECTION:first-commit-date-->',
+            $readme
+        );
+
+        $readme = preg_replace(
+            '/<!--START_SECTION:total-commit-count-->[\s\S]+<!--END_SECTION:total-commit-count-->/',
+            '<!--START_SECTION:total-commit-count-->`'.$commitsSummary['totalCommits'].'`<!--END_SECTION:total-commit-count-->',
+            $readme
+        );
 
         $readme = preg_replace(
             '/<!--START_SECTION:commits-per-day-time-->[\s\S]+<!--END_SECTION:commits-per-day-time-->/',
@@ -182,5 +203,29 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
         });
 
         return $reposForWebsite;
+    }
+
+    private function buildCommitsSummary(): array
+    {
+        $commitsSummary = [
+            'firstCommit' => new DateTimeImmutable(),
+            'repos' => [],
+        ];
+        $repos = $this->gitHubRepoRepository->findAll();
+        foreach ($repos as $repo) {
+            $commitRepo = $this->gitHubRepoCommitRepositoryFactory->for($repo->getName());
+            $commitsSummary['repos'][$repo->getName()] = [
+                'fullName' => $repo->getFullName(),
+                'commitCount' => count($commitRepo->findAll()),
+            ];
+
+            if ($commitRepo->findFirstImportedCommit()->getCommitDate() < $commitsSummary['firstCommit']) {
+                $commitsSummary['firstCommit'] = $commitRepo->findFirstImportedCommit()->getCommitDate();
+            }
+        }
+
+        $commitsSummary['totalCommits'] = count($this->gitHubCommitRepository->findAll());
+
+        return $commitsSummary;
     }
 }

@@ -33,6 +33,16 @@ class GitHubRepoCommitRepository
         return null;
     }
 
+    public function findFirstImportedCommit(): ?Commit
+    {
+        $commits = $this->store->findAll(['commit.timestamp' => 'asc'], 1);
+        if ($commits) {
+            return Commit::fromMap(reset($commits));
+        }
+
+        return null;
+    }
+
     public function addMany(array $commits): void
     {
         $this->store->insertMany(Json::decode(Json::encode($commits)));

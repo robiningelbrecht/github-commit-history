@@ -1,5 +1,7 @@
 # GitHub commit history
-Contains my personal GitHub commit history
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3179`<!--END_SECTION:total-commit-count--> commits* 🎉.
+
+<sub>*This is not my professional account. This account only contains repositories of personal projects</sub>
 
 <!--START_SECTION:commits-per-day-time-->
 **I&#039;m an Early 🐤**

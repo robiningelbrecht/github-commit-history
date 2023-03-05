@@ -19,6 +19,11 @@ class GithubRepo implements \JsonSerializable
         return $this->data['name'];
     }
 
+    public function getFullName(): string
+    {
+        return $this->data['full_name'];
+    }
+
     public function getOwnerLogin(): string
     {
         return $this->data['owner']['login'];
