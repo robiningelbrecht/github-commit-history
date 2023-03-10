@@ -5,7 +5,7 @@ namespace App\Domain\GitHub;
 class GithubRepo implements \JsonSerializable
 {
     private function __construct(
-        private readonly array $data
+        private array $data
     ) {
     }
 
@@ -51,6 +51,11 @@ class GithubRepo implements \JsonSerializable
     public function getCreatedAt(): \DateTimeImmutable
     {
         return new \DateTimeImmutable($this->data['created_at']);
+    }
+
+    public function updateStargazersCount(int $count): void
+    {
+        $this->data['stargazers_count'] = $count;
     }
 
     public function jsonSerialize(): array

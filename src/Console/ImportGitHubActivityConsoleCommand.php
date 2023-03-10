@@ -28,7 +28,9 @@ class ImportGitHubActivityConsoleCommand extends Command
     {
         foreach ($this->gitHub->getRepos() as $gitHubRepo) {
             try {
-                $this->gitHubRepoRepository->findOneBy($gitHubRepo['full_name']);
+                $repo = $this->gitHubRepoRepository->findOneBy($gitHubRepo['full_name']);
+                $repo->updateStargazersCount($gitHubRepo['stargazers_count']);
+                $this->gitHubRepoRepository->update($repo);
             } catch (EntityNotFound) {
                 if ('github-commit-history' === $gitHubRepo['name']) {
                     continue;

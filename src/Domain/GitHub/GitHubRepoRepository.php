@@ -36,4 +36,9 @@ class GitHubRepoRepository
     {
         $this->store->insert($repo->jsonSerialize());
     }
+
+    public function update(GithubRepo $repo): void
+    {
+        $this->store->update($repo->jsonSerialize());
+    }
 }
