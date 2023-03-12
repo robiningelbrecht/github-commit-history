@@ -37,7 +37,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
     {
         $dayTimeSummaryContent = $this->renderDayTimeProgressBars();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/markdown/commit-history-day-time-summary.html',
+            Settings::getAppRoot().'/build/markdown/commit-history-day-time-summary.md',
             $dayTimeSummaryContent[self::MARKDOWN],
         );
         \Safe\file_put_contents(
@@ -47,7 +47,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
         $weekdaySummaryContent = $this->renderWeekdaysProgressBars();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/markdown/commit-history-week-day-summary.html',
+            Settings::getAppRoot().'/build/markdown/commit-history-week-day-summary.md',
             $weekdaySummaryContent[self::MARKDOWN],
         );
         \Safe\file_put_contents(
@@ -57,7 +57,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
         $reposPerLanguageContent = $this->renderLanguageProgressBars();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/markdown/commit-history-language-summary.html',
+            Settings::getAppRoot().'/build/markdown/commit-history-language-summary.md',
             $reposPerLanguageContent[self::MARKDOWN],
         );
         \Safe\file_put_contents(
@@ -67,7 +67,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
         $mostRecentCommitsContent = $this->renderMostRecentCommits();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/markdown/most-recent-commits.html',
+            Settings::getAppRoot().'/build/markdown/most-recent-commits.md',
             $mostRecentCommitsContent[self::MARKDOWN],
         );
         \Safe\file_put_contents(
