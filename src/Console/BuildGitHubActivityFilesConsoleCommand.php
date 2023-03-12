@@ -21,6 +21,9 @@ use Twig\Environment;
 #[AsCommand(name: 'app:github:build-files', description: 'Build site')]
 class BuildGitHubActivityFilesConsoleCommand extends Command
 {
+    private const MARKDOWN = 'markdown';
+    private const HTML = 'html';
+
     public function __construct(
         private readonly GitHubRepoRepository $gitHubRepoRepository,
         private readonly GitHubCommitRepository $gitHubCommitRepository,
@@ -34,26 +37,42 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
     {
         $dayTimeSummaryContent = $this->renderDayTimeProgressBars();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/commit-history-day-time-summary.html',
-            $dayTimeSummaryContent,
+            Settings::getAppRoot().'/build/markdown/commit-history-day-time-summary.html',
+            $dayTimeSummaryContent[self::MARKDOWN],
+        );
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/html/commit-history-day-time-summary.html',
+            $dayTimeSummaryContent[self::HTML],
         );
 
         $weekdaySummaryContent = $this->renderWeekdaysProgressBars();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/commit-history-week-day-summary.html',
-            $weekdaySummaryContent,
+            Settings::getAppRoot().'/build/markdown/commit-history-week-day-summary.html',
+            $weekdaySummaryContent[self::MARKDOWN],
+        );
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/html/commit-history-week-day-summary.html',
+            $weekdaySummaryContent[self::HTML],
         );
 
         $reposPerLanguageContent = $this->renderLanguageProgressBars();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/commit-history-language-summary.html',
-            $reposPerLanguageContent,
+            Settings::getAppRoot().'/build/markdown/commit-history-language-summary.html',
+            $reposPerLanguageContent[self::MARKDOWN],
+        );
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/html/commit-history-language-summary.html',
+            $reposPerLanguageContent[self::HTML],
         );
 
         $mostRecentCommitsContent = $this->renderMostRecentCommits();
         \Safe\file_put_contents(
-            Settings::getAppRoot().'/build/most-recent-commits.html',
-            $mostRecentCommitsContent,
+            Settings::getAppRoot().'/build/markdown/most-recent-commits.html',
+            $mostRecentCommitsContent[self::MARKDOWN],
+        );
+        \Safe\file_put_contents(
+            Settings::getAppRoot().'/build/html/most-recent-commits.html',
+            $mostRecentCommitsContent[self::HTML],
         );
 
         \Safe\file_put_contents(
@@ -73,20 +92,18 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
         $readme
             ->updateFirstCommitDate($commitsSummary['firstCommit'])
             ->updateTotalCommitCount($commitsSummary['totalCommits'])
-            ->updateCommitsPerDayTime($dayTimeSummaryContent)
-            ->updateCommitsPerWeekday($weekdaySummaryContent)
-            ->updateReposPerLanguage($reposPerLanguageContent)
-            ->updateMostRecentCommits($mostRecentCommitsContent);
+            ->updateCommitsPerDayTime($dayTimeSummaryContent[self::MARKDOWN])
+            ->updateCommitsPerWeekday($weekdaySummaryContent[self::MARKDOWN])
+            ->updateReposPerLanguage($reposPerLanguageContent[self::MARKDOWN])
+            ->updateMostRecentCommits($mostRecentCommitsContent[self::MARKDOWN]);
 
         \Safe\file_put_contents($pathToReadMe, (string) $readme);
 
         return Command::SUCCESS;
     }
 
-    private function renderDayTimeProgressBars(): string
+    private function renderDayTimeProgressBars(): array
     {
-        $template = $this->twig->load('progress-bars.html.twig');
-
         $commitsPerDayTime = [];
         $commits = $this->gitHubCommitRepository->findAll();
         foreach ($commits as $commit) {
@@ -97,20 +114,23 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             ++$commitsPerDayTime[$dayTime->value];
         }
 
-        return $template->render([
+        $templateContext = [
             'title' => array_sum(array_slice($commitsPerDayTime, 0, 2)) > array_sum(array_slice($commitsPerDayTime, 2, 2)) ? "I'm an Early 🐤" : "I'm a Night 🦉",
             'progressBars' => array_map(fn (DayTime $dayTime) => ProgressBar::fromValues(
                 $dayTime->getEmoji().' '.$dayTime->value,
                 sprintf('%s commits', $commitsPerDayTime[$dayTime->value]),
                 ($commitsPerDayTime[$dayTime->value] / count($commits)) * 100,
             ), DayTime::cases()),
-        ]);
+        ];
+
+        return [
+            self::MARKDOWN => $this->twig->load('progress-bars-markdown.html.twig')->render($templateContext),
+            self::HTML => $this->twig->load('progress-bars-html.html.twig')->render($templateContext),
+        ];
     }
 
-    private function renderWeekdaysProgressBars(): string
+    private function renderWeekdaysProgressBars(): array
     {
-        $template = $this->twig->load('progress-bars.html.twig');
-
         $commitsPerWeekday = [];
         $commits = $this->gitHubCommitRepository->findAll();
         foreach ($commits as $commit) {
@@ -121,20 +141,23 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             ++$commitsPerWeekday[$weekday->value];
         }
 
-        return $template->render([
+        $templateContext = [
             'title' => "📅 I'm Most Productive on ".array_search(max($commitsPerWeekday), $commitsPerWeekday),
             'progressBars' => array_map(fn (Weekday $weekday) => ProgressBar::fromValues(
                 $weekday->value,
                 sprintf('%s commits', $commitsPerWeekday[$weekday->value]),
                 ($commitsPerWeekday[$weekday->value] / count($commits)) * 100,
             ), Weekday::cases()),
-        ]);
+        ];
+
+        return [
+            self::MARKDOWN => $this->twig->load('progress-bars-markdown.html.twig')->render($templateContext),
+            self::HTML => $this->twig->load('progress-bars-html.html.twig')->render($templateContext),
+        ];
     }
 
-    private function renderLanguageProgressBars(): string
+    private function renderLanguageProgressBars(): array
     {
-        $template = $this->twig->load('progress-bars.html.twig');
-
         $reposPerLanguage = [];
         $repos = $this->gitHubRepoRepository->findAll();
         foreach ($repos as $repo) {
@@ -149,24 +172,32 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
         arsort($reposPerLanguage);
 
-        return $template->render([
+        $templateContext = [
             'title' => '💬 I mostly code in '.array_search(max($reposPerLanguage), $reposPerLanguage),
             'progressBars' => array_map(fn (string $language) => ProgressBar::fromValues(
                 $language,
                 sprintf('%s repos', $reposPerLanguage[$language]),
                 ($reposPerLanguage[$language] / count($repos)) * 100,
             ), array_keys($reposPerLanguage)),
-        ]);
+        ];
+
+        return [
+            self::MARKDOWN => $this->twig->load('progress-bars-markdown.html.twig')->render($templateContext),
+            self::HTML => $this->twig->load('progress-bars-html.html.twig')->render($templateContext),
+        ];
     }
 
-    public function renderMostRecentCommits(): string
+    public function renderMostRecentCommits(): array
     {
-        $template = $this->twig->load('most-recent-commits.html.twig');
-
-        return $template->render([
+        $templateContext = [
             'title' => '⏳ Most recent commits',
             'commits' => $this->gitHubCommitRepository->findMostRecentCommits(10),
-        ]);
+        ];
+
+        return [
+            self::MARKDOWN => $this->twig->load('most-recent-commits-markdown.html.twig')->render($templateContext),
+            self::HTML => $this->twig->load('most-recent-commits-html.html.twig')->render($templateContext),
+        ];
     }
 
     private function buildReposForWebsite(): array

@@ -1,0 +1,13 @@
+<div class="progress-bars">
+    <div class="title">{{ title }}</div>
+    {% for progressBar in progressBars %}
+    <div class="progress-bar">
+        <div class="label">{{ progressBar.getLabel() }}</div>
+        <div class="description">{{ progressBar.getQuantityDescription() }}</div>
+        <div class="progress">
+            {{ '█'|repeat((progressBar.getPercentage() / 4)|round) }}{{ '░'|repeat(25 - (progressBar.getPercentage() / 4)|round) }}
+        </div>
+        <div class="percentage">{{ progressBar.getPercentage()|number_format(2, '.', '') }} %</div>
+    </div>
+    {% endfor %}
+</div>

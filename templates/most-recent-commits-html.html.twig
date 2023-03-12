@@ -1,0 +1,13 @@
+<div class="title">{{ title }}</div>
+
+<div class="commits">
+    {% for commit in commits %}
+        <div class="commit">
+            <div class="date">{{ commit.getCommitDate().format('d-m-Y') }}</div>
+            <div class="repo">{{ commit.getRepo() }}</div>
+            <div class="message">{{ commit.getMessage() }}</div>
+        </div>
+    {% endfor %}
+</div>
+
+
