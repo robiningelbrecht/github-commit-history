@@ -1,13 +1,15 @@
 <div class="progress-bars">
     <div class="title">{{ title }}</div>
-    {% for progressBar in progressBars %}
-    <div class="progress-bar">
-        <div class="label">{{ progressBar.getLabel() }}</div>
-        <div class="description">{{ progressBar.getQuantityDescription() }}</div>
-        <div class="progress">
-            <div class="progress-fill" style="width: {{ progressBar.getPercentage()|round }}%"></div>
-        </div>
-        <div class="percentage">{{ progressBar.getPercentage()|number_format(2, '.', '') }} %</div>
+    <div class="inner">
+        {% for progressBar in progressBars %}
+            <div class="progress-bar">
+                <div class="label">{{ progressBar.getLabel() }}</div>
+                <div class="description">{{ progressBar.getQuantityDescription() }}</div>
+                <div class="progress">
+                    <div class="progress-fill" style="width: {{ progressBar.getPercentage()|round }}%"></div>
+                </div>
+                <div class="percentage">{{ progressBar.getPercentage()|number_format(2, '.', '') }} %</div>
+            </div>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
