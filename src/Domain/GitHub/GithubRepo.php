@@ -53,9 +53,18 @@ class GithubRepo implements \JsonSerializable
         return new \DateTimeImmutable($this->data['created_at']);
     }
 
-    public function updateStargazersCount(int $count): void
+    public function updateStargazersCount(int $count): self
     {
         $this->data['stargazers_count'] = $count;
+
+        return $this;
+    }
+
+    public function updateTopics(array $topics): self
+    {
+        $this->data['topics'] = $topics;
+
+        return $this;
     }
 
     public function jsonSerialize(): array
