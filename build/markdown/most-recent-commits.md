@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-16-04-2023  code-scope                  Started with tree view
-16-04-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltalope
-16-04-2023  code-scope                  Fetch file contents from GitHub
-15-04-2023  robiningelbrecht            Updated GitHub profile
-15-04-2023  robiningelbrecht.be         New site build
-15-04-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Aqualisse
-15-04-2023  code-scope                  Parse clover.xml and save to db
-15-04-2023  playstation-easy-platinums  Updated files
-15-04-2023  playstation-easy-platinums  Added 2 new games to list: Sable&#039;s Grimoire: A Dragon&#039;s Treasure (NA • PS4), Cannon Dancer: Osman (PS4)
-14-04-2023  robiningelbrecht            Updated GitHub profile
+17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (EU • PS4) to €4.99 via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (EU • PS5) to €4.99 via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (NA • PS4) to $4.99 via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for Ultra Pixel Survive (NA • PS5) to $4.99 via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for Sable&#039;s Grimoire: A Dragon&#039;s Treasure (EU • PS4) to €5.99 via workflow
+17-04-2023  playstation-easy-platinums  Manually removed game Wo Long: Fallen Dynasty (PS4) via workflow
+17-04-2023  playstation-easy-platinums  Manually removed game Resident Evil 4 (PS5) via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for The Waiting Game (EU • PS4) to €3.99 via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for The Waiting Game (NA • PS4) to $3.99 via workflow
+17-04-2023  playstation-easy-platinums  Manual price update for The Waiting Game (PS5) to $3.99 via workflow
 ```
