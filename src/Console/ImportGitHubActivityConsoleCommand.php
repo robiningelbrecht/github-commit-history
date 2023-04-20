@@ -8,6 +8,7 @@ use App\Domain\GitHub\GithubRepo;
 use App\Domain\GitHub\GitHubRepoCommitRepositoryFactory;
 use App\Domain\GitHub\GitHubRepoRepository;
 use App\Infrastructure\Exception\EntityNotFound;
+use GuzzleHttp\Exception\RequestException;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -52,12 +53,16 @@ class ImportGitHubActivityConsoleCommand extends Command
             $sinceDate = $commitRepository->findLastImportedCommit()?->getCommitDate();
 
             foreach (['robiningelbrecht', 'robin@baldwin.be', 'robin.ingelbrecht@entityone.be'] as $author) {
-                $commits = $this->gitHub->getRepoCommits(
-                    $repo->getOwnerLogin(),
-                    $repo->getName(),
-                    $author,
-                    $sinceDate
-                );
+                try {
+                    $commits = $this->gitHub->getRepoCommits(
+                        $repo->getOwnerLogin(),
+                        $repo->getName(),
+                        $author,
+                        $sinceDate
+                    );
+                } catch (RequestException) {
+                    continue;
+                }
 
                 if (!$commits) {
                     continue;
