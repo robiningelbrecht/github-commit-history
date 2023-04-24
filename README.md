@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3528`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3550`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-23-04-2023  phpunit-coverage-tools  Readme
-23-04-2023  phpunit-coverage-tools  Readme
-23-04-2023  gotta-generate-em-all   Generated a new fighting-type Pokémon named Canyobra
-22-04-2023  robiningelbrecht        Updated GitHub profile
-22-04-2023  robiningelbrecht.be     New site build
-22-04-2023  gotta-generate-em-all   Generated a new water-type Pokémon named Maskigail
-21-04-2023  robiningelbrecht        Updated GitHub profile
-21-04-2023  robiningelbrecht.be     New site build
-21-04-2023  gotta-generate-em-all   Generated a new water-type Pokémon named Sapphilisk
-21-04-2023  phpunit-coverage-tools  Initial commit
+24-04-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltlejewel
+24-04-2023  phpunit-pretty-print        Updated to PHPUnit 10.1
+24-04-2023  phpunit-coverage-tools      Fixed typo in readme
+24-04-2023  phpunit-coverage-tools      Added examples to readme
+24-04-2023  phpunit-coverage-tools      Update README.md
+24-04-2023  phpunit-coverage-tools      Update README.md
+24-04-2023  phpunit-coverage-tools      Update README.md
+24-04-2023  playstation-easy-platinums  Manually removed game Peppa Pig: World Adventures (PS4) via workflow
+24-04-2023  phpunit-coverage-tools      Fix CI
+24-04-2023  playstation-easy-platinums  Manually removed game Peppa Pig: World Adventures (PS5) via workflow
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 995 commits      ███████░░░░░░░░░░░░░░░░░░   28.20 %
-🌆 Daytime                 1369 commits     ██████████░░░░░░░░░░░░░░░   38.80 %
-🌃 Evening                 845 commits      ██████░░░░░░░░░░░░░░░░░░░   23.95 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.04 %
+🌞 Morning                 1014 commits     ███████░░░░░░░░░░░░░░░░░░   28.56 %
+🌆 Daytime                 1370 commits     ██████████░░░░░░░░░░░░░░░   38.59 %
+🌃 Evening                 847 commits      ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.99 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    601 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.04 %
-Tuesday                   434 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Wednesday                 539 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.28 %
-Thursday                  448 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Friday                    518 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Saturday                  457 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Sunday                    531 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Monday                    621 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.49 %
+Tuesday                   434 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Wednesday                 539 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Thursday                  448 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Friday                    518 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Saturday                  457 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Sunday                    533 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.01 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 

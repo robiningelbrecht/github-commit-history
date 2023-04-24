@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-23-04-2023  phpunit-coverage-tools  Readme
-23-04-2023  phpunit-coverage-tools  Readme
-23-04-2023  gotta-generate-em-all   Generated a new fighting-type Pokémon named Canyobra
-22-04-2023  robiningelbrecht        Updated GitHub profile
-22-04-2023  robiningelbrecht.be     New site build
-22-04-2023  gotta-generate-em-all   Generated a new water-type Pokémon named Maskigail
-21-04-2023  robiningelbrecht        Updated GitHub profile
-21-04-2023  robiningelbrecht.be     New site build
-21-04-2023  gotta-generate-em-all   Generated a new water-type Pokémon named Sapphilisk
-21-04-2023  phpunit-coverage-tools  Initial commit
+24-04-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltlejewel
+24-04-2023  phpunit-pretty-print        Updated to PHPUnit 10.1
+24-04-2023  phpunit-coverage-tools      Fixed typo in readme
+24-04-2023  phpunit-coverage-tools      Added examples to readme
+24-04-2023  phpunit-coverage-tools      Update README.md
+24-04-2023  phpunit-coverage-tools      Update README.md
+24-04-2023  phpunit-coverage-tools      Update README.md
+24-04-2023  playstation-easy-platinums  Manually removed game Peppa Pig: World Adventures (PS4) via workflow
+24-04-2023  phpunit-coverage-tools      Fix CI
+24-04-2023  playstation-easy-platinums  Manually removed game Peppa Pig: World Adventures (PS5) via workflow
 ```
