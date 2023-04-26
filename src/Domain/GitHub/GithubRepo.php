@@ -74,6 +74,13 @@ class GithubRepo implements \JsonSerializable
         return $this;
     }
 
+    public function updateLanguage(string $language = null): self
+    {
+        $this->data['language'] = $language;
+
+        return $this;
+    }
+
     public function jsonSerialize(): array
     {
         return $this->data;

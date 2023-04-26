@@ -76,7 +76,7 @@
     "size": 1,
     "stargazers_count": 9,
     "watchers_count": 0,
-    "language": null,
+    "language": "PHP",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
@@ -99,7 +99,6 @@
     "is_template": false,
     "web_commit_signoff_required": false,
     "topics": [
-      "code",
       "codecoverage",
       "phpunit",
       "phpunit10",

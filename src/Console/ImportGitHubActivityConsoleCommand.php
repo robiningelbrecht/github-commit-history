@@ -34,7 +34,7 @@ class ImportGitHubActivityConsoleCommand extends Command
                     ->updateStargazersCount($gitHubRepo['stargazers_count'])
                     ->updateTopics($gitHubRepo['topics'])
                     ->updateDescription($gitHubRepo['description'] ?? null)
-                ;
+                    ->updateLanguage($gitHubRepo['language']);
 
                 $this->gitHubRepoRepository->update($repo);
             } catch (EntityNotFound) {
