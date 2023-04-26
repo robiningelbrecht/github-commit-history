@@ -32,7 +32,9 @@ class ImportGitHubActivityConsoleCommand extends Command
                 $repo = $this->gitHubRepoRepository->findOneBy($gitHubRepo['full_name']);
                 $repo
                     ->updateStargazersCount($gitHubRepo['stargazers_count'])
-                    ->updateTopics($gitHubRepo['topics']);
+                    ->updateTopics($gitHubRepo['topics'])
+                    ->updateDescription($gitHubRepo['description'] ?? null)
+                ;
 
                 $this->gitHubRepoRepository->update($repo);
             } catch (EntityNotFound) {

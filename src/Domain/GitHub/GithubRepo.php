@@ -67,6 +67,13 @@ class GithubRepo implements \JsonSerializable
         return $this;
     }
 
+    public function updateDescription(string $description = null): self
+    {
+        $this->data['description'] = $description;
+
+        return $this;
+    }
+
     public function jsonSerialize(): array
     {
         return $this->data;
