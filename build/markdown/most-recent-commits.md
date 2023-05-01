@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-30-04-2023  phpunit-pretty-print        Update README.md
-30-04-2023  phpunit-pretty-print        Better testing. Not relying on output of Collision
-30-04-2023  playstation-easy-platinums  Manual price update for Tip Top: Don&#039;t Fall! (NA • PS5) to $9.99 via workflow
-30-04-2023  playstation-easy-platinums  Manual price update for Tip Top: Don&#039;t Fall! (PS5) to $9.99 via workflow
-30-04-2023  playstation-easy-platinums  Added 10 new games to list: Loopy Ball (PS4), Loopy Ball (PS5), Loopy Ball (PS4), Loopy Ball (PS5), Bot Gaiden (EU • PS5), Bot Gaiden (EU • PS4), Bot Gaiden (NA • PS5), Tip Top: Don&#039;t Fall! (PS5), Tip Top: Don&#039;t Fall! (PS5), Tip Top: Don&#039;t Fall! (NA • PS5)
-30-04-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Antlichorn
-29-04-2023  robiningelbrecht            Updated GitHub profile
-29-04-2023  robiningelbrecht.be         New site build
-29-04-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Aqueleviath
-28-04-2023  robiningelbrecht            Updated GitHub profile
+01-05-2023  playstation-easy-platinums  Manual price update for DoraKone (PS4) to $4.99 via workflow
+01-05-2023  playstation-easy-platinums  Manually removed game Boss Rush: Mythology (PS5) via workflow
+01-05-2023  playstation-easy-platinums  Manual price update for DoraKone (PS5) to $4.99 via workflow
+01-05-2023  playstation-easy-platinums  Added 11 new games to list: DoraKone (PS5), DoraKone (PS4), イハナシの魔女 (JP • PS4), イハナシの魔女 (JP • PS5), DoraKone (PS4), DoraKone (PS5), Boss Rush: Mythology (PS5), Seven Doors (NA • PS5), Seven Doors (NA • PS4), Don&#039;t Destroy The Rocket (NA • PS4), Don&#039;t Destroy The Rocket (EU • PS4)
+01-05-2023  phpunit-coverage-tools      Fixed bug while determining --clean-up-clover-xml
+01-05-2023  phpunit-coverage-tools      Allow to set cleanUpCloverXml
+01-05-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Arboguard
+01-05-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Sapphydra
+30-04-2023  robiningelbrecht            Updated GitHub profile
+30-04-2023  robiningelbrecht.be         New site build
 ```
