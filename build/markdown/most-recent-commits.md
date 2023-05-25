@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
+25-05-2023  strava-activities           Removed debug code
+25-05-2023  strava-activities           Import trophies
+25-05-2023  playstation-easy-platinums  Added 6 new games to list: Casino Roulette Royal (EU • PS4), Casino Roulette Royal (NA • PS4), Laserpitium (PS4), Unalive 010 (NA • PS4), Tilting Tiles: Micro Challenge (PS4), Tilting Tiles: Micro Challenge (PS4)
+25-05-2023  strava-activities           Updated activiti&#039;es
+25-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Opaleer
+25-05-2023  strava-activities           Oldest activity first
+24-05-2023  robiningelbrecht            Updated GitHub profile
+24-05-2023  robiningelbrecht.be         New site build
 24-05-2023  strava-activities           .env$
 24-05-2023  strava-activities           GitHub Workflow
-24-05-2023  strava-activities           first commit
-24-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Crystantler
-23-05-2023  robiningelbrecht            Updated GitHub profile
-23-05-2023  robiningelbrecht.be         New site build
-23-05-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Armorling
-23-05-2023  playstation-easy-platinums  Added 4 new games to list: Hidden Bunny (AS • PS5), Hidden Bunny (JP • PS5), Hidden Bunny (NA • PS5), Hidden Bunny (EU • PS5)
-22-05-2023  robiningelbrecht            Updated GitHub profile
-22-05-2023  robiningelbrecht.be         New site build
 ```

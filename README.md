@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3728`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3736`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
+25-05-2023  strava-activities           Removed debug code
+25-05-2023  strava-activities           Import trophies
+25-05-2023  playstation-easy-platinums  Added 6 new games to list: Casino Roulette Royal (EU • PS4), Casino Roulette Royal (NA • PS4), Laserpitium (PS4), Unalive 010 (NA • PS4), Tilting Tiles: Micro Challenge (PS4), Tilting Tiles: Micro Challenge (PS4)
+25-05-2023  strava-activities           Updated activiti&#039;es
+25-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Opaleer
+25-05-2023  strava-activities           Oldest activity first
+24-05-2023  robiningelbrecht            Updated GitHub profile
+24-05-2023  robiningelbrecht.be         New site build
 24-05-2023  strava-activities           .env$
 24-05-2023  strava-activities           GitHub Workflow
-24-05-2023  strava-activities           first commit
-24-05-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Crystantler
-23-05-2023  robiningelbrecht            Updated GitHub profile
-23-05-2023  robiningelbrecht.be         New site build
-23-05-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Armorling
-23-05-2023  playstation-easy-platinums  Added 4 new games to list: Hidden Bunny (AS • PS5), Hidden Bunny (JP • PS5), Hidden Bunny (NA • PS5), Hidden Bunny (EU • PS5)
-22-05-2023  robiningelbrecht            Updated GitHub profile
-22-05-2023  robiningelbrecht.be         New site build
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1073 commits     ███████░░░░░░░░░░░░░░░░░░   28.78 %
-🌆 Daytime                 1418 commits     ██████████░░░░░░░░░░░░░░░   38.04 %
-🌃 Evening                 918 commits      ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.56 %
+🌞 Morning                 1074 commits     ███████░░░░░░░░░░░░░░░░░░   28.75 %
+🌆 Daytime                 1423 commits     ██████████░░░░░░░░░░░░░░░   38.09 %
+🌃 Evening                 920 commits      ██████░░░░░░░░░░░░░░░░░░░   24.63 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.54 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    655 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.57 %
-Tuesday                   469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Wednesday                 577 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Thursday                  463 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-Friday                    544 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Saturday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Sunday                    551 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.78 %
+Monday                    655 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.53 %
+Tuesday                   469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Thursday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Friday                    544 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Saturday                  469 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+Sunday                    551 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.75 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
