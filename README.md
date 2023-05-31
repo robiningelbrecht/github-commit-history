@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3778`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`3811`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-30-05-2023  strava-activities      Order on CreatedOn
-30-05-2023  strava-activities      Store created date on challenges
-30-05-2023  strava-activities      Renamed Trophy to Challenge
-30-05-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Crownbeak
-29-05-2023  robiningelbrecht       Updated GitHub profile
-29-05-2023  robiningelbrecht.be    New site build
-29-05-2023  robiningelbrecht       Strava activities
-29-05-2023  strava-activities      Use absolute urls to images
-29-05-2023  strava-activities      Use absolute urls to images
-29-05-2023  strava-activities      Align text
+31-05-2023  strava-activities  Alts and titles
+31-05-2023  strava-activities  Removed tmp file
+31-05-2023  strava-activities  Added all challenges
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Added totals
+31-05-2023  strava-activities  Font sizes
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.59 %
-🌆 Daytime                 1444 commits     ██████████░░░░░░░░░░░░░░░   38.22 %
-🌃 Evening                 935 commits      ██████░░░░░░░░░░░░░░░░░░░   24.75 %
-🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.44 %
+🌞 Morning                 1080 commits     ███████░░░░░░░░░░░░░░░░░░   28.34 %
+🌆 Daytime                 1470 commits     ██████████░░░░░░░░░░░░░░░   38.57 %
+🌃 Evening                 942 commits      ██████░░░░░░░░░░░░░░░░░░░   24.72 %
+🌙 Night                   319 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.37 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
-Tuesday                   473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Wednesday                 579 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
-Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Monday                    673 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
+Tuesday                   477 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Wednesday                 608 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Thursday                  472 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Friday                    552 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Saturday                  473 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Sunday                    556 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
@@ -51,10 +51,10 @@ PHP                       20 repos         ███████████░�
 JavaScript                9 repos          █████░░░░░░░░░░░░░░░░░░░░   19.57 %
 CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   8.70 %
 HTML                      4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   8.70 %
-Python                    1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
-TypeScript                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
-Dockerfile                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
 Shell                     1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
+Python                    1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
+Dockerfile                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
+TypeScript                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
