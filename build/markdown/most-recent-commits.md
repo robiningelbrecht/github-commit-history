@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-19-06-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Ironusk
-19-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (NA • PS4) to $9.99 via workflow
-19-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (NA • PS5) to $9.99 via workflow
-19-06-2023  playstation-easy-platinums  Added 5 new games to list: S Lanes (EU • PS4), The Fairy&#039;s Song (NA • PS4), The Fairy&#039;s Song (NA • PS5), Learn Hiragana!! (AS • PS4), Learn Katakana!! (AS • PS4)
-18-06-2023  robiningelbrecht            Updated GitHub profile
-18-06-2023  robiningelbrecht.be         New site build
-18-06-2023  strava-activities           Updated strava activities
-18-06-2023  strava-activities           Update 59.json
-18-06-2023  strava-activities           Updated strava activities
-18-06-2023  strava-activities           Update 75.json
+20-06-2023  strava-activities           Updated strava activities
+20-06-2023  strava-activities           Updated strava activities
+20-06-2023  strava-activities           Added challenges to statistics
+20-06-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Grassbeakon
+20-06-2023  strava-activities           Some status
+20-06-2023  strava-activities           Added Gear repo and import
+20-06-2023  strava-activities           Added Gear repo and import
+20-06-2023  strava-activities           Imported gear
+20-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (EU • PS4) to €9.99 via workflow
+20-06-2023  playstation-easy-platinums  Manual price update for The Fairy&#039;s Song (EU • PS5) to €9.99 via workflow
 ```
