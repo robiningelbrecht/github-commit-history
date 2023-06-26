@@ -1,7 +1,14 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4132`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4148`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
+**⏳ Most recent commits**
+                                        
+```text
+26-06-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Infernoxeon
+26-06-2023  wca-rest-api                Started with person API
+26-06-2023  wca-rest-api                Better API naming
+26-06-2023  playstation-easy-platinums  Manual price update for Elliot: Story Three - My First Date RPG (NA • PS4) to <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
@@ -16,16 +23,24 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 25-06-2023  strava-activities           Incomplete activities
 25-06-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltapurr
 ```
+<!--END_SECTION:most-recent-commits-->.99 via workflow
+26-06-2023  playstation-easy-platinums  Manual price update for Elliot: Story Three - My First Date RPG (EU • PS4) to €0.99 via workflow
+26-06-2023  playstation-easy-platinums  Added 4 new games to list: Road Bustle 2 (EU • PS4), Road Bustle 2 (JP • PS4), Galactic Lords (AS • PS4), Road Bustle 2 (NA • PS4)
+25-06-2023  robiningelbrecht            Updated GitHub profile
+25-06-2023  robiningelbrecht.be         New site build
+25-06-2023  wca-rest-api                Started with person API
+25-06-2023  wca-rest-api                Started with person API
+```
 <!--END_SECTION:most-recent-commits-->  
 
 <!--START_SECTION:commits-per-day-time-->
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1166 commits     ███████░░░░░░░░░░░░░░░░░░   28.22 %
-🌆 Daytime                 1592 commits     ██████████░░░░░░░░░░░░░░░   38.53 %
-🌃 Evening                 1054 commits     ██████░░░░░░░░░░░░░░░░░░░   25.51 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.74 %
+🌞 Morning                 1170 commits     ███████░░░░░░░░░░░░░░░░░░   28.21 %
+🌆 Daytime                 1594 commits     ██████████░░░░░░░░░░░░░░░   38.43 %
+🌃 Evening                 1064 commits     ██████░░░░░░░░░░░░░░░░░░░   25.65 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.71 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +48,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    707 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.11 %
-Tuesday                   526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
-Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-Sunday                    597 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Monday                    713 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.19 %
+Tuesday                   526 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.78 %
+Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 

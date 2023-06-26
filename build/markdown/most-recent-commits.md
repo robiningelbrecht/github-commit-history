@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-25-06-2023  strava-activities           Updated strava activities
-25-06-2023  wca-rest-api                Fixed date ranges
-25-06-2023  wca-rest-api                Competition overview
-25-06-2023  wca-rest-api                Some testing
-25-06-2023  wca-rest-api                Script to import WCA export
-25-06-2023  playstation-easy-platinums  Added 17 new games to list: Cate P (JP • PS4), Cate P (AS • PS4), Tower Up (PS4), Donuts in Space (EU • PS5), Donuts in Space (NA • PS5), Elliot: Story Three - My First Date RPG (NA • PS4), Elliot: Story Three - My First Date RPG (EU • PS4), Cate P (NA • PS4), Cate P (EU • PS4), Donuts in Space (AS • PS4), Donuts in Space (AS • PS5), Match Master (JP • PS4), Match Master (JP • PS5), Match Master (JP • PS4), Match Master (AS • PS5), Tower Up (PS4), Galactic Lords (JP • PS4)
-25-06-2023  wca-rest-api                Initial commit
-25-06-2023  wca-rest-api                Initial commit
-25-06-2023  strava-activities           Incomplete activities
-25-06-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltapurr
+26-06-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Infernoxeon
+26-06-2023  wca-rest-api                Started with person API
+26-06-2023  wca-rest-api                Better API naming
+26-06-2023  playstation-easy-platinums  Manual price update for Elliot: Story Three - My First Date RPG (NA • PS4) to $0.99 via workflow
+26-06-2023  playstation-easy-platinums  Manual price update for Elliot: Story Three - My First Date RPG (EU • PS4) to €0.99 via workflow
+26-06-2023  playstation-easy-platinums  Added 4 new games to list: Road Bustle 2 (EU • PS4), Road Bustle 2 (JP • PS4), Galactic Lords (AS • PS4), Road Bustle 2 (NA • PS4)
+25-06-2023  robiningelbrecht            Updated GitHub profile
+25-06-2023  robiningelbrecht.be         New site build
+25-06-2023  wca-rest-api                Started with person API
+25-06-2023  wca-rest-api                Started with person API
 ```
