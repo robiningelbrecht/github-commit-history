@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4159`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4170`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-27-06-2023  strava-activities           Updated strava activities
-27-06-2023  wca-rest-api                openapi.json
-27-06-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Lavaguard
-27-06-2023  playstation-easy-platinums  Added 3 new games to list: Road Bustle 2 (AS • PS4), Neko Secret Homecoming Light (NA • PS4), Neko Secret Homecoming Light (NA • PS5)
-27-06-2023  robiningelbrecht            Update README.md
-26-06-2023  robiningelbrecht            Updated GitHub profile
-26-06-2023  robiningelbrecht.be         New site build
-26-06-2023  strava-activities           Updated strava activities
-26-06-2023  wca-rest-api                Readme
-26-06-2023  wca-rest-api                Readme
+28-06-2023  wca-rest-api           Docs for competition per event
+28-06-2023  wca-rest-api           Competitions per events
+28-06-2023  wca-rest-api           Better endpoints for competitions
+28-06-2023  gotta-generate-em-all  Generated a new psychic-type Pokémon named Mystiplume
+28-06-2023  wca-rest-api           PHPstan fml
+28-06-2023  wca-rest-api           Better formatting of wca delegates and organisers
+28-06-2023  wca-rest-api           Renamed some endpoints
+27-06-2023  robiningelbrecht       Updated GitHub profile
+27-06-2023  robiningelbrecht.be    New site build
+27-06-2023  wca-rest-api           Fixed version detection
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1172 commits     ███████░░░░░░░░░░░░░░░░░░   28.18 %
-🌆 Daytime                 1597 commits     ██████████░░░░░░░░░░░░░░░   38.40 %
-🌃 Evening                 1070 commits     ██████░░░░░░░░░░░░░░░░░░░   25.73 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
+🌞 Morning                 1175 commits     ███████░░░░░░░░░░░░░░░░░░   28.18 %
+🌆 Daytime                 1601 commits     ██████████░░░░░░░░░░░░░░░   38.39 %
+🌃 Evening                 1074 commits     ██████░░░░░░░░░░░░░░░░░░░   25.76 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.67 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
-Tuesday                   531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Wednesday                 660 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
+Tuesday                   535 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.83 %
+Wednesday                 667 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
