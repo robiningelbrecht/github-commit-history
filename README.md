@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4170`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4180`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-28-06-2023  wca-rest-api           Docs for competition per event
-28-06-2023  wca-rest-api           Competitions per events
-28-06-2023  wca-rest-api           Better endpoints for competitions
-28-06-2023  gotta-generate-em-all  Generated a new psychic-type Pokémon named Mystiplume
-28-06-2023  wca-rest-api           PHPstan fml
-28-06-2023  wca-rest-api           Better formatting of wca delegates and organisers
-28-06-2023  wca-rest-api           Renamed some endpoints
-27-06-2023  robiningelbrecht       Updated GitHub profile
-27-06-2023  robiningelbrecht.be    New site build
-27-06-2023  wca-rest-api           Fixed version detection
+29-06-2023  strava-activities      Updated strava activities
+29-06-2023  wca-rest-api           Docs for rankings API call
+29-06-2023  wca-rest-api           Added rank API
+29-06-2023  wca-rest-api           Continents api
+29-06-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Crownquatic
+29-06-2023  wca-rest-api           Added totod
+29-06-2023  wca-rest-api           Started with rank API
+28-06-2023  robiningelbrecht.be    New site build
+28-06-2023  robiningelbrecht       Updated GitHub profile
+28-06-2023  wca-rest-api           Typo
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1175 commits     ███████░░░░░░░░░░░░░░░░░░   28.18 %
-🌆 Daytime                 1601 commits     ██████████░░░░░░░░░░░░░░░   38.39 %
-🌃 Evening                 1074 commits     ██████░░░░░░░░░░░░░░░░░░░   25.76 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.67 %
+🌞 Morning                 1177 commits     ███████░░░░░░░░░░░░░░░░░░   28.16 %
+🌆 Daytime                 1606 commits     ██████████░░░░░░░░░░░░░░░   38.42 %
+🌃 Evening                 1077 commits     ██████░░░░░░░░░░░░░░░░░░░   25.77 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.66 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
-Tuesday                   535 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.83 %
-Wednesday                 667 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Thursday                  530 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Monday                    719 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.20 %
+Tuesday                   535 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Wednesday                 670 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Thursday                  537 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Friday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Saturday                  505 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Sunday                    607 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
@@ -49,12 +49,12 @@ Sunday                    607 commits      ████░░░░░░░░�
 ```text
 PHP                       23 repos         ████████████░░░░░░░░░░░░░   46.00 %
 JavaScript                9 repos          █████░░░░░░░░░░░░░░░░░░░░   18.00 %
-HTML                      4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   8.00 %
 CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   8.00 %
+HTML                      4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   8.00 %
 Shell                     1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
-Python                    1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
-Dockerfile                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
 TypeScript                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
+Dockerfile                1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
+Python                    1 repos          █░░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
