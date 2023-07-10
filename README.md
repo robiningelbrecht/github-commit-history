@@ -1,7 +1,16 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4286`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4298`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
+**⏳ Most recent commits**
+                                        
+```text
+10-07-2023  strava-activities           Updated strava activities
+10-07-2023  wca-rest-api                Added dark mode to docs
+10-07-2023  notion-media-cdn            Added media to CDN
+10-07-2023  wca-rest-api                New API build
+10-07-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Regabeakon
+10-07-2023  playstation-easy-platinums  Manual price update for The Scavenger Hunt: Switzerland (PS4) to <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
@@ -16,16 +25,22 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 09-07-2023  wca-rest-api             Update README.md
 09-07-2023  wca-rest-api             ci.yml attempt 3
 ```
+<!--END_SECTION:most-recent-commits-->.99 via workflow
+10-07-2023  playstation-easy-platinums  Manual price update for ChronoBreach Ultra (PS5) to .99 via workflow
+10-07-2023  playstation-easy-platinums  Manual price update for ChronoBreach Ultra (PS4) to .99 via workflow
+10-07-2023  playstation-easy-platinums  Added 25 new games to list: Boat Trip (NA • PS4), Boat Trip (NA • PS5), Cubic Light (PS5), Zen Pong (AS • PS4), Zen Pong (AS • PS5), Zen Pong (JP • PS4), Zen Pong (JP • PS5), Aliens Attack (PS4), Aliens Attack (AS • PS5), Cubic Light (PS5), Boat Trip (EU • PS4), Boat Trip (EU • PS5), EchoBlade (PS5), The Scavenger Hunt: Switzerland (PS4), The Scavenger Hunt: Switzerland (PS4), ChronoBreach Ultra (PS5), ChronoBreach Ultra (PS5), ChronoBreach Ultra (PS4), ChronoBreach Ultra (PS4), Feeble Light (PS5), Feeble Light (PS4), Sonic Origins (PS5), Aliens Attack (PS4), Aliens Attack (PS4), Speed or Death (EU • PS5)
+09-07-2023  robiningelbrecht            Updated GitHub profile
+```
 <!--END_SECTION:most-recent-commits-->  
 
 <!--START_SECTION:commits-per-day-time-->
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1206 commits     ███████░░░░░░░░░░░░░░░░░░   28.14 %
-🌆 Daytime                 1649 commits     ██████████░░░░░░░░░░░░░░░   38.47 %
-🌃 Evening                 1111 commits     ██████░░░░░░░░░░░░░░░░░░░   25.92 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.47 %
+🌞 Morning                 1210 commits     ███████░░░░░░░░░░░░░░░░░░   28.15 %
+🌆 Daytime                 1652 commits     ██████████░░░░░░░░░░░░░░░   38.44 %
+🌃 Evening                 1116 commits     ██████░░░░░░░░░░░░░░░░░░░   25.97 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.45 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +48,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    724 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.89 %
-Tuesday                   544 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Wednesday                 678 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-Thursday                  560 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Friday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.54 %
-Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Sunday                    642 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Monday                    733 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.05 %
+Tuesday                   544 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Wednesday                 678 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Thursday                  560 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Friday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.01 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
