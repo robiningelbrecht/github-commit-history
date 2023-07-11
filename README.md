@@ -1,35 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4298`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4311`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-10-07-2023  strava-activities           Updated strava activities
-10-07-2023  wca-rest-api                Added dark mode to docs
-10-07-2023  notion-media-cdn            Added media to CDN
-10-07-2023  wca-rest-api                New API build
-10-07-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Regabeakon
-10-07-2023  playstation-easy-platinums  Manual price update for The Scavenger Hunt: Switzerland (PS4) to <!--START_SECTION:most-recent-commits-->
-**⏳ Most recent commits**
-                                        
-```text
-09-07-2023  wca-rest-api             Some updated to docs
-09-07-2023  wca-rest-api             Update README.md
-09-07-2023  wca-rest-api             Build API in GitHub actions, part 3
-09-07-2023  wca-rest-api             Build API in GitHub actions, part 2
-09-07-2023  wca-rest-api             Build API in GitHib actions
-09-07-2023  twisty-puzzle-scrambler  Update README.md
-09-07-2023  twisty-puzzle-scrambler  Update README.md
-09-07-2023  wca-rest-api             Update README.md
-09-07-2023  wca-rest-api             Update README.md
-09-07-2023  wca-rest-api             ci.yml attempt 3
-```
-<!--END_SECTION:most-recent-commits-->.99 via workflow
-10-07-2023  playstation-easy-platinums  Manual price update for ChronoBreach Ultra (PS5) to .99 via workflow
-10-07-2023  playstation-easy-platinums  Manual price update for ChronoBreach Ultra (PS4) to .99 via workflow
-10-07-2023  playstation-easy-platinums  Added 25 new games to list: Boat Trip (NA • PS4), Boat Trip (NA • PS5), Cubic Light (PS5), Zen Pong (AS • PS4), Zen Pong (AS • PS5), Zen Pong (JP • PS4), Zen Pong (JP • PS5), Aliens Attack (PS4), Aliens Attack (AS • PS5), Cubic Light (PS5), Boat Trip (EU • PS4), Boat Trip (EU • PS5), EchoBlade (PS5), The Scavenger Hunt: Switzerland (PS4), The Scavenger Hunt: Switzerland (PS4), ChronoBreach Ultra (PS5), ChronoBreach Ultra (PS5), ChronoBreach Ultra (PS4), ChronoBreach Ultra (PS4), Feeble Light (PS5), Feeble Light (PS4), Sonic Origins (PS5), Aliens Attack (PS4), Aliens Attack (PS4), Speed or Death (EU • PS5)
-09-07-2023  robiningelbrecht            Updated GitHub profile
+11-07-2023  strava-activities           Updated strava activities
+11-07-2023  wca-rest-api                Better implementation fo dark mode
+11-07-2023  wca-rest-api                Better implementation fo dark mode
+11-07-2023  wca-rest-api                Better implementation fo dark mode
+11-07-2023  wca-rest-api                Fix faulty docs
+11-07-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltoroan
+11-07-2023  robiningelbrecht            Update README.md
+11-07-2023  playstation-easy-platinums  Manually removed game Stranded Deep (NA • PS4) via workflow
+11-07-2023  playstation-easy-platinums  Manually removed game Stranded Deep (EU • PS4) via workflow
+11-07-2023  playstation-easy-platinums  Added 2 new games to list: Stranded Deep (NA • PS4), Stranded Deep (EU • PS4)
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -37,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1210 commits     ███████░░░░░░░░░░░░░░░░░░   28.15 %
-🌆 Daytime                 1652 commits     ██████████░░░░░░░░░░░░░░░   38.44 %
-🌃 Evening                 1116 commits     ██████░░░░░░░░░░░░░░░░░░░   25.97 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.45 %
+🌞 Morning                 1214 commits     ███████░░░░░░░░░░░░░░░░░░   28.16 %
+🌆 Daytime                 1654 commits     ██████████░░░░░░░░░░░░░░░   38.37 %
+🌃 Evening                 1123 commits     ███████░░░░░░░░░░░░░░░░░░   26.05 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.42 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -48,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    733 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.05 %
-Tuesday                   544 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Wednesday                 678 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Thursday                  560 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Friday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.01 %
+Monday                    736 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.07 %
+Tuesday                   554 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Wednesday                 678 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+Thursday                  560 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Friday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.96 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
