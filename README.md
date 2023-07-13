@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4316`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4336`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-12-07-2023  strava-activities      Updated strava activities
-12-07-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Staffsquirt
-12-07-2023  wca-rest-api           New API build
-11-07-2023  robiningelbrecht       Updated GitHub profile
-11-07-2023  robiningelbrecht.be    New site build
-11-07-2023  strava-activities      Updated strava activities
-11-07-2023  wca-rest-api           Better implementation fo dark mode
-11-07-2023  wca-rest-api           Better implementation fo dark mode
-11-07-2023  wca-rest-api           Better implementation fo dark mode
-11-07-2023  wca-rest-api           Fix faulty docs
+13-07-2023  strava-activities  Updated strava activities
+13-07-2023  wca-rest-api       Finish build script
+13-07-2023  wca-rest-api       New API build
+13-07-2023  wca-rest-api       Finish build script
+13-07-2023  wca-rest-api       Give it another try
+13-07-2023  wca-rest-api       Give it another try
+13-07-2023  wca-rest-api       Give it another try
+13-07-2023  wca-rest-api       Give it another try
+13-07-2023  wca-rest-api       Better version detecting
+13-07-2023  wca-rest-api       New API build
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1215 commits     ███████░░░░░░░░░░░░░░░░░░   28.15 %
-🌆 Daytime                 1655 commits     ██████████░░░░░░░░░░░░░░░   38.35 %
-🌃 Evening                 1126 commits     ███████░░░░░░░░░░░░░░░░░░   26.09 %
-🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.41 %
+🌞 Morning                 1217 commits     ███████░░░░░░░░░░░░░░░░░░   28.07 %
+🌆 Daytime                 1669 commits     ██████████░░░░░░░░░░░░░░░   38.49 %
+🌃 Evening                 1130 commits     ███████░░░░░░░░░░░░░░░░░░   26.06 %
+🌙 Night                   320 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.38 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    736 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.05 %
-Tuesday                   556 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.88 %
-Wednesday                 681 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-Thursday                  560 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Friday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.94 %
+Monday                    736 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
+Tuesday                   556 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Wednesday                 684 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Thursday                  577 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Friday                    623 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Saturday                  515 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Sunday                    645 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.88 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
