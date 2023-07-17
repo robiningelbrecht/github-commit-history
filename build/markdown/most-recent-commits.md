@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-16-07-2023  wca-rest-api           New API build
-16-07-2023  gotta-generate-em-all  Generated a new fighting-type Pokémon named Ruinscale
-15-07-2023  robiningelbrecht       Updated GitHub profile
-15-07-2023  robiningelbrecht.be    New site build
-15-07-2023  wca-rest-api           New API build
-15-07-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Glitswanee
-14-07-2023  robiningelbrecht       Updated GitHub profile
-14-07-2023  robiningelbrecht.be    New site build
-14-07-2023  strava-activities      Updated strava activities
-14-07-2023  wca-rest-api           Schedule API build
+17-07-2023  robiningelbrecht.be    Update build-site.yml
+17-07-2023  robiningelbrecht       Update update-github-profile.yml
+17-07-2023  gotta-generate-em-all  Update generate-card.yml
+17-07-2023  wca-rest-api           Update build-api.yml
+17-07-2023  strava-activities      Updated strava activities
+17-07-2023  strava-activities      Update update-strava-activities.yml
+17-07-2023  ntfy-action            Readme
+17-07-2023  ntfy-action            Test new approach
+17-07-2023  ntfy-action            Test new approach
+17-07-2023  ntfy-action            Test new approach
 ```
