@@ -40,3 +40,10 @@ jobs:
           git status
           git diff --staged --quiet || git commit -m"Updated commit history"
           git push
+      - name: ntfy.sh
+        uses: robiningelbrecht/ntfy-action@v1.0.0
+        with:
+            url: ${{ secrets.NTFY_URL }}
+            topic: ${{ secrets.NTFY_TOPIC }}
+            icon: 'https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png'
+            job_status: ${{ job.status }}
