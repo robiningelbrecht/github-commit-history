@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4412`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4430`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-20-07-2023  strava-activities           Updated strava activities
-20-07-2023  strava-activities           Show kcals and gear
-20-07-2023  strava-activities           Show kcals and gear
-20-07-2023  playstation-easy-platinums  Added 16 new games to list: MetaDude (PS5), MetaDude (EU • PS4), MetaDude (EU • PS5), Hungry Monster (PS4), Hungry Monster (PS5), Hungry Monster (PS4), Hungry Monster (PS5), Pocket Soccer (PS4), Pure Mini Golf (PS4), Pure Mini Golf (PS5), Plumber Puzzles (PS5), Pocket Soccer (PS4), Pure Mini Golf (PS4), Pure Mini Golf (PS5), Plumber Puzzles (PS5), Carrion (EU • PS5)
-20-07-2023  wca-rest-api                New API build
-20-07-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Gemleon
-19-07-2023  robiningelbrecht            Updated GitHub profile
-19-07-2023  robiningelbrecht.be         New site build
-19-07-2023  strava-activities           Updated strava activities
-19-07-2023  strava-activities           Updated strava activities
+21-07-2023  wca-rest-api           Better schema image
+21-07-2023  wca-rest-api           Update README.md
+21-07-2023  wca-rest-api           New API build
+21-07-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Crysticlub
+21-07-2023  strava-activities      Updated strava activities
+21-07-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Vulpillow
+21-07-2023  wca-rest-api           Update README.md
+21-07-2023  wca-rest-api           Update README.md
+21-07-2023  wca-rest-api           Update README.md
+21-07-2023  wca-rest-api           Update openapi.yml
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1221 commits     ███████░░░░░░░░░░░░░░░░░░   27.67 %
-🌆 Daytime                 1708 commits     ██████████░░░░░░░░░░░░░░░   38.71 %
-🌃 Evening                 1160 commits     ███████░░░░░░░░░░░░░░░░░░   26.29 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.32 %
+🌞 Morning                 1231 commits     ███████░░░░░░░░░░░░░░░░░░   27.79 %
+🌆 Daytime                 1712 commits     ██████████░░░░░░░░░░░░░░░   38.65 %
+🌃 Evening                 1164 commits     ███████░░░░░░░░░░░░░░░░░░   26.28 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.29 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.50 %
-Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Wednesday                 691 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Thursday                  585 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Friday                    634 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Saturday                  519 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Sunday                    649 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.43 %
+Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Wednesday                 691 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+Thursday                  587 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Friday                    650 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Saturday                  519 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Sunday                    649 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
