@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-21-07-2023  wca-rest-api           Better schema image
-21-07-2023  wca-rest-api           Update README.md
-21-07-2023  wca-rest-api           New API build
-21-07-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Crysticlub
-21-07-2023  strava-activities      Updated strava activities
-21-07-2023  gotta-generate-em-all  Generated a new normal-type Pokémon named Vulpillow
-21-07-2023  wca-rest-api           Update README.md
-21-07-2023  wca-rest-api           Update README.md
-21-07-2023  wca-rest-api           Update README.md
-21-07-2023  wca-rest-api           Update openapi.yml
+22-07-2023  wca-rest-api           New API build
+22-07-2023  strava-activities      Better chart
+22-07-2023  strava-activities      Distance per bike per month
+22-07-2023  strava-activities      Readme
+22-07-2023  strava-activities      Updated strava activities
+22-07-2023  strava-activities      GitHub actions
+22-07-2023  strava-activities      GitHub actions
+22-07-2023  strava-activities      Weekly distances
+22-07-2023  strava-activities      Weekly distances
+22-07-2023  gotta-generate-em-all  Generated a new psychic-type Pokémon named Cryptalon
 ```
