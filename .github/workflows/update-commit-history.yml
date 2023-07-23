@@ -42,6 +42,7 @@ jobs:
           git push
       - name: ntfy.sh
         uses: robiningelbrecht/ntfy-action@v1.0.0
+        if: always()
         with:
             url: ${{ secrets.NTFY_URL }}
             topic: ${{ secrets.NTFY_TOPIC }}
