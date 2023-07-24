@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4462`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4492`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-23-07-2023  strava-activities      Updated strava activities
-23-07-2023  wca-rest-api           Update build-api.yml
-23-07-2023  apache-echarts-action  Testing
-23-07-2023  apache-echarts-action  Testing
-23-07-2023  apache-echarts-action  Testing
-23-07-2023  apache-echarts-action  Debug
-23-07-2023  apache-echarts-action  Debug
-23-07-2023  apache-echarts-action  Debug
-23-07-2023  apache-echarts-action  Debug
-23-07-2023  apache-echarts-action  Exit process
+24-07-2023  strava-activities      Updated strava activities
+24-07-2023  apache-echarts-action  Update README.md
+24-07-2023  strava-activities      Fix distances per week
+24-07-2023  strava-activities      Move code to separate class
+24-07-2023  strava-activities      Updated strava activities
+24-07-2023  strava-activities      Fix chart rendering
+24-07-2023  apache-echarts-action  Allow to referendce file
+24-07-2023  apache-echarts-action  Allow to referendce file
+24-07-2023  apache-echarts-action  Allow to referendce file
+24-07-2023  apache-echarts-action  Update README.md
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1231 commits     ███████░░░░░░░░░░░░░░░░░░   27.59 %
-🌆 Daytime                 1739 commits     ██████████░░░░░░░░░░░░░░░   38.97 %
-🌃 Evening                 1169 commits     ███████░░░░░░░░░░░░░░░░░░   26.20 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.24 %
+🌞 Morning                 1241 commits     ███████░░░░░░░░░░░░░░░░░░   27.63 %
+🌆 Daytime                 1752 commits     ██████████░░░░░░░░░░░░░░░   39.00 %
+🌃 Evening                 1176 commits     ███████░░░░░░░░░░░░░░░░░░   26.18 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.19 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    772 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.30 %
-Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Wednesday                 691 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Thursday                  587 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.61 %
-Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Sunday                    667 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Monday                    800 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
+Tuesday                   562 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Wednesday                 691 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Thursday                  587 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.89 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
