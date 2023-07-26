@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4506`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4531`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-25-07-2023  strava-activities           Fix challenges
-25-07-2023  strava-activities           Updated strava activities
-25-07-2023  strava-activities           Fix challenges
-25-07-2023  wca-rest-api                Update build-api.yml
-25-07-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Cryptofelis
-25-07-2023  wca-rest-api                Update build-api.yml
-25-07-2023  playstation-easy-platinums  Manual price update for Ayre and the Crystal Comet (EU • PS5) to €6.99 via workflow
-25-07-2023  playstation-easy-platinums  Manual price update for Otoko Cross: Pretty Boys Breakup! (PS4) to .99 via workflow
-25-07-2023  playstation-easy-platinums  Manual price update for Otoko Cross: Pretty Boys Breakup! (PS5) to .99 via workflow
-25-07-2023  playstation-easy-platinums  Manual price update for Magic Exposure (PS5) to .99 via workflow
+26-07-2023  strava-activities           Updated strava activities
+26-07-2023  wca-rest-api                New API build
+26-07-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Sapphirashell
+26-07-2023  wca-rest-api                Update build-api.yml
+26-07-2023  wca-rest-api                Update ci.yml
+26-07-2023  wca-rest-api                Better version handling
+26-07-2023  playstation-easy-platinums  Manual price update for Magic Exposure (NA • PS5) to .99 via workflow
+26-07-2023  playstation-easy-platinums  Manual price update for Magic Exposure (NA • PS4) to .99 via workflow
+26-07-2023  playstation-easy-platinums  Added 2 new games to list: Magic Exposure (NA • PS4), Magic Exposure (NA • PS5)
+25-07-2023  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1248 commits     ███████░░░░░░░░░░░░░░░░░░   27.70 %
-🌆 Daytime                 1757 commits     ██████████░░░░░░░░░░░░░░░   38.99 %
-🌃 Evening                 1178 commits     ███████░░░░░░░░░░░░░░░░░░   26.14 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.17 %
+🌞 Morning                 1254 commits     ███████░░░░░░░░░░░░░░░░░░   27.68 %
+🌆 Daytime                 1759 commits     ██████████░░░░░░░░░░░░░░░   38.82 %
+🌃 Evening                 1195 commits     ███████░░░░░░░░░░░░░░░░░░   26.37 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.13 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.80 %
-Tuesday                   574 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Wednesday                 691 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Thursday                  587 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.70 %
+Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Wednesday                 700 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Thursday                  587 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
