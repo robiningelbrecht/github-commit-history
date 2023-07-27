@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4531`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4551`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-26-07-2023  strava-activities           Updated strava activities
-26-07-2023  wca-rest-api                New API build
-26-07-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Sapphirashell
-26-07-2023  wca-rest-api                Update build-api.yml
-26-07-2023  wca-rest-api                Update ci.yml
-26-07-2023  wca-rest-api                Better version handling
-26-07-2023  playstation-easy-platinums  Manual price update for Magic Exposure (NA • PS5) to .99 via workflow
-26-07-2023  playstation-easy-platinums  Manual price update for Magic Exposure (NA • PS4) to .99 via workflow
-26-07-2023  playstation-easy-platinums  Added 2 new games to list: Magic Exposure (NA • PS4), Magic Exposure (NA • PS5)
-25-07-2023  robiningelbrecht            Updated GitHub profile
+27-07-2023  strava-activities           Readme
+27-07-2023  playstation-easy-platinums  Manual price update for Garlic (NA • PS5) to .99 via workflow
+27-07-2023  playstation-easy-platinums  Added 5 new games to list: Garlic (NA • PS5), Meteor Crusher (NA • PS4), Meteor Crusher (NA • PS5), Meteor Crusher (EU • PS4), Meteor Crusher (EU • PS5)
+27-07-2023  strava-activities           Import athlete weight
+27-07-2023  strava-activities           Import athlete weight
+27-07-2023  strava-activities           Show power outputs over time
+27-07-2023  strava-activities           Show power outputs over time
+27-07-2023  strava-activities           Show power outputs over time
+27-07-2023  strava-activities           Show power outputs over time
+27-07-2023  strava-activities           Show power outputs over time
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1254 commits     ███████░░░░░░░░░░░░░░░░░░   27.68 %
-🌆 Daytime                 1759 commits     ██████████░░░░░░░░░░░░░░░   38.82 %
-🌃 Evening                 1195 commits     ███████░░░░░░░░░░░░░░░░░░   26.37 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.13 %
+🌞 Morning                 1255 commits     ███████░░░░░░░░░░░░░░░░░░   27.58 %
+🌆 Daytime                 1775 commits     ██████████░░░░░░░░░░░░░░░   39.00 %
+🌃 Evening                 1198 commits     ███████░░░░░░░░░░░░░░░░░░   26.32 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.10 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.70 %
-Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Wednesday                 700 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Thursday                  587 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Monday                    802 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.62 %
+Tuesday                   590 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Wednesday                 703 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+Thursday                  604 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Friday                    652 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Saturday                  531 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Sunday                    669 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
