@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-15-08-2023  strava-activities           Updated strava activities
-15-08-2023  wca-rest-api                New API build
-15-08-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Pyrocaper
-14-08-2023  robiningelbrecht            Updated GitHub profile
-14-08-2023  robiningelbrecht.be         New site build
-14-08-2023  strava-activities           Updated strava activities
-14-08-2023  playstation-easy-platinums  Added 6 new games to list: Fluffy Milo (AS • PS4), Would You Like to Run an Idol Café? 3 (PS4), Would You Like to Run an Idol Café? 3 (PS5), Sky Races (PS4), Acceptance (PS5), Fluffy Milo (JP • PS4)
-14-08-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Riverserpentium
-13-08-2023  robiningelbrecht            Updated GitHub profile
-13-08-2023  robiningelbrecht.be         New site build
+16-08-2023  wca-rest-api                New API build
+16-08-2023  gotta-generate-em-all       Generated a new normal-type Pokémon named Gemprong
+16-08-2023  strava-activities           Updated strava activities
+16-08-2023  playstation-easy-platinums  Manual price update for Death Becomes You (PS4) to $7.99 via workflow
+16-08-2023  playstation-easy-platinums  Manual price update for Death Becomes You (PS5) to $7.99 via workflow
+16-08-2023  playstation-easy-platinums  Manual price update for Would You Like to Run an Idol Café? 3 (PS4) to $7.99 via workflow
+16-08-2023  playstation-easy-platinums  Manual price update for Would You Like to Run an Idol Café? 3 (PS5) to $7.99 via workflow
+16-08-2023  playstation-easy-platinums  Manual price update for Acceptance (PS5) to $5.99 via workflow
+16-08-2023  playstation-easy-platinums  Added 5 new games to list: Laserpitium (EU • PS5), Embattled (PS4), Pandaty (PS5), Fluffy Milo (EU • PS5), Fluffy Milo (NA • PS4)
+15-08-2023  robiningelbrecht.be         New site build
 ```
