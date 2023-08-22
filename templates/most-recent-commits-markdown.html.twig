@@ -7,6 +7,6 @@
 
 ```text
 {% for commit in commits %}
-{{ commit.getCommitDate().format('d-m-Y') }}  {{ commit.getRepo() }}{{ ' '|repeat(maxRepoLength - commit.getRepo()|length) }}{{ commit.getMessage() }}
+{{ commit.getCommitDate().format('d-m-Y') }}  {{ commit.getRepo() }}{{ ' '|repeat(maxRepoLength - commit.getRepo()|length) }}{{ commit.getMessage()|replace({"\n": " ", "\r": " ", "\t": " "}) }}
 {% endfor %}
 ```

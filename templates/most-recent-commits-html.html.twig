@@ -5,7 +5,7 @@
         <div class="commit">
             <div class="date">{{ commit.getCommitDate().format('d-m-Y') }}</div>
             <div class="repository">{{ commit.getRepo() }}</div>
-            <div class="message">{{ commit.getMessage() }}</div>
+            <div class="message">{{ commit.getMessage()|replace({"\n": " ", "\r": " ", "\t": " "}) }}</div>
         </div>
     {% endfor %}
 </div>

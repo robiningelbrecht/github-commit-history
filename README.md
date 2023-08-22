@@ -5,12 +5,8 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **⏳ Most recent commits**
                                         
 ```text
-21-08-2023  phpunit-pretty-print        Merge pull request #3 from GrahamCampbell/fix-php-version
-
-Fixed incorrect php version constraint
-21-08-2023  phpunit-pretty-print        Merge pull request #2 from robiningelbrecht/enable-disable-at-runtime
-
-Enable/disable at runtime
+21-08-2023  phpunit-pretty-print        Merge pull request #3 from GrahamCampbell/fix-php-versionFixed incorrect php version constraint
+21-08-2023  phpunit-pretty-print        Merge pull request #2 from robiningelbrecht/enable-disable-at-runtimeEnable/disable at runtime
 19-08-2023  strava-activities           Updated strava activities
 19-08-2023  playstation-easy-platinums  Added 34 new games to list: Repentless (PS5), Sushi Blast (PS4), Sushi Blast (PS5), Sushi Blast (PS4), Sushi Blast (PS5), Embattled (JP • PS4), Kitty Krawler (NA • PS5), Kitty Krawler (EU • PS5), Acceptance (EU • PS4), Embattled (AS • PS4), Sushi Blast (PS5), Sushi Blast (PS4), On Sunday (AS • PS5), Repentless 2 (AS • PS4), Black Death: A Tragic Dirge (PS5), Acceptance (NA • PS4), Acceptance (NA • PS5), Laserpitium (NA • PS4), Kitty Krawler (EU • PS4), Pandaty (PS4), Kitty Krawler (NA • PS4), Detective Inspector: Mysterious Clues (EU • PS4), Space Defend (JP • PS5), Space Defend (AS • PS4), Space Defend (AS • PS5), Space Defend (JP • PS4), I&#039;m in Love With Your Dead Grandmother (PS5), Black Death: A Tragic Dirge (PS5), Black Death: A Tragic Dirge (PS5), Black Death: A Tragic Dirge (PS5), Embattled (NA • PS4), Aery: The Lost Hero (EU • PS4), Fluffy Milo (AS • PS5), Fluffy Milo (NA • PS5)
 19-08-2023  wca-rest-api                New API build
@@ -53,12 +49,12 @@ Sunday                    694 commits      ████░░░░░░░░�
 ```text
 PHP                       23 repos         ███████████░░░░░░░░░░░░░░   44.23 %
 JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   21.15 %
-HTML                      4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
 CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
-Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
+HTML                      4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
+Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
 Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
 TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
-Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
+Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
