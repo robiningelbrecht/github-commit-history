@@ -1,6 +1,7 @@
 **⏳ Most recent commits**
                                         
 ```text
+04-09-2023  strava-activities           Updated strava activities
 04-09-2023  wca-rest-api                New API build
 04-09-2023  phpunit-coverage-tools      Bumped phpunit version
 04-09-2023  phpunit-coverage-tools      Merge pull request #3 from robiningelbrecht/fix-divide-by-zero  Fix divide by zero
@@ -10,5 +11,4 @@
 03-09-2023  robiningelbrecht            Updated GitHub profile
 03-09-2023  strava-activities           Updated strava activities
 03-09-2023  wca-rest-api                New API build
-03-09-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Gemprongle
 ```
