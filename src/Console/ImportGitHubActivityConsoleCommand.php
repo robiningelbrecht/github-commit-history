@@ -54,7 +54,7 @@ class ImportGitHubActivityConsoleCommand extends Command
             $commitRepository = $this->gitHubRepoCommitRepositoryFactory->for($repo->getName());
             $sinceDate = $commitRepository->findLastImportedCommit()?->getCommitDate();
 
-            foreach (['robiningelbrecht', 'robin@baldwin.be', 'robin.ingelbrecht@entityone.be'] as $author) {
+            foreach (['robiningelbrecht', 'robin@baldwin.be', 'robin.ingelbrecht@entityone.be', 'robiningelbrecht@users.noreply.github.com'] as $author) {
                 try {
                     $commits = $this->gitHub->getRepoCommits(
                         $repo->getOwnerLogin(),

@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-29-08-2023  php-slim-skeleton     Update README.md
-23-08-2023  phpunit-pretty-print  Update README.md
-22-08-2023  phpunit-pretty-print  Update FUNDING.yml
-22-08-2023  phpunit-pretty-print  Update FUNDING.yml
-22-08-2023  phpunit-pretty-print  Create FUNDING.yml
-22-08-2023  phpunit-pretty-print  Merge pull request #4 from robiningelbrecht/robiningelbrecht-patch-1  Update README.md
-22-08-2023  phpunit-pretty-print  Update README.md
-21-08-2023  phpunit-pretty-print  Merge pull request #3 from GrahamCampbell/fix-php-version  Fixed incorrect php version constraint
-21-08-2023  phpunit-pretty-print  Merge pull request #2 from robiningelbrecht/enable-disable-at-runtime  Enable/disable at runtime
-19-08-2023  strava-activities     Updated strava activities
+04-09-2023  wca-rest-api                New API build
+04-09-2023  phpunit-coverage-tools      Bumped phpunit version
+04-09-2023  phpunit-coverage-tools      Merge pull request #3 from robiningelbrecht/fix-divide-by-zero  Fix divide by zero
+04-09-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Thronhop
+04-09-2023  phpunit-coverage-tools      Merge pull request #2 from robiningelbrecht/symfony-5-support  Support Symfony 5
+04-09-2023  playstation-easy-platinums  Added 1 new games to list: Colorful Boi (EU • PS5)
+03-09-2023  robiningelbrecht            Updated GitHub profile
+03-09-2023  strava-activities           Updated strava activities
+03-09-2023  wca-rest-api                New API build
+03-09-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Gemprongle
 ```
