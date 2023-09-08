@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4858`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4873`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-07-09-2023  strava-activities           Updated strava activities
-07-09-2023  strava-activities           Totals
-07-09-2023  strava-activities           Upgrade to php82
-07-09-2023  strava-activities           Totals
-07-09-2023  wca-rest-api                New API build
-07-09-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Galaxynite
-07-09-2023  playstation-easy-platinums  Added 6 new games to list: Colorful Boi (AS • PS5), Dodge It (NA • PS5), Dodge It (NA • PS4), Dodge It (EU • PS5), Dodge It (EU • PS4), Tappump (NA • PS4)
-06-09-2023  robiningelbrecht.be         New site build
-06-09-2023  robiningelbrecht            Updated GitHub profile
-06-09-2023  strava-activities           Updated strava activities
+08-09-2023  strava-activities     Cleaned up code
+08-09-2023  strava-activities     Updated strava activities
+08-09-2023  strava-activities     Cleaned up code
+08-09-2023  strava-activities     New chart
+08-09-2023  strava-activities     Updated strava activities
+08-09-2023  strava-activities     New chart
+08-09-2023  wca-rest-api          New API build
+08-09-2023  phpunit-pretty-print  Merge pull request #6 from robiningelbrecht/add-runtime-info  Add runtime info to output
+08-09-2023  phpunit-pretty-print  Added extra unit test
+08-09-2023  phpunit-pretty-print  Add runtime info
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1306 commits     ███████░░░░░░░░░░░░░░░░░░   26.88 %
-🌆 Daytime                 1907 commits     ██████████░░░░░░░░░░░░░░░   39.25 %
-🌃 Evening                 1322 commits     ███████░░░░░░░░░░░░░░░░░░   27.21 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.65 %
+🌞 Morning                 1308 commits     ███████░░░░░░░░░░░░░░░░░░   26.84 %
+🌆 Daytime                 1912 commits     ██████████░░░░░░░░░░░░░░░   39.24 %
+🌃 Evening                 1330 commits     ███████░░░░░░░░░░░░░░░░░░   27.29 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.63 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
-Tuesday                   658 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Wednesday                 744 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Thursday                  643 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Friday                    693 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Saturday                  563 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Monday                    840 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
+Tuesday                   658 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Wednesday                 744 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Thursday                  645 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Friday                    706 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Saturday                  563 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Sunday                    717 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
