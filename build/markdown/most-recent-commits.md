@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-10-09-2023  strava-activities           Updated strava activities
-10-09-2023  playstation-easy-platinums  Updated to php82
-10-09-2023  playstation-easy-platinums  Added 23 new games to list: Escape from Terror City (PS5), Kalinur (NA • PS5), Kalinur (NA • PS4), Mr. Hibbl: The Lost Levels (PS5), Mr. Hibbl: The Lost Levels (PS4), Mr. Hibbl: The Lost Levels (PS5), Mr. Hibbl: The Lost Levels (PS4), Mr. Hibbl: The Lost Levels (PS5), Mr. Hibbl: The Lost Levels (PS4), Mr. Hibbl: The Lost Levels (EU • PS5), Mr. Hibbl: The Lost Levels (EU • PS4), Speed or Death (EU • PS4), Puzzle Journey (EU • PS4), Wild Seas (PS4), Puzzle Journey (NA • PS4), Wild Seas (PS5), Wild Seas (PS5), Wild Seas (PS5), Wild Seas (PS5), Wild Seas (PS4), Wild Seas (PS4), Colorful Boi (JP • PS4), Colorful Boi (AS • PS4)
-10-09-2023  wca-rest-api                New API build
-10-09-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltleth
-09-09-2023  robiningelbrecht            Updated GitHub profile
-09-09-2023  robiningelbrecht.be         New site build
-09-09-2023  strava-activities           Updated strava activities
-09-09-2023  wca-rest-api                New API build
-09-09-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Crystacougar
+11-09-2023  strava-activities           Updated strava activities
+11-09-2023  wca-rest-api                New API build
+11-09-2023  gotta-generate-em-all       Generated a new fire-type Pokémon named Pyrolynx
+11-09-2023  playstation-easy-platinums  Added 1 new games to list: Escape from Terror City (PS5)
+11-09-2023  playstation-easy-platinums  Manual price update for Mr. Hibbl: The Lost Levels (PS5) to $3.99 via workflow
+11-09-2023  playstation-easy-platinums  Update multiple games at once
+11-09-2023  playstation-easy-platinums  Readonly classes
+11-09-2023  playstation-easy-platinums  Manual price update for Mr. Hibbl: The Lost Levels (EU • PS4) to €3.99 via workflow
+11-09-2023  playstation-easy-platinums  Manual price update for Kalinur (NA • PS4) to $5.99 via workflow
+11-09-2023  playstation-easy-platinums  Manual price update for Kalinur (NA • PS5) to $5.99 via workflow
 ```
