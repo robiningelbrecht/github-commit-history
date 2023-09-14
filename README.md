@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4924`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`4936`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-13-09-2023  strava-activities       Updated strava activities
-13-09-2023  phpunit-coverage-tools  Merge pull request #5 from robiningelbrecht/fix-final-status-bug  Fix final status bug
-13-09-2023  phpunit-coverage-tools  Fix final status bug
-13-09-2023  gotta-generate-em-all   Generated a new steel-type Pokémon named Sandarmorlie
-12-09-2023  robiningelbrecht        Updated GitHub profile
-12-09-2023  robiningelbrecht.be     New site build
-12-09-2023  strava-activities       Updated strava activities
-12-09-2023  strava-activities       Better heatmap colors. Thanks m.deleye
-12-09-2023  wca-rest-api            New API build
-12-09-2023  strava-activities       Better calculation
+14-09-2023  strava-activities      Added tutorial
+14-09-2023  strava-activities      Added tutorial
+14-09-2023  strava-activities      Improved GetChallenges
+14-09-2023  strava-activities      Updated strava activities
+14-09-2023  strava-activities      Updated readme
+14-09-2023  strava-activities      Updated strava activities
+14-09-2023  strava-activities      Render yearly heatmap
+14-09-2023  strava-activities      Added weather to activities
+14-09-2023  wca-rest-api           New API build
+14-09-2023  gotta-generate-em-all  Generated a new steel-type Pokémon named Crystafeline
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1323 commits     ███████░░░░░░░░░░░░░░░░░░   26.87 %
-🌆 Daytime                 1928 commits     ██████████░░░░░░░░░░░░░░░   39.16 %
-🌃 Evening                 1350 commits     ███████░░░░░░░░░░░░░░░░░░   27.42 %
-🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.56 %
+🌞 Morning                 1323 commits     ███████░░░░░░░░░░░░░░░░░░   26.80 %
+🌆 Daytime                 1937 commits     ██████████░░░░░░░░░░░░░░░   39.24 %
+🌃 Evening                 1353 commits     ███████░░░░░░░░░░░░░░░░░░   27.41 %
+🌙 Night                   323 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.54 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    855 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.36 %
-Tuesday                   673 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Wednesday                 748 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Thursday                  645 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Friday                    711 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Saturday                  568 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-Sunday                    724 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Monday                    855 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.32 %
+Tuesday                   673 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Wednesday                 750 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Thursday                  655 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
+Friday                    711 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Saturday                  568 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Sunday                    724 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.67 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
