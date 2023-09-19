@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-18-09-2023  strava-activities           Updated strava activities
-18-09-2023  strava-activities           Started wirh eddington number
-18-09-2023  strava-activities           Align axis tick
-18-09-2023  strava-activities           Better relative weekday%
-18-09-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Glimbluen
-18-09-2023  playstation-easy-platinums  Added 4 new games to list: Tetropunk (EU • PS4), Tetropunk (PS4), Tetropunk (PS4), Tetropunk (NA • PS4)
-17-09-2023  robiningelbrecht            Updated GitHub profile
-17-09-2023  robiningelbrecht.be         New site build
-17-09-2023  strava-activities           Updated strava activities
-17-09-2023  strava-activities           Better intro text
+19-09-2023  strava-activities  Updated strava activities
+19-09-2023  strava-activities  Added static cache in Eddington class
+19-09-2023  strava-activities  Added RPM
+19-09-2023  strava-activities  Eddington changes
+19-09-2023  strava-activities  Eddington changes
+19-09-2023  strava-activities  Align table
+19-09-2023  strava-activities  Hide older activities
+19-09-2023  strava-activities  Render future eddington numbers
+19-09-2023  strava-activities  Render eddington chart
+19-09-2023  strava-activities  Render eddington chart
 ```
