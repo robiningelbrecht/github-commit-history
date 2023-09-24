@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-23-09-2023  strava-activities      Updated strava activities
-23-09-2023  strava-activities      Build index.html
-23-09-2023  strava-activities      Little changes
-23-09-2023  strava-activities      Merge pull request #1 from robiningelbrecht/html-version  Html version
-23-09-2023  strava-activities      Merge branch &#039;master&#039; into html-version
-23-09-2023  strava-activities      HTML version YO
-23-09-2023  strava-activities      More sexy html
-23-09-2023  wca-rest-api           New API build
-23-09-2023  gotta-generate-em-all  Generated a new steel-type Pokémon named Cudgelith
-22-09-2023  robiningelbrecht       Updated GitHub profile
+24-09-2023  strava-activities      Updated strava activities
+24-09-2023  strava-activities      Build monthly stats
+24-09-2023  strava-activities      Render eddington chart
+24-09-2023  strava-activities      Render eddingtonchart
+24-09-2023  strava-activities      EddingtonChartBuilder
+24-09-2023  strava-activities      Render challengers
+24-09-2023  strava-activities      Render photos
+24-09-2023  wca-rest-api           New API build
+24-09-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Aquatigon
+24-09-2023  strava-activities      Render all activities
 ```
