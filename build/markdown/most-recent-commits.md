@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-27-09-2023  strava-activities           Updated strava activities
-27-09-2023  wca-rest-api                New API build
-27-09-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Crystaquid
-27-09-2023  playstation-easy-platinums  Manual price update for Adventure Pinball (PS5) to $4.19 via workflow
-27-09-2023  playstation-easy-platinums  Added 5 new games to list: Mimi the Cat: Mimi&#039;s Scratcher (PS4), Lord of the Click: Interstellar Wars (PS4), Lord of the Click: Interstellar Wars (PS4), Zombiezz (PS4), Adventure Pinball (PS5)
-26-09-2023  robiningelbrecht            Updated GitHub profile
-26-09-2023  robiningelbrecht.be         New site build
-26-09-2023  strava-activities           todo
-26-09-2023  strava-activities           Activity drawers
-26-09-2023  strava-activities           Activity drawers
+28-09-2023  strava-activities      More charts
+28-09-2023  strava-activities      Renamed activity drawer template
+28-09-2023  wca-rest-api           New API build
+28-09-2023  strava-activities      Scroll to top
+28-09-2023  gotta-generate-em-all  Generated a new fire-type Pokémon named Pyroxan
+28-09-2023  strava-activities      Better table layout
+28-09-2023  strava-activities      Drawers, everything drawers
+28-09-2023  strava-activities      More performant way of rendering drawers
+28-09-2023  strava-activities      Enabled cron again
+28-09-2023  strava-activities      Finally refactored the whole thing
 ```
