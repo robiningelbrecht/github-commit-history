@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`5247`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`5727`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-12-10-2023  wca-rest-api             New API build
-12-10-2023  gotta-generate-em-all    Generated a new normal-type Pokémon named Gemfeather
-12-10-2023  strava-activities        Better weekday chart
-11-10-2023  robiningelbrecht         Updated GitHub profile
-11-10-2023  robiningelbrecht.be      New site build
-11-10-2023  strava-activities        Updated strava activities
-11-10-2023  wca-rest-api             New API build
-11-10-2023  gotta-generate-em-all    Generated a new steel-type Pokémon named Gemtorus
-11-10-2023  twisty-puzzle-scrambler  Update README.md
-11-10-2023  twisty-puzzle-scrambler  Update README.md
+13-10-2023  wca-rest-api           New API build
+13-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cosmstag
+13-10-2023  strava-activities      Deleted files
+13-10-2023  strava-activities      Deleted files
+13-10-2023  strava-activities      Deleted data
+13-10-2023  strava-activities      Deleted data
+13-10-2023  strava-activities      Merge remote-tracking branch &#039;upstream/master&#039;
+13-10-2023  strava-activities      Merge remote-tracking branch &#039;upstream/master&#039;
+13-10-2023  strava-activities      Fix issues for huge amount of activities
+13-10-2023  strava-activities      Fix issues for huge amount of activities
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1399 commits     ███████░░░░░░░░░░░░░░░░░░   26.66 %
-🌆 Daytime                 2056 commits     ██████████░░░░░░░░░░░░░░░   39.18 %
-🌃 Evening                 1462 commits     ███████░░░░░░░░░░░░░░░░░░   27.86 %
-🌙 Night                   330 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   6.29 %
+🌞 Morning                 1493 commits     ███████░░░░░░░░░░░░░░░░░░   26.07 %
+🌆 Daytime                 2240 commits     ██████████░░░░░░░░░░░░░░░   39.11 %
+🌃 Evening                 1663 commits     ███████░░░░░░░░░░░░░░░░░░   29.04 %
+🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.78 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    907 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
-Tuesday                   737 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Wednesday                 786 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Thursday                  685 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.06 %
-Friday                    752 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Saturday                  613 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Sunday                    767 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.83 %
+Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Friday                    823 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Saturday                  662 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Sunday                    816 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
@@ -47,14 +47,14 @@ Sunday                    767 commits      ████░░░░░░░░�
 **💬 I mostly code in PHP**
 
 ```text
-PHP                       23 repos         ███████████░░░░░░░░░░░░░░   44.23 %
-JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   21.15 %
-CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
-HTML                      4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69 %
-Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
-Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
-Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
-TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92 %
+PHP                       23 repos         ███████████░░░░░░░░░░░░░░   43.40 %
+JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   20.75 %
+HTML                      5 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   9.43 %
+CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.55 %
+Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
+Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
+Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
+TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
