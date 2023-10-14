@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`5727`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`5733`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
+14-10-2023  wca-rest-api           New API build
+14-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Arachnite
+13-10-2023  robiningelbrecht       Updated GitHub profile
+13-10-2023  robiningelbrecht.be    New site build
+13-10-2023  strava-activities      Updated strava activities
+13-10-2023  strava-activities      Updated strava activities
 13-10-2023  wca-rest-api           New API build
 13-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cosmstag
 13-10-2023  strava-activities      Deleted files
 13-10-2023  strava-activities      Deleted files
-13-10-2023  strava-activities      Deleted data
-13-10-2023  strava-activities      Deleted data
-13-10-2023  strava-activities      Merge remote-tracking branch &#039;upstream/master&#039;
-13-10-2023  strava-activities      Merge remote-tracking branch &#039;upstream/master&#039;
-13-10-2023  strava-activities      Fix issues for huge amount of activities
-13-10-2023  strava-activities      Fix issues for huge amount of activities
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1493 commits     ███████░░░░░░░░░░░░░░░░░░   26.07 %
-🌆 Daytime                 2240 commits     ██████████░░░░░░░░░░░░░░░   39.11 %
-🌃 Evening                 1663 commits     ███████░░░░░░░░░░░░░░░░░░   29.04 %
-🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.78 %
+🌞 Morning                 1493 commits     ███████░░░░░░░░░░░░░░░░░░   26.04 %
+🌆 Daytime                 2242 commits     ██████████░░░░░░░░░░░░░░░   39.11 %
+🌃 Evening                 1667 commits     ███████░░░░░░░░░░░░░░░░░░   29.08 %
+🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.77 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.83 %
-Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Friday                    823 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Saturday                  662 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Sunday                    816 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.25 %
+Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.81 %
+Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Friday                    827 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Saturday                  664 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Sunday                    816 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
