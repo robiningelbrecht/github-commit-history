@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`5733`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`5906`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-14-10-2023  wca-rest-api           New API build
-14-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Arachnite
-13-10-2023  robiningelbrecht       Updated GitHub profile
-13-10-2023  robiningelbrecht.be    New site build
-13-10-2023  strava-activities      Updated strava activities
-13-10-2023  strava-activities      Updated strava activities
-13-10-2023  wca-rest-api           New API build
-13-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Cosmstag
-13-10-2023  strava-activities      Deleted files
-13-10-2023  strava-activities      Deleted files
+15-10-2023  strava-activities-template  Better readme
+15-10-2023  strava-activities-template  Do not run on cron
+15-10-2023  playstation-easy-platinums  Added 27 new games to list: Diorama Dungeoncrawl: Master of the Living Castle (AS • PS5), Russian Pinocchio (NA • PS4), Russian Pinocchio (EU • PS4), Wire Lips (AS • PS4), Love Kuesuto (EU • PS5), Two Lane (AS • PS4), Two Lane (EU • PS4), Word Space (AS • PS5), Word Space (AS • PS4), Funny Alphabet (JP • PS5), Funny Alphabet (JP • PS4), Wild Pinball (PS4), Wild Pinball (PS5), Word Space (EU • PS5), Word Space (EU • PS4), Word Space (NA • PS5), Word Space (NA • PS4), Word Space (PS4), Pirates on Target (EU • PS5), Pirates on Target (EU • PS4), Pirates on Target (NA • PS5), Pirates on Target (NA • PS4), Two Lane (NA • PS4), Two Lane (JP • PS4), D Laser (PS4), Ball Lab 2 (PS5), Kittengumi: The Sakabato&#039;s Thief (PS5)
+15-10-2023  wca-rest-api                New API build
+15-10-2023  strava-activities-template  Install html vrsion
+15-10-2023  strava-activities           Updated strava activities
+15-10-2023  strava-activities           Updated strava activities
+15-10-2023  strava-activities-template  Tutorial how to host HTML version
+15-10-2023  strava-activities-template  Readme improvement
+15-10-2023  strava-activities           Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,24 +22,24 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1493 commits     ███████░░░░░░░░░░░░░░░░░░   26.04 %
-🌆 Daytime                 2242 commits     ██████████░░░░░░░░░░░░░░░   39.11 %
-🌃 Evening                 1667 commits     ███████░░░░░░░░░░░░░░░░░░   29.08 %
-🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.77 %
+🌞 Morning                 1621 commits     ███████░░░░░░░░░░░░░░░░░░   27.45 %
+🌆 Daytime                 2283 commits     ██████████░░░░░░░░░░░░░░░   38.66 %
+🌃 Evening                 1671 commits     ███████░░░░░░░░░░░░░░░░░░   28.29 %
+🌙 Night                   331 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.60 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Monday**
+**📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.81 %
-Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Friday                    827 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Saturday                  664 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Sunday                    816 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
+Monday                    964 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Tuesday                   838 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Wednesday                 861 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Thursday                  763 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Friday                    827 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Saturday                  668 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Sunday                    985 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.68 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
@@ -47,14 +47,14 @@ Sunday                    816 commits      ████░░░░░░░░�
 **💬 I mostly code in PHP**
 
 ```text
-PHP                       23 repos         ███████████░░░░░░░░░░░░░░   43.40 %
-JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   20.75 %
-HTML                      5 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   9.43 %
-CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.55 %
-Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
-Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
-Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
-TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89 %
+PHP                       24 repos         ███████████░░░░░░░░░░░░░░   44.44 %
+JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+HTML                      5 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   9.26 %
+CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.41 %
+Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
+Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
+Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
+TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
