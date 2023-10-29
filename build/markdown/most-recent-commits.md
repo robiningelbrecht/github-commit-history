@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-28-10-2023  strava-activities      Updated strava activities
-28-10-2023  strava-activities      Updated strava activities
-28-10-2023  wca-rest-api           New API build
-28-10-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Gemquatic
-27-10-2023  robiningelbrecht       Updated GitHub profile
-27-10-2023  robiningelbrecht.be    New site build
-27-10-2023  strava-activities      Updated strava activities
-27-10-2023  strava-activities      Updated strava activities
-27-10-2023  wca-rest-api           New API build
-27-10-2023  gotta-generate-em-all  Generated a new dark-type Pokémon named Goldlynxion
+29-10-2023  strava-activities-template  Merge pull request #40 from robiningelbrecht/ftp-history  FTP history
+29-10-2023  strava-activities-template  Updated snapshots
+29-10-2023  strava-activities-template  FTP history
+29-10-2023  strava-activities           FTP history
+29-10-2023  strava-activities           FTP history
+29-10-2023  strava-activities           Updated template to latest version
+29-10-2023  strava-activities           Updated template to latest version
+29-10-2023  strava-activities-template  Merge pull request #39 from robiningelbrecht/show-ftp-history  Show ftp history
+29-10-2023  strava-activities-template  Readme
+29-10-2023  strava-activities-template  Show FTP history
 ```
