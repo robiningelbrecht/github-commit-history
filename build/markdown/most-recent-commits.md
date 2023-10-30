@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-29-10-2023  strava-activities-template  Merge pull request #40 from robiningelbrecht/ftp-history  FTP history
-29-10-2023  strava-activities-template  Updated snapshots
-29-10-2023  strava-activities-template  FTP history
-29-10-2023  strava-activities           FTP history
-29-10-2023  strava-activities           FTP history
-29-10-2023  strava-activities           Updated template to latest version
-29-10-2023  strava-activities           Updated template to latest version
-29-10-2023  strava-activities-template  Merge pull request #39 from robiningelbrecht/show-ftp-history  Show ftp history
-29-10-2023  strava-activities-template  Readme
-29-10-2023  strava-activities-template  Show FTP history
+30-10-2023  wca-rest-api                New API build
+30-10-2023  gotta-generate-em-all       Generated a new dark-type Pokémon named Gembrute
+30-10-2023  strava-activities-template  Merge pull request #42 from robiningelbrecht/refactor-repositories  Refactor repositories
+30-10-2023  strava-activities-template  GearRepository
+30-10-2023  strava-activities-template  FtpRepository
+30-10-2023  strava-activities-template  ChallengeRepository
+30-10-2023  strava-activities-template  ActivityPowerRepository
+30-10-2023  strava-activities-template  ActivityStreamRepository
+30-10-2023  strava-activities-template  ImageRepository
+30-10-2023  strava-activities-template  DbalActivityRepository
 ```
