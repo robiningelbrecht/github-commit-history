@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-01-11-2023  wca-rest-api                New API build
-01-11-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Psychalith
-31-10-2023  robiningelbrecht.be         New site build
-31-10-2023  robiningelbrecht            Updated GitHub profile
-31-10-2023  strava-activities           Updated strava activities
-31-10-2023  strava-activities           Updated strava activities
-31-10-2023  strava-activities-template  Merge pull request #47 from robiningelbrecht/more-testing  More testing
-31-10-2023  strava-activities-template  More testing
-31-10-2023  strava-activities-template  More testing
-31-10-2023  strava-activities-template  More testing
+02-11-2023  wca-rest-api                New API build
+02-11-2023  strava-activities-template  Merge pull request #49 from robiningelbrecht/heart-rate-zones  Heart rate zones
+02-11-2023  strava-activities-template  Merge branch &#039;master&#039; into heart-rate-zones
+02-11-2023  strava-activities-template  Heart rate zones
+02-11-2023  strava-activities           Updated strava activities
+02-11-2023  strava-activities           Updated strava activities
+02-11-2023  strava-activities           Updated template to latest version
+02-11-2023  strava-activities           Updated template to latest version
+02-11-2023  strava-activities-template  Merge pull request #48 from robiningelbrecht/heart-rate-zones  Heart rate zones
+02-11-2023  strava-activities-template  Heart rate zones
 ```

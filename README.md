@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6433`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6448`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-01-11-2023  wca-rest-api                New API build
-01-11-2023  gotta-generate-em-all       Generated a new psychic-type Pokémon named Psychalith
-31-10-2023  robiningelbrecht.be         New site build
-31-10-2023  robiningelbrecht            Updated GitHub profile
-31-10-2023  strava-activities           Updated strava activities
-31-10-2023  strava-activities           Updated strava activities
-31-10-2023  strava-activities-template  Merge pull request #47 from robiningelbrecht/more-testing  More testing
-31-10-2023  strava-activities-template  More testing
-31-10-2023  strava-activities-template  More testing
-31-10-2023  strava-activities-template  More testing
+02-11-2023  wca-rest-api                New API build
+02-11-2023  strava-activities-template  Merge pull request #49 from robiningelbrecht/heart-rate-zones  Heart rate zones
+02-11-2023  strava-activities-template  Merge branch &#039;master&#039; into heart-rate-zones
+02-11-2023  strava-activities-template  Heart rate zones
+02-11-2023  strava-activities           Updated strava activities
+02-11-2023  strava-activities           Updated strava activities
+02-11-2023  strava-activities           Updated template to latest version
+02-11-2023  strava-activities           Updated template to latest version
+02-11-2023  strava-activities-template  Merge pull request #48 from robiningelbrecht/heart-rate-zones  Heart rate zones
+02-11-2023  strava-activities-template  Heart rate zones
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1741 commits     ███████░░░░░░░░░░░░░░░░░░   27.06 %
-🌆 Daytime                 2531 commits     ██████████░░░░░░░░░░░░░░░   39.34 %
-🌃 Evening                 1826 commits     ███████░░░░░░░░░░░░░░░░░░   28.38 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.21 %
+🌞 Morning                 1741 commits     ███████░░░░░░░░░░░░░░░░░░   27.00 %
+🌆 Daytime                 2542 commits     ██████████░░░░░░░░░░░░░░░   39.42 %
+🌃 Evening                 1830 commits     ███████░░░░░░░░░░░░░░░░░░   28.38 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.20 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1092 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
-Tuesday                   934 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Wednesday                 898 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Thursday                  810 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Friday                    904 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Saturday                  712 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Sunday                    1083 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.84 %
+Monday                    1092 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94 %
+Tuesday                   934 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Wednesday                 902 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Thursday                  821 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Friday                    904 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Saturday                  712 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+Sunday                    1083 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.80 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
@@ -52,9 +52,9 @@ JavaScript                11 repos         █████░░░░░░░�
 HTML                      5 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   9.26 %
 CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.41 %
 TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
-Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
 Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
 Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
+Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
