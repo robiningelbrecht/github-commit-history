@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-02-11-2023  wca-rest-api                New API build
-02-11-2023  strava-activities-template  Merge pull request #49 from robiningelbrecht/heart-rate-zones  Heart rate zones
-02-11-2023  strava-activities-template  Merge branch &#039;master&#039; into heart-rate-zones
-02-11-2023  strava-activities-template  Heart rate zones
-02-11-2023  strava-activities           Updated strava activities
-02-11-2023  strava-activities           Updated strava activities
-02-11-2023  strava-activities           Updated template to latest version
-02-11-2023  strava-activities           Updated template to latest version
-02-11-2023  strava-activities-template  Merge pull request #48 from robiningelbrecht/heart-rate-zones  Heart rate zones
-02-11-2023  strava-activities-template  Heart rate zones
+03-11-2023  wca-rest-api                New API build
+03-11-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Leafalon
+03-11-2023  strava-activities-template  Merge pull request #51 from robiningelbrecht/fix-detailed-power-data  Fix detailed power data
+03-11-2023  strava-activities-template  Fix detailed power data
+02-11-2023  robiningelbrecht            Updated GitHub profile
+02-11-2023  robiningelbrecht.be         New site build
+02-11-2023  strava-activities-template  Merge pull request #50 from robiningelbrecht/fix-calorie-bug  Fix calorie bug
+02-11-2023  strava-activities-template  Fix calorie bug
+02-11-2023  strava-activities-template  Fix calorie bug
+02-11-2023  strava-activities           Fixed calorie bug
 ```
