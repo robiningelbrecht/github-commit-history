@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-03-11-2023  wca-rest-api                New API build
-03-11-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Leafalon
-03-11-2023  strava-activities-template  Merge pull request #51 from robiningelbrecht/fix-detailed-power-data  Fix detailed power data
-03-11-2023  strava-activities-template  Fix detailed power data
-02-11-2023  robiningelbrecht            Updated GitHub profile
-02-11-2023  robiningelbrecht.be         New site build
-02-11-2023  strava-activities-template  Merge pull request #50 from robiningelbrecht/fix-calorie-bug  Fix calorie bug
-02-11-2023  strava-activities-template  Fix calorie bug
-02-11-2023  strava-activities-template  Fix calorie bug
-02-11-2023  strava-activities           Fixed calorie bug
+04-11-2023  strava-activities-template  Merge pull request #61 from robiningelbrecht/fix-eddington-chart  Fixed Eddington chart interval
+04-11-2023  strava-activities-template  Fixed Eddington chart interval
+04-11-2023  strava-activities           Updated strava activities
+04-11-2023  strava-activities           Updated strava activities
+04-11-2023  strava-activities           Updated template to latest version
+04-11-2023  strava-activities           Updated template to latest version
+04-11-2023  strava-activities-template  Merge pull request #60 from robiningelbrecht/number-of-photos-on-tab  Number of photos on tab
+04-11-2023  strava-activities           Updated workflows
+04-11-2023  strava-activities           Updated workflows
+04-11-2023  strava-activities-template  Number of photos on tabs
 ```
