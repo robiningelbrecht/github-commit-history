@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-05-11-2023  wca-rest-api                New API build
-05-11-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltibexa
-04-11-2023  robiningelbrecht            Updated GitHub profile
-04-11-2023  robiningelbrecht.be         New site build
-04-11-2023  strava-activities-template  Merge pull request #65 from robiningelbrecht/indoor-bike-vs-zwift  Logo backgound
-04-11-2023  strava-activities-template  Merge branch &#039;master&#039; into indoor-bike-vs-zwift
-04-11-2023  strava-activities-template  Logo backgound
-04-11-2023  strava-activities-template  Merge pull request #64 from robiningelbrecht/indoor-bike-vs-zwift  Indoor bike vs zwift
-04-11-2023  strava-activities-template  Indoor vs zwift
-04-11-2023  strava-activities-template  Indoor vs zwift
+06-11-2023  wca-rest-api                New API build
+06-11-2023  gotta-generate-em-all       Generated a new electric-type Pokémon named Voltibexil
+06-11-2023  strava-activities           Updated strava activities
+06-11-2023  strava-activities           Updated strava activities
+06-11-2023  strava-activities           Updated template to latest version
+06-11-2023  strava-activities           Updated template to latest version
+06-11-2023  strava-activities-template  Merge pull request #66 from robiningelbrecht/import-challenge-history  Import challenge history
+06-11-2023  strava-activities-template  Import challenge history
+05-11-2023  robiningelbrecht            Updated GitHub profile
+05-11-2023  robiningelbrecht.be         New site build
 ```
