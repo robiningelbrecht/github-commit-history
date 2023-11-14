@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6637`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6653`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-13-11-2023  wca-rest-api           New API build
-13-11-2023  gotta-generate-em-all  Generated a new water-type Pokémon named Regalcyne
-12-11-2023  robiningelbrecht       Updated GitHub profile
-12-11-2023  robiningelbrecht.be    New site build
-12-11-2023  strava-activities      Updated strava activities
-12-11-2023  strava-activities      Updated strava activities
-12-11-2023  wca-rest-api           New API build
-12-11-2023  gotta-generate-em-all  Generated a new steel-type Pokémon named Deserthane
-11-11-2023  robiningelbrecht       Updated GitHub profile
-11-11-2023  robiningelbrecht.be    New site build
+14-11-2023  strava-activities-template  Merge pull request #81 from robiningelbrecht/introduce-modal  Introduce modal
+14-11-2023  strava-activities-template  Merge branch &#039;master&#039; into introduce-modal
+14-11-2023  strava-activities-template  Remove modal footer
+14-11-2023  strava-activities-template  Remove modal footer
+14-11-2023  wca-rest-api                New API build
+14-11-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Junglemeowdite
+14-11-2023  playstation-easy-platinums  Added 10 new games to list: Bamboo (PS4), Bamboo (PS4), Bamboo (PS4), Bamboo (PS4), Excessive Trim (PS5), Excessive Trim (PS4), Danjigoku (PS4), The Forgotten Tribe (PS4), Lily in Puzzle World (PS5), Midnight Submersion (PS4)
+13-11-2023  robiningelbrecht            Updated GitHub profile
+13-11-2023  robiningelbrecht.be         New site build
+13-11-2023  strava-activities-template  Merge pull request #80 from robiningelbrecht/introduce-modal  Introduce-modal
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1777 commits     ███████░░░░░░░░░░░░░░░░░░   26.77 %
-🌆 Daytime                 2607 commits     ██████████░░░░░░░░░░░░░░░   39.28 %
-🌃 Evening                 1918 commits     ███████░░░░░░░░░░░░░░░░░░   28.90 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.05 %
+🌞 Morning                 1778 commits     ███████░░░░░░░░░░░░░░░░░░   26.72 %
+🌆 Daytime                 2609 commits     ██████████░░░░░░░░░░░░░░░   39.22 %
+🌃 Evening                 1931 commits     ███████░░░░░░░░░░░░░░░░░░   29.02 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.04 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1113 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.77 %
-Tuesday                   961 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Wednesday                 918 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Thursday                  861 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Friday                    926 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Saturday                  761 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Sunday                    1097 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+Monday                    1122 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+Tuesday                   968 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Wednesday                 918 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Thursday                  861 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Friday                    926 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Saturday                  761 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Sunday                    1097 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
