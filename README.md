@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6729`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6738`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
+19-11-2023  strava-activities           Updated strava activities
+19-11-2023  strava-activities           Updated strava activities
+19-11-2023  playstation-easy-platinums  Added 26 new games to list: Whispered Flight (JP • PS4), Sakura Alien 2 (PS5), Sakura Alien 2 (PS4), Mirror Floor (JP • PS4), Mirror Floor (NA • PS4), Sakura Alien 2 (PS5), Sakura Alien 2 (PS4), Lily in Puzzle World (EU • PS4), Lily in Puzzle World (NA • PS5), Lily in Puzzle World (NA • PS4), Bunny Memory (NA • PS5), Ziggy Zaggy (NA • PS5), Ziggy Zaggy (NA • PS4), The Forgotten Tribe (NA • PS4), Danjigoku (NA • PS4), Bunny Memory (EU • PS5), Bunny Memory (AS • PS5), Bunny Memory (JP • PS5), Ziggy Zaggy (EU • PS5), Ziggy Zaggy (EU • PS4), The Forgotten Tribe (JP • PS4), The Forgotten Tribe (AS • PS4), Danjigoku (JP • PS4), Danjigoku (AS • PS4), Settris (PS5), Ariko&#039;s Enchanted Forest (PS5)
+19-11-2023  strava-activities           Updated strava activities
+19-11-2023  strava-activities           Updated strava activities
+19-11-2023  wca-rest-api                New API build
+19-11-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Goldabble
+18-11-2023  robiningelbrecht            Updated GitHub profile
+18-11-2023  robiningelbrecht.be         New site build
 18-11-2023  strava-activities           Updated strava activities
-18-11-2023  strava-activities           Updated strava activities
-18-11-2023  strava-activities           Updated strava activities
-18-11-2023  strava-activities           Updated strava activities
-18-11-2023  strava-activities           Updated template to latest version
-18-11-2023  strava-activities           Updated template to latest version
-18-11-2023  strava-activities-template  Merge pull request #87 from robiningelbrecht/image-popover  Image popover
-18-11-2023  strava-activities-template  Snapshots
-18-11-2023  strava-activities-template  Snapshots
-18-11-2023  strava-activities-template  Image popover
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1784 commits     ███████░░░░░░░░░░░░░░░░░░   26.51 %
-🌆 Daytime                 2647 commits     ██████████░░░░░░░░░░░░░░░   39.34 %
-🌃 Evening                 1963 commits     ███████░░░░░░░░░░░░░░░░░░   29.17 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.98 %
+🌞 Morning                 1784 commits     ███████░░░░░░░░░░░░░░░░░░   26.48 %
+🌆 Daytime                 2652 commits     ██████████░░░░░░░░░░░░░░░   39.36 %
+🌃 Evening                 1967 commits     ███████░░░░░░░░░░░░░░░░░░   29.19 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.97 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1122 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
-Tuesday                   984 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
-Wednesday                 926 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Thursday                  867 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.88 %
-Friday                    948 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Saturday                  785 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Sunday                    1097 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Monday                    1122 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Tuesday                   984 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Wednesday                 926 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Thursday                  867 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Friday                    948 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Saturday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Sunday                    1104 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
