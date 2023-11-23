@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6764`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6779`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-22-11-2023  computer-club-chome-extension  Templates and loading states
-22-11-2023  computer-club-chome-extension  Designing is my thang now
-22-11-2023  wca-rest-api                   New API build
-22-11-2023  gotta-generate-em-all          Generated a new fighting-type Pokémon named Ruinstonehorn
-22-11-2023  computer-club-chome-extension  Im a real designer now
-22-11-2023  computer-club-chome-extension  Fucking around
-22-11-2023  computer-club-chome-extension  Fucking aroundf
-21-11-2023  robiningelbrecht               Updated GitHub profile
-21-11-2023  robiningelbrecht.be            New site build
-21-11-2023  strava-activities              Updated strava activities
+23-11-2023  computer-club-chome-extension  Readme
+23-11-2023  computer-club-chome-extension  First build
+23-11-2023  playstation-easy-platinums     Added 29 new games to list: Boaty Tanks (PS4), Happi Basudei (PS5), Bem Feito (PS5), Bem Feito (PS4), Amabilly (EU • PS5), Amabilly (EU • PS4), Snake Break (NA • PS4), Flappy Eros (PS4), Flappy Eros (PS4), Submarines (PS5), Submarines (PS4), Bob The Elementalist (EU • PS5), Bob The Elementalist (EU • PS4), Bob The Elementalist (NA • PS5), Bob The Elementalist (NA • PS4), Slick Slack (EU • PS4), Slick Slack (AS • PS4), Slick Slack (JP • PS4), Slick Slack (NA • PS4), Pump Press (NA • PS4), Repentless 2 (PS5), Kitty Krawler (AS • PS4), Happi Basudei (EU • PS5), Happi Basudei (PS5), Happi Basudei (PS5), Pump Press (JP • PS4), Pump Press (AS • PS4), Pump Press (EU • PS4), The Perplexing Orb: Bounce N&#039; Roll (PS5)
+23-11-2023  computer-club-chome-extension  Removed example
+23-11-2023  wca-rest-api                   New API build
+23-11-2023  computer-club-chome-extension  Fixed libnk
+23-11-2023  computer-club-chome-extension  Example
+23-11-2023  computer-club-chome-extension  Example
+23-11-2023  computer-club-chome-extension  Example
+23-11-2023  computer-club-chome-extension  First version
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1788 commits     ███████░░░░░░░░░░░░░░░░░░   26.43 %
-🌆 Daytime                 2661 commits     ██████████░░░░░░░░░░░░░░░   39.34 %
-🌃 Evening                 1980 commits     ███████░░░░░░░░░░░░░░░░░░   29.27 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.95 %
+🌞 Morning                 1788 commits     ███████░░░░░░░░░░░░░░░░░░   26.38 %
+🌆 Daytime                 2672 commits     ██████████░░░░░░░░░░░░░░░   39.42 %
+🌃 Evening                 1984 commits     ███████░░░░░░░░░░░░░░░░░░   29.27 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.94 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.74 %
-Tuesday                   991 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Wednesday                 933 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Thursday                  867 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Friday                    948 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Saturday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Sunday                    1106 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Monday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.70 %
+Tuesday                   991 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Wednesday                 937 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Thursday                  878 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Friday                    948 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Saturday                  787 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Sunday                    1106 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
