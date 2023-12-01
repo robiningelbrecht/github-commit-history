@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`6952`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7004`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-30-11-2023  strava-activities           Updated strava activities
-30-11-2023  strava-activities           Updated strava activities
-30-11-2023  strava-activities           Updated template to latest version
-30-11-2023  strava-activities           Updated template to latest version
-30-11-2023  strava-activities-template  Merge pull request #112 from robiningelbrecht/monthly-modal  Monthly modal
-30-11-2023  strava-activities-template  Go to previous next months
-30-11-2023  wca-rest-api                New API build
-30-11-2023  strava-activities-template  Monthly modal
-30-11-2023  strava-activities-template  Monthly modal
-30-11-2023  gotta-generate-em-all       Generated a new steel-type Pokémon named Maskouro
+01-12-2023  wca-rest-api                New API build
+01-12-2023  gotta-generate-em-all       Generated a new grass-type Pokémon named Crystantis
+01-12-2023  strava-activities           Updated strava activities
+01-12-2023  strava-activities           Updated strava activities
+01-12-2023  strava-activities           Updated template to latest version
+01-12-2023  strava-activities           Updated template to latest version
+01-12-2023  strava-activities-template  Merge pull request #120 from robiningelbrecht/better-route  Better router
+01-12-2023  strava-activities-template  Simplified router
+01-12-2023  strava-activities-template  Better router
+01-12-2023  strava-activities           Updated template to latest version
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1848 commits     ███████░░░░░░░░░░░░░░░░░░   26.58 %
-🌆 Daytime                 2721 commits     ██████████░░░░░░░░░░░░░░░   39.14 %
-🌃 Evening                 2048 commits     ███████░░░░░░░░░░░░░░░░░░   29.46 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82 %
+🌞 Morning                 1861 commits     ███████░░░░░░░░░░░░░░░░░░   26.57 %
+🌆 Daytime                 2731 commits     ██████████░░░░░░░░░░░░░░░   38.99 %
+🌃 Evening                 2077 commits     ███████░░░░░░░░░░░░░░░░░░   29.65 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.78 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1155 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-Tuesday                   1000 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.38 %
-Wednesday                 963 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Thursday                  918 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Friday                    979 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Saturday                  805 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Sunday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Monday                    1155 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Tuesday                   1000 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Wednesday                 963 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Thursday                  948 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Friday                    1001 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Saturday                  805 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Sunday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
