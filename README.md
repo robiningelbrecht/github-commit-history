@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7034`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7132`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-02-12-2023  wca-rest-api                New API build
-02-12-2023  strava-activities-template  Merge pull request #124 from robiningelbrecht/code-improvements  Code improvements
-02-12-2023  strava-activities-template  code improvements
-02-12-2023  strava-activities-template  Merge pull request #123 from robiningelbrecht/challenge-consistency  Challenge consistency
-02-12-2023  strava-activities-template  Updated CSS
-02-12-2023  strava-activities-template  Merge branch &#039;master&#039; into challenge-consistency
-02-12-2023  strava-activities           CSS
-02-12-2023  strava-activities           CSS
-02-12-2023  strava-activities           Updated strava activities
-02-12-2023  strava-activities           Updated strava activities
+03-12-2023  strava-activities           Updated strava activities
+03-12-2023  strava-activities           Updated strava activities
+03-12-2023  strava-activities           Updated template to latest version
+03-12-2023  strava-activities           Updated template to latest version
+03-12-2023  strava-activities-template  Merge pull request #140 from robiningelbrecht/move-templates  Better calorie svg
+03-12-2023  strava-activities-template  Merge branch &#039;master&#039; into move-templates
+03-12-2023  strava-activities-template  Better calory svg
+03-12-2023  playstation-easy-platinums  Added 14 new games to list: Criss Cross (PS4), Settris (PS4), Settris (PS4), Stroke the Animals (PS5), Criss Cross (PS4), Totally Normal Journey (PS5), Runnyk (EU • PS4), Little Mouse&#039;s Encyclopedia (NA • PS4), White Wings (PS4), Anime Dream (PS4), The Traveler&#039;s Path (PS5), The Traveler&#039;s Path (PS4), The Perplexing Orb: Bounce N&#039; Roll (EU • PS4), The Traveler&#039;s Path (PS4)
+03-12-2023  strava-activities-template  Merge pull request #139 from robiningelbrecht/move-templates  Move templates
+03-12-2023  strava-activities-template  Move templates
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,24 +22,24 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1869 commits     ███████░░░░░░░░░░░░░░░░░░   26.57 %
-🌆 Daytime                 2749 commits     ██████████░░░░░░░░░░░░░░░   39.08 %
-🌃 Evening                 2081 commits     ███████░░░░░░░░░░░░░░░░░░   29.58 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.76 %
+🌞 Morning                 1896 commits     ███████░░░░░░░░░░░░░░░░░░   26.58 %
+🌆 Daytime                 2814 commits     ██████████░░░░░░░░░░░░░░░   39.46 %
+🌃 Evening                 2087 commits     ███████░░░░░░░░░░░░░░░░░░   29.26 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.70 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Monday**
+**📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1155 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Tuesday                   1000 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.22 %
-Wednesday                 963 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Thursday                  948 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
-Friday                    1005 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-Saturday                  831 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Sunday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+Monday                    1155 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Tuesday                   1000 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Wednesday                 963 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Thursday                  948 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Friday                    1005 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.09 %
+Saturday                  846 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Sunday                    1215 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
