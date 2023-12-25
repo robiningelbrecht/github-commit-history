@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7587`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7601`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-24-12-2023  strava-activities           Updated strava activities
-24-12-2023  strava-activities           Updated strava activities
-24-12-2023  strava-activities           Updated template to latest version
-24-12-2023  strava-activities           Updated template to latest version
-24-12-2023  strava-activities-template  Merge pull request #212 from robiningelbrecht/fix-week-number-trickery  Fix week number trickery
-24-12-2023  strava-activities-template  Fiw eek number trickery
-24-12-2023  strava-activities-template  Merge pull request #208 from robiningelbrecht/fix-css-waw  Fix css waw
-24-12-2023  strava-activities-template  Snapshots
-24-12-2023  strava-activities-template  Format calories
-24-12-2023  strava-activities-template  Format calories
+25-12-2023  strava-activities-template  Merge pull request #224 from robiningelbrecht/fix-activity-import  Fix activity import
+25-12-2023  strava-activities-template  Fix activity import
+25-12-2023  strava-activities           Updated strava activities
+25-12-2023  strava-activities           Updated strava activities
+25-12-2023  strava-activities-template  Merge pull request #223 from robiningelbrecht/revert-222-copy-new-versions-of-workflows  Revert &quot;Copy new versions of workflows&quot;
+25-12-2023  strava-activities-template  Revert &quot;Copy new versions of workflows&quot;
+25-12-2023  wca-rest-api                New API build
+25-12-2023  strava-activities-template  Merge pull request #222 from robiningelbrecht/copy-new-versions-of-workflows  Copy new versions of workflows
+25-12-2023  strava-activities-template  Copy new versions of workflows
+25-12-2023  gotta-generate-em-all       Generated a new water-type Pokémon named Riviguard
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1972 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99 %
-🌆 Daytime                 3037 commits     ██████████░░░░░░░░░░░░░░░   40.03 %
-🌃 Evening                 2243 commits     ███████░░░░░░░░░░░░░░░░░░   29.56 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.42 %
+🌞 Morning                 1972 commits     ██████░░░░░░░░░░░░░░░░░░░   25.94 %
+🌆 Daytime                 3047 commits     ██████████░░░░░░░░░░░░░░░   40.09 %
+🌃 Evening                 2247 commits     ███████░░░░░░░░░░░░░░░░░░   29.56 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.41 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1241 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Tuesday                   1057 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Wednesday                 1015 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Thursday                  1018 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42 %
-Friday                    1098 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Saturday                  884 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Sunday                    1274 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.79 %
+Monday                    1251 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Tuesday                   1057 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Wednesday                 1015 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
+Thursday                  1018 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Friday                    1098 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Saturday                  884 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Sunday                    1278 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.81 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
