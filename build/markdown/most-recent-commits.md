@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-26-12-2023  strava-activities-template  Merge pull request #234 from robiningelbrecht/fix-weekly-distances  Fix weekly distances
-26-12-2023  strava-activities-template  Fix weekly distances
-26-12-2023  strava-activities-template  Merge pull request #232 from robiningelbrecht/readme-updates  Readme
-26-12-2023  strava-activities-template  Readme
-26-12-2023  strava-activities           Update keyValue store
-26-12-2023  strava-activities           Update keyValue store
-26-12-2023  strava-activities-template  Merge pull request #231 from robiningelbrecht/new-key-value-store-build-files  New key value store build files
-26-12-2023  strava-activities-template  New key value store build files
-26-12-2023  strava-activities           reverted ftp change
-26-12-2023  strava-activities           reverted ftp change
+27-12-2023  strava-activities-template  Merge pull request #245 from robiningelbrecht/hour-format  Hour format
+27-12-2023  strava-activities-template  Hour format
+27-12-2023  strava-activities           Updated strava activities
+27-12-2023  strava-activities           Updated strava activities
+27-12-2023  strava-activities           Updated template to latest version
+27-12-2023  strava-activities           Updated template to latest version
+27-12-2023  strava-activities-template  Merge pull request #243 from robiningelbrecht/rework-svgs  Rework SVGs
+27-12-2023  strava-activities-template  placeholder image
+27-12-2023  strava-activities-template  svg star
+27-12-2023  strava-activities-template  SvgHashtag
 ```
