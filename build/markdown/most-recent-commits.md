@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-27-12-2023  strava-activities-template  Merge pull request #245 from robiningelbrecht/hour-format  Hour format
-27-12-2023  strava-activities-template  Hour format
-27-12-2023  strava-activities           Updated strava activities
-27-12-2023  strava-activities           Updated strava activities
-27-12-2023  strava-activities           Updated template to latest version
-27-12-2023  strava-activities           Updated template to latest version
-27-12-2023  strava-activities-template  Merge pull request #243 from robiningelbrecht/rework-svgs  Rework SVGs
-27-12-2023  strava-activities-template  placeholder image
-27-12-2023  strava-activities-template  svg star
-27-12-2023  strava-activities-template  SvgHashtag
+28-12-2023  strava-activities           Template update
+28-12-2023  strava-activities           Template update
+28-12-2023  strava-activities-template  Merge pull request #251 from robiningelbrecht/rouvy-logo-markdown-version  Rouvy logo on markdown version
+28-12-2023  strava-activities-template  Rouby logo on markdown version
+28-12-2023  strava-activities           Updated template
+28-12-2023  strava-activities           Updated template
+28-12-2023  strava-activities-template  Merge pull request #250 from robiningelbrecht/add-rouvy-logo  Add rouvy logo
+28-12-2023  strava-activities-template  Add rouvy logo
+28-12-2023  strava-activities-template  Add rouvy logo
+28-12-2023  strava-activities-template  Merge pull request #249 from robiningelbrecht/external-strava-link  External strava link
 ```

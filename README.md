@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7683`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7713`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-27-12-2023  strava-activities-template  Merge pull request #245 from robiningelbrecht/hour-format  Hour format
-27-12-2023  strava-activities-template  Hour format
-27-12-2023  strava-activities           Updated strava activities
-27-12-2023  strava-activities           Updated strava activities
-27-12-2023  strava-activities           Updated template to latest version
-27-12-2023  strava-activities           Updated template to latest version
-27-12-2023  strava-activities-template  Merge pull request #243 from robiningelbrecht/rework-svgs  Rework SVGs
-27-12-2023  strava-activities-template  placeholder image
-27-12-2023  strava-activities-template  svg star
-27-12-2023  strava-activities-template  SvgHashtag
+28-12-2023  strava-activities           Template update
+28-12-2023  strava-activities           Template update
+28-12-2023  strava-activities-template  Merge pull request #251 from robiningelbrecht/rouvy-logo-markdown-version  Rouvy logo on markdown version
+28-12-2023  strava-activities-template  Rouby logo on markdown version
+28-12-2023  strava-activities           Updated template
+28-12-2023  strava-activities           Updated template
+28-12-2023  strava-activities-template  Merge pull request #250 from robiningelbrecht/add-rouvy-logo  Add rouvy logo
+28-12-2023  strava-activities-template  Add rouvy logo
+28-12-2023  strava-activities-template  Add rouvy logo
+28-12-2023  strava-activities-template  Merge pull request #249 from robiningelbrecht/external-strava-link  External strava link
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1976 commits     ██████░░░░░░░░░░░░░░░░░░░   25.72 %
-🌆 Daytime                 3111 commits     ██████████░░░░░░░░░░░░░░░   40.49 %
-🌃 Evening                 2261 commits     ███████░░░░░░░░░░░░░░░░░░   29.43 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.36 %
+🌞 Morning                 1978 commits     ██████░░░░░░░░░░░░░░░░░░░   25.65 %
+🌆 Daytime                 3133 commits     ██████████░░░░░░░░░░░░░░░   40.62 %
+🌃 Evening                 2267 commits     ███████░░░░░░░░░░░░░░░░░░   29.39 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.34 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1258 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
-Tuesday                   1088 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Wednesday                 1059 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Thursday                  1018 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
-Friday                    1098 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-Saturday                  884 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-Sunday                    1278 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Monday                    1258 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Tuesday                   1088 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Wednesday                 1065 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Thursday                  1042 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Friday                    1098 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.24 %
+Saturday                  884 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Sunday                    1278 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
