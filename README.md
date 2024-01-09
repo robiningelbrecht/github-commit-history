@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7897`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7908`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
+09-01-2024  strava-activities           Docker yeay
+09-01-2024  strava-activities           Docker yeay
+09-01-2024  strava-activities-template  Merge pull request #294 from robiningelbrecht/added-docker  Added docker
+09-01-2024  strava-activities-template  All files deuh
+09-01-2024  strava-activities-template  Added docker
+09-01-2024  wca-rest-api                New API build
+09-01-2024  gotta-generate-em-all       Generated a new grass-type Pokémon named Barkstag
+08-01-2024  robiningelbrecht            Updated GitHub profile
+08-01-2024  robiningelbrecht.be         New site build
 08-01-2024  strava-activities           Updated strava activities
-08-01-2024  strava-activities           Updated strava activities
-08-01-2024  strava-activities           Updated template to latest version
-08-01-2024  strava-activities           Updated template to latest version
-08-01-2024  strava-activities-template  Merge pull request #292 from robiningelbrecht/yearly-stats  Yearly stats
-08-01-2024  strava-activities-template  More testing
-08-01-2024  strava-activities-template  Yearly stats
-08-01-2024  wca-rest-api                New API build
-08-01-2024  gotta-generate-em-all       Generated a new steel-type Pokémon named Desertuff
-07-01-2024  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,9 +22,9 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1993 commits     ██████░░░░░░░░░░░░░░░░░░░   25.24 %
-🌆 Daytime                 3213 commits     ██████████░░░░░░░░░░░░░░░   40.69 %
-🌃 Evening                 2356 commits     ███████░░░░░░░░░░░░░░░░░░   29.83 %
+🌞 Morning                 1993 commits     ██████░░░░░░░░░░░░░░░░░░░   25.20 %
+🌆 Daytime                 3215 commits     ██████████░░░░░░░░░░░░░░░   40.66 %
+🌃 Evening                 2365 commits     ███████░░░░░░░░░░░░░░░░░░   29.91 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.24 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1305 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-Tuesday                   1094 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Wednesday                 1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Thursday                  1052 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Friday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Saturday                  930 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Sunday                    1313 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Monday                    1309 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
+Tuesday                   1101 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Wednesday                 1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Thursday                  1052 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Friday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.31 %
+Saturday                  930 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Sunday                    1313 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
