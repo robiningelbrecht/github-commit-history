@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7914`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`7931`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-10-01-2024  wca-rest-api                New API build
-10-01-2024  gotta-generate-em-all       Generated a new fighting-type Pokémon named Rubblelynx
-09-01-2024  robiningelbrecht            Updated GitHub profile
-09-01-2024  robiningelbrecht.be         New site build
-09-01-2024  strava-activities           Updated strava activities
-09-01-2024  strava-activities           Updated strava activities
-09-01-2024  strava-activities           Docker yeay
-09-01-2024  strava-activities           Docker yeay
-09-01-2024  strava-activities-template  Merge pull request #294 from robiningelbrecht/added-docker  Added docker
-09-01-2024  strava-activities-template  All files deuh
+11-01-2024  strava-activities-template  Merge pull request #299 from robiningelbrecht/disable-gear-that-has-not-been-used  Disable gear that has not been used
+11-01-2024  strava-activities-template  Disable gear that has not been used
+11-01-2024  strava-activities-template  Merge pull request #297 from robiningelbrecht/update-readme-yo  Readme
+11-01-2024  strava-activities-template  Readme
+11-01-2024  strava-activities           Updated strava activities
+11-01-2024  strava-activities           Updated strava activities
+11-01-2024  strava-activities           Updated template to latest version
+11-01-2024  strava-activities           Updated template to latest version
+11-01-2024  strava-activities-template  Merge pull request #296 from robiningelbrecht/change-yearly-chart-to-distance  Yearly chart to distance
+11-01-2024  strava-activities-template  MAde a whoopsie
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 1993 commits     ██████░░░░░░░░░░░░░░░░░░░   25.18 %
-🌆 Daytime                 3217 commits     ██████████░░░░░░░░░░░░░░░   40.65 %
-🌃 Evening                 2369 commits     ███████░░░░░░░░░░░░░░░░░░   29.93 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.23 %
+🌞 Morning                 1993 commits     ██████░░░░░░░░░░░░░░░░░░░   25.13 %
+🌆 Daytime                 3230 commits     ██████████░░░░░░░░░░░░░░░   40.73 %
+🌃 Evening                 2373 commits     ███████░░░░░░░░░░░░░░░░░░   29.92 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.22 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1309 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Tuesday                   1105 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Wednesday                 1073 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Thursday                  1052 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Friday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.30 %
-Saturday                  930 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-Sunday                    1313 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Monday                    1309 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+Tuesday                   1105 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93 %
+Wednesday                 1077 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Thursday                  1065 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Friday                    1132 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Saturday                  930 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Sunday                    1313 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 

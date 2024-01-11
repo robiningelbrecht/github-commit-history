@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-10-01-2024  wca-rest-api                New API build
-10-01-2024  gotta-generate-em-all       Generated a new fighting-type Pokémon named Rubblelynx
-09-01-2024  robiningelbrecht            Updated GitHub profile
-09-01-2024  robiningelbrecht.be         New site build
-09-01-2024  strava-activities           Updated strava activities
-09-01-2024  strava-activities           Updated strava activities
-09-01-2024  strava-activities           Docker yeay
-09-01-2024  strava-activities           Docker yeay
-09-01-2024  strava-activities-template  Merge pull request #294 from robiningelbrecht/added-docker  Added docker
-09-01-2024  strava-activities-template  All files deuh
+11-01-2024  strava-activities-template  Merge pull request #299 from robiningelbrecht/disable-gear-that-has-not-been-used  Disable gear that has not been used
+11-01-2024  strava-activities-template  Disable gear that has not been used
+11-01-2024  strava-activities-template  Merge pull request #297 from robiningelbrecht/update-readme-yo  Readme
+11-01-2024  strava-activities-template  Readme
+11-01-2024  strava-activities           Updated strava activities
+11-01-2024  strava-activities           Updated strava activities
+11-01-2024  strava-activities           Updated template to latest version
+11-01-2024  strava-activities           Updated template to latest version
+11-01-2024  strava-activities-template  Merge pull request #296 from robiningelbrecht/change-yearly-chart-to-distance  Yearly chart to distance
+11-01-2024  strava-activities-template  MAde a whoopsie
 ```
