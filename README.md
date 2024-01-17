@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`8001`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`8016`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-17-01-2024  playstation-easy-platinums  Added 6 new games to list: A Little Walk in the Woods (PS5), A Little Walk in the Woods (PS5), A Little Walk in the Woods (PS5), A Little Walk in the Woods (PS5), Grimoire Organizer (JP • PS4), Kitten Hero (PS5)
-17-01-2024  strava-activities-template  Merge pull request #313 from robiningelbrecht/fix-mobile-gear-stats  Fix mobile gear stats
-17-01-2024  strava-activities-template  Snapshots
-17-01-2024  strava-activities-template  Fix mobile gear stats
-16-01-2024  robiningelbrecht            Updated GitHub profile
-16-01-2024  strava-activities           Updated strava activities
-16-01-2024  strava-activities           Updated strava activities
-16-01-2024  strava-activities           Updated template to latest version
-16-01-2024  strava-activities           Updated template to latest version
-16-01-2024  wca-rest-api                New API build
+17-01-2024  strava-activities           Updated strava activities
+17-01-2024  strava-activities           Updated strava activities
+17-01-2024  strava-activities-template  Merge pull request #315 from robiningelbrecht/read-part-4  Readme part 4
+17-01-2024  strava-activities-template  Readme part 4
+17-01-2024  strava-activities           Updated strava activities
+17-01-2024  strava-activities           Updated strava activities
+17-01-2024  strava-activities           Updated template to latest version
+17-01-2024  strava-activities           Updated template to latest version
+17-01-2024  strava-activities-template  Merge pull request #314 from robiningelbrecht/fix-import-segments-bug  Fix import segments bug
+17-01-2024  strava-activities-template  Added comment
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2004 commits     ██████░░░░░░░░░░░░░░░░░░░   25.05 %
-🌆 Daytime                 3252 commits     ██████████░░░░░░░░░░░░░░░   40.64 %
-🌃 Evening                 2410 commits     ████████░░░░░░░░░░░░░░░░░   30.12 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.19 %
+🌞 Morning                 2004 commits     ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+🌆 Daytime                 3265 commits     ██████████░░░░░░░░░░░░░░░   40.73 %
+🌃 Evening                 2412 commits     ████████░░░░░░░░░░░░░░░░░   30.09 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.18 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1324 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-Tuesday                   1114 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Wednesday                 1081 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Thursday                  1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Friday                    1145 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Saturday                  943 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Sunday                    1323 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Monday                    1324 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Tuesday                   1114 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Wednesday                 1096 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Thursday                  1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Friday                    1145 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Saturday                  943 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Sunday                    1323 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 

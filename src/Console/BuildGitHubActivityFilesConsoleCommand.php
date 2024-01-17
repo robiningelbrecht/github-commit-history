@@ -36,6 +36,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         $output->writeln('Building files');
+        $output->writeln('Rendering daytime progress bars');
         $dayTimeSummaryContent = $this->renderDayTimeProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/markdown/commit-history-day-time-summary.md',
@@ -46,6 +47,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $dayTimeSummaryContent[self::HTML],
         );
 
+        $output->writeln('Rendering week days progress bars');
         $weekdaySummaryContent = $this->renderWeekdaysProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/markdown/commit-history-week-day-summary.md',
@@ -56,6 +58,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $weekdaySummaryContent[self::HTML],
         );
 
+        $output->writeln('Rendering language progress bars');
         $reposPerLanguageContent = $this->renderLanguageProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/markdown/commit-history-language-summary.md',
@@ -66,6 +69,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $reposPerLanguageContent[self::HTML],
         );
 
+        $output->writeln('Rendering most recent commits');
         $mostRecentCommitsContent = $this->renderMostRecentCommits();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/markdown/most-recent-commits.md',
