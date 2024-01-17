@@ -35,6 +35,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
+        $output->writeln('Building files');
         $dayTimeSummaryContent = $this->renderDayTimeProgressBars();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/markdown/commit-history-day-time-summary.md',

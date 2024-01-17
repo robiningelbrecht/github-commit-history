@@ -27,6 +27,7 @@ class ImportGitHubActivityConsoleCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
+        $output->writeln('Importing commits');
         foreach ($this->gitHub->getRepos() as $gitHubRepo) {
             try {
                 $repo = $this->gitHubRepoRepository->findOneBy($gitHubRepo['full_name']);
