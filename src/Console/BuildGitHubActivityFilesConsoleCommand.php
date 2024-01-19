@@ -196,12 +196,10 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
     public function renderMostRecentCommits(): array
     {
-        var_dump('Before most recent commits');
         $templateContext = [
             'title' => '⏳ Most recent commits',
             'commits' => $this->gitHubCommitRepository->findMostRecentCommits(10),
         ];
-        var_dump('After most recent commits');
 
         return [
             self::MARKDOWN => $this->twig->load('most-recent-commits-markdown.html.twig')->render($templateContext),
@@ -232,6 +230,7 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
     private function buildCommitsSummary(): array
     {
+        var_dump('Building it YO');
         $commitsSummary = [
             'repos' => [],
         ];
@@ -243,10 +242,14 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
                 'commitCount' => count($commitRepo->findAll()),
             ];
         }
+        var_dump('Still building YEAH');
 
         $commitsSummary['totalCommits'] = count($this->gitHubCommitRepository->findAll());
+        var_dump('More building WHAT');
         $commitsSummary['firstCommit'] = $this->gitHubCommitRepository->findFirstImportedCommit()->getCommitDate();
+        var_dump('Still in progress COOL');
         $commitsSummary['mostRecentCommits'] = $this->gitHubCommitRepository->findMostRecentCommits(10);
+        var_dump('Finished up LOL');
 
         return $commitsSummary;
     }
