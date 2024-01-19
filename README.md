@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`8016`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`8035`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-17-01-2024  strava-activities           Updated strava activities
-17-01-2024  strava-activities           Updated strava activities
-17-01-2024  strava-activities-template  Merge pull request #315 from robiningelbrecht/read-part-4  Readme part 4
-17-01-2024  strava-activities-template  Readme part 4
-17-01-2024  strava-activities           Updated strava activities
-17-01-2024  strava-activities           Updated strava activities
-17-01-2024  strava-activities           Updated template to latest version
-17-01-2024  strava-activities           Updated template to latest version
-17-01-2024  strava-activities-template  Merge pull request #314 from robiningelbrecht/fix-import-segments-bug  Fix import segments bug
-17-01-2024  strava-activities-template  Added comment
+19-01-2024  playstation-easy-platinums  Added 16 new games to list: Circle Dodge (JP • PS5), Circle Dodge (JP • PS4), Ikkarus and the Prince of Sin (PS5), Ikkarus and the Prince of Sin (PS4), Ikkarus and the Prince of Sin (PS5), Ikkarus and the Prince of Sin (PS4), Circle Dodge (AS • PS5), Circle Dodge (AS • PS4), Ziggy (PS5), Ziggy (PS4), Ziggy (PS4), Ziggy (PS5), Ziggy (PS4), Ziggy (PS5), Ziggy (PS4), Western Slot Machine (EU • PS5)
+18-01-2024  robiningelbrecht            Updated GitHub profile
+18-01-2024  strava-activities           Updated strava activities
+18-01-2024  strava-activities           Updated strava activities
+18-01-2024  strava-activities           Updated strava activities
+18-01-2024  strava-activities           Updated strava activities
+18-01-2024  strava-activities           Updated template to latest version
+18-01-2024  strava-activities           Updated template to latest version
+18-01-2024  strava-activities-template  Merge pull request #317 from robiningelbrecht/speed-up-things  Speed up things
+18-01-2024  strava-activities-template  Removed dead code
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2004 commits     ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-🌆 Daytime                 3265 commits     ██████████░░░░░░░░░░░░░░░   40.73 %
-🌃 Evening                 2412 commits     ████████░░░░░░░░░░░░░░░░░   30.09 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.18 %
+🌞 Morning                 2005 commits     ██████░░░░░░░░░░░░░░░░░░░   24.95 %
+🌆 Daytime                 3278 commits     ██████████░░░░░░░░░░░░░░░   40.80 %
+🌃 Evening                 2417 commits     ████████░░░░░░░░░░░░░░░░░   30.08 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.17 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1324 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-Tuesday                   1114 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Wednesday                 1096 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Thursday                  1071 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Friday                    1145 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Saturday                  943 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Sunday                    1323 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+Monday                    1324 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Tuesday                   1114 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Wednesday                 1098 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Thursday                  1087 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Friday                    1146 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Saturday                  943 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Sunday                    1323 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
@@ -47,14 +47,14 @@ Sunday                    1323 commits     ████░░░░░░░░�
 **💬 I mostly code in PHP**
 
 ```text
-PHP                       24 repos         ███████████░░░░░░░░░░░░░░   43.64 %
-JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-HTML                      5 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   9.09 %
-CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.27 %
-Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82 %
-Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82 %
-TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82 %
-Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82 %
+PHP                       24 repos         ███████████░░░░░░░░░░░░░░   42.86 %
+JavaScript                11 repos         █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+HTML                      6 repos          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+CSS                       4 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.14 %
+TypeScript                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79 %
+Dockerfile                1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79 %
+Python                    1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79 %
+Shell                     1 repos          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79 %
 ```
 <!--END_SECTION:repos-per-language-->  
 
