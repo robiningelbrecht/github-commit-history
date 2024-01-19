@@ -30,6 +30,11 @@ class GitHubCommitRepository
         foreach ($this->gitHubRepoRepository->findAll() as $repo) {
             $commitRepository = $this->gitHubRepoCommitRepositoryFactory->for($repo->getName());
             $firstCommitForRepo = $commitRepository->findFirstImportedCommit();
+            var_dump([
+                'repo'=> $repo->getName(),
+                'firstCommitForRepo'=> $firstCommitForRepo,
+                'firstCommit'=> $fistCommit,
+            ]);
             if (is_null($fistCommit) || ($firstCommitForRepo->getCommitDate() < $fistCommit->getCommitDate())) {
                 $fistCommit = $firstCommitForRepo;
             }
