@@ -80,11 +80,13 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
             $mostRecentCommitsContent[self::HTML],
         );
 
+        $output->writeln('Rendering repos for site');
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/repos-for-website.json',
             Json::encode($this->buildReposForWebsite())
         );
 
+        $output->writeln('Rendering commits summary');
         $commitsSummary = $this->buildCommitsSummary();
         \Safe\file_put_contents(
             Settings::getAppRoot().'/build/commits-summary.json',
@@ -194,10 +196,12 @@ class BuildGitHubActivityFilesConsoleCommand extends Command
 
     public function renderMostRecentCommits(): array
     {
+        var_dump('Before most recent commits');
         $templateContext = [
             'title' => '⏳ Most recent commits',
             'commits' => $this->gitHubCommitRepository->findMostRecentCommits(10),
         ];
+        var_dump('After most recent commits');
 
         return [
             self::MARKDOWN => $this->twig->load('most-recent-commits-markdown.html.twig')->render($templateContext),
