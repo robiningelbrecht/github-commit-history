@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-21-01-2024  strava-activities-template  Merge pull request #320 from robiningelbrecht/catch-strava-errors  Catch stava errors
-21-01-2024  strava-activities-template  Catch stava errors
-21-01-2024  wca-rest-api                New API build
-21-01-2024  gotta-generate-em-all       Generated a new fire-type Pokémon named Pyrockameleon
-21-01-2024  strava-activities-template  Merge pull request #316 from robiningelbrecht/power-chart  Power chart
-21-01-2024  strava-activities-template  Fix dashboard
-21-01-2024  strava-activities-template  Fix charts
-21-01-2024  strava-activities-template  Power chart
-21-01-2024  strava-activities-template  Power chart
-20-01-2024  robiningelbrecht            Updated GitHub profile
+22-01-2024  wca-rest-api                New API build
+22-01-2024  gotta-generate-em-all       Generated a new dark-type Pokémon named Crystaclysm
+21-01-2024  robiningelbrecht            Updated GitHub profile
+21-01-2024  robiningelbrecht.be         New site build
+21-01-2024  strava-activities-template  Merge pull request #326 from robiningelbrecht/fixed-woopsie  Extra check
+21-01-2024  strava-activities-template  Merge branch &#039;master&#039; into fixed-woopsie
+21-01-2024  strava-activities-template  Extra check
+21-01-2024  strava-activities-template  Merge pull request #325 from robiningelbrecht/fixed-woopsie  Fixed woopsie
+21-01-2024  strava-activities-template  Fixed woopsie
+21-01-2024  strava-activities           Fixed woopsie
 ```
