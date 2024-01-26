@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-25-01-2024  wca-rest-api           New API build
-25-01-2024  gotta-generate-em-all  Generated a new steel-type Pokémon named Ironcrownus
-24-01-2024  robiningelbrecht       Updated GitHub profile
-24-01-2024  robiningelbrecht.be    New site build
-24-01-2024  robiningelbrecht.be    Add files via upload
-24-01-2024  robiningelbrecht.be    Add files via upload
-24-01-2024  strava-activities      Updated strava activities
-24-01-2024  strava-activities      Updated strava activities
-24-01-2024  wca-rest-api           New API build
-24-01-2024  gotta-generate-em-all  Generated a new grass-type Pokémon named Crystacule
+26-01-2024  robiningelbrecht.be         Add files via upload
+26-01-2024  wca-rest-api                New API build
+26-01-2024  gotta-generate-em-all       Generated a new psychic-type Pokémon named Goldnictus
+26-01-2024  strava-activities-template  Merge pull request #331 from robiningelbrecht/bump-node-version  Bump node version
+26-01-2024  strava-activities-template  Bump node version
+26-01-2024  strava-activities           Updated strava activities
+26-01-2024  strava-activities           Updated strava activities
+26-01-2024  strava-activities           Bump robiningelbrecht/ntfy-action
+26-01-2024  strava-activities           Bump robiningelbrecht/ntfy-action
+26-01-2024  ntfy-action                 Bump node version
 ```
