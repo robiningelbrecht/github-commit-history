@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-17-02-2024  wca-rest-api           New API build
-17-02-2024  gotta-generate-em-all  Generated a new steel-type Pokémon named Ironprimate
-16-02-2024  robiningelbrecht       Updated GitHub profile
-16-02-2024  robiningelbrecht.be    New site build
-16-02-2024  strava-activities      Updated strava activities
-16-02-2024  strava-activities      Updated strava activities
-16-02-2024  wca-rest-api           New API build
-16-02-2024  gotta-generate-em-all  Generated a new dark-type Pokémon named Regaluske
-15-02-2024  robiningelbrecht.be    New site build
-15-02-2024  robiningelbrecht       Updated GitHub profile
+18-02-2024  wca-rest-api            New API build
+18-02-2024  gotta-generate-em-all   Generated a new electric-type Pokémon named Voltanix
+18-02-2024  phpunit-coverage-tools  Merge pull request #15 from robiningelbrecht/support-for-phpunit-11  Support for PHPUnit 11
+18-02-2024  phpunit-coverage-tools  Disable linter
+18-02-2024  phpunit-coverage-tools  Stan
+18-02-2024  phpunit-coverage-tools  Support for PHPUnit 11
+18-02-2024  phpunit-pretty-print    Merge pull request #8 from robiningelbrecht/support-for-phpunit-11  Support for PHPUnit 11
+18-02-2024  phpunit-pretty-print    Support for PHPUnit 11
+17-02-2024  robiningelbrecht        Updated GitHub profile
+17-02-2024  robiningelbrecht.be     New site build
 ```
