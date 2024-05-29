@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`8917`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`8930`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-28-05-2024  wca-rest-api                    New API build
-27-05-2024  robiningelbrecht                Updated GitHub profile
-27-05-2024  robiningelbrecht.be             New site build
-27-05-2024  strava-activities               Updated strava activities
-27-05-2024  strava-activities               Updated strava activities
-27-05-2024  wca-rest-api                    New API build
-27-05-2024  tcg-collector-chrome-extension  Removed expansions again
-27-05-2024  tcg-collector-chrome-extension  Show expansion value
-27-05-2024  tcg-collector-chrome-extension  Show expansion value
-26-05-2024  robiningelbrecht                Updated GitHub profile
+29-05-2024  tcg-collector-chrome-extension  Move icons to dist
+29-05-2024  tcg-collector-chrome-extension  Build script
+29-05-2024  tcg-collector-chrome-extension  package.json
+29-05-2024  tcg-collector-chrome-extension  Manifest
+29-05-2024  tcg-collector-chrome-extension  Also build popup.js
+29-05-2024  wca-rest-api                    New API build
+29-05-2024  tcg-collector-chrome-extension  Build everything
+29-05-2024  tcg-collector-chrome-extension  Build everything
+29-05-2024  tcg-collector-chrome-extension  Use webpack
+28-05-2024  robiningelbrecht                Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2058 commits     ██████░░░░░░░░░░░░░░░░░░░   23.08 %
-🌆 Daytime                 3528 commits     ██████████░░░░░░░░░░░░░░░   39.56 %
-🌃 Evening                 2996 commits     ████████░░░░░░░░░░░░░░░░░   33.60 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.76 %
+🌞 Morning                 2058 commits     ██████░░░░░░░░░░░░░░░░░░░   23.05 %
+🌆 Daytime                 3537 commits     ██████████░░░░░░░░░░░░░░░   39.61 %
+🌃 Evening                 3000 commits     ████████░░░░░░░░░░░░░░░░░   33.59 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.75 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1448 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Tuesday                   1238 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88 %
-Wednesday                 1204 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Thursday                  1205 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Friday                    1292 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Saturday                  1049 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Sunday                    1481 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Monday                    1448 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+Tuesday                   1242 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Wednesday                 1213 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Thursday                  1205 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Friday                    1292 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Saturday                  1049 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Sunday                    1481 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
