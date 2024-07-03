@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`9114`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`9128`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-02-07-2024  tcg-collector-chrome-extension  Debug menu item
-02-07-2024  wca-rest-api                    New API build
-02-07-2024  tcg-collector-chrome-extension  Refactored everything
-02-07-2024  strava-activities               Updated strava activities
-02-07-2024  strava-activities               Updated strava activities
-02-07-2024  strava-activities               Updated template to latest version
-02-07-2024  strava-activities               Updated template to latest version
-02-07-2024  strava-activities-template      Merge pull request #339 from robiningelbrecht/disable-reverse-geocoding  Disable reverse geocoding
-02-07-2024  strava-activities-template      Disable reverse geocoding
-01-07-2024  robiningelbrecht                Updated GitHub profile
+03-07-2024  tcg-collector-chrome-extension  better popup design
+03-07-2024  tcg-collector-chrome-extension  Removed debug mode
+03-07-2024  tcg-collector-chrome-extension  Refactored the whole thing
+03-07-2024  tcg-collector-chrome-extension  Remaed some stuff
+03-07-2024  tcg-collector-chrome-extension  Feature list
+03-07-2024  wca-rest-api                    New API build
+03-07-2024  tcg-collector-chrome-extension  Added complete feature list
+03-07-2024  tcg-collector-chrome-extension  Added features
+03-07-2024  tcg-collector-chrome-extension  More compact popup form
+03-07-2024  tcg-collector-chrome-extension  Debug feature list
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2070 commits     ██████░░░░░░░░░░░░░░░░░░░   22.71 %
-🌆 Daytime                 3579 commits     ██████████░░░░░░░░░░░░░░░   39.27 %
-🌃 Evening                 3130 commits     █████████░░░░░░░░░░░░░░░░   34.34 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68 %
+🌞 Morning                 2074 commits     ██████░░░░░░░░░░░░░░░░░░░   22.72 %
+🌆 Daytime                 3583 commits     ██████████░░░░░░░░░░░░░░░   39.25 %
+🌃 Evening                 3136 commits     █████████░░░░░░░░░░░░░░░░   34.36 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.67 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1478 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Tuesday                   1272 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Wednesday                 1236 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Thursday                  1232 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Friday                    1317 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Saturday                  1072 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Sunday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Monday                    1478 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Tuesday                   1276 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Wednesday                 1246 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Thursday                  1232 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Friday                    1317 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Saturday                  1072 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Sunday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 

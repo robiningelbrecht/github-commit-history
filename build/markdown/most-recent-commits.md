@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-02-07-2024  tcg-collector-chrome-extension  Debug menu item
-02-07-2024  wca-rest-api                    New API build
-02-07-2024  tcg-collector-chrome-extension  Refactored everything
-02-07-2024  strava-activities               Updated strava activities
-02-07-2024  strava-activities               Updated strava activities
-02-07-2024  strava-activities               Updated template to latest version
-02-07-2024  strava-activities               Updated template to latest version
-02-07-2024  strava-activities-template      Merge pull request #339 from robiningelbrecht/disable-reverse-geocoding  Disable reverse geocoding
-02-07-2024  strava-activities-template      Disable reverse geocoding
-01-07-2024  robiningelbrecht                Updated GitHub profile
+03-07-2024  tcg-collector-chrome-extension  better popup design
+03-07-2024  tcg-collector-chrome-extension  Removed debug mode
+03-07-2024  tcg-collector-chrome-extension  Refactored the whole thing
+03-07-2024  tcg-collector-chrome-extension  Remaed some stuff
+03-07-2024  tcg-collector-chrome-extension  Feature list
+03-07-2024  wca-rest-api                    New API build
+03-07-2024  tcg-collector-chrome-extension  Added complete feature list
+03-07-2024  tcg-collector-chrome-extension  Added features
+03-07-2024  tcg-collector-chrome-extension  More compact popup form
+03-07-2024  tcg-collector-chrome-extension  Debug feature list
 ```
