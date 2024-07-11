@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`9172`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`9183`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-10-07-2024  wca-rest-api         New API build
-09-07-2024  robiningelbrecht     Updated GitHub profile
-09-07-2024  robiningelbrecht.be  New site build
-09-07-2024  strava-activities    Updated strava activities
-09-07-2024  strava-activities    Updated strava activities
-09-07-2024  wca-rest-api         New API build
-08-07-2024  robiningelbrecht     Updated GitHub profile
-08-07-2024  robiningelbrecht.be  New site build
-08-07-2024  strava-activities    Updated strava activities
-08-07-2024  strava-activities    Updated strava activities
+11-07-2024  tcg-collector-chrome-extension  Set filters on cardmarket
+11-07-2024  wca-rest-api                    New API build
+11-07-2024  tcg-collector-chrome-extension  Chart improvements
+11-07-2024  tcg-collector-chrome-extension  Added links to ebay
+11-07-2024  tcg-collector-chrome-extension  Added options for ebay search
+11-07-2024  tcg-collector-chrome-extension  Cardmarket links
+11-07-2024  tcg-collector-chrome-extension  Added more settings
+10-07-2024  robiningelbrecht                Updated GitHub profile
+10-07-2024  robiningelbrecht.be             New site build
+10-07-2024  strava-activities               Updated strava activities
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,9 +22,9 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2081 commits     ██████░░░░░░░░░░░░░░░░░░░   22.69 %
-🌆 Daytime                 3591 commits     ██████████░░░░░░░░░░░░░░░   39.15 %
-🌃 Evening                 3165 commits     █████████░░░░░░░░░░░░░░░░   34.51 %
+🌞 Morning                 2083 commits     ██████░░░░░░░░░░░░░░░░░░░   22.68 %
+🌆 Daytime                 3595 commits     ██████████░░░░░░░░░░░░░░░   39.15 %
+🌃 Evening                 3170 commits     █████████░░░░░░░░░░░░░░░░   34.52 %
 🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.65 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1483 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-Tuesday                   1281 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Wednesday                 1252 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Thursday                  1237 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Friday                    1326 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Saturday                  1081 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Sunday                    1512 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Monday                    1483 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+Tuesday                   1281 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Wednesday                 1256 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Thursday                  1244 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Friday                    1326 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Saturday                  1081 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Sunday                    1512 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
