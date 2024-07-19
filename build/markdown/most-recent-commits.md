@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-18-07-2024  wca-rest-api         New API build
-17-07-2024  robiningelbrecht     Updated GitHub profile
-17-07-2024  robiningelbrecht.be  New site build
-17-07-2024  strava-activities    Updated strava activities
-17-07-2024  strava-activities    Updated strava activities
-17-07-2024  wca-rest-api         New API build
-16-07-2024  robiningelbrecht     Updated GitHub profile
-16-07-2024  robiningelbrecht.be  New site build
-16-07-2024  strava-activities    Updated strava activities
-16-07-2024  strava-activities    Updated strava activities
+19-07-2024  sauce-for-tcg-collector  Also add prices on normal card overview
+19-07-2024  sauce-for-tcg-collector  Also add prices on normal card overview
+19-07-2024  sauce-for-tcg-collector  Better naming
+19-07-2024  sauce-for-tcg-collector  Better naming
+19-07-2024  sauce-for-tcg-collector  Renamed command to message
+19-07-2024  sauce-for-tcg-collector  Renamed command to message
+19-07-2024  sauce-for-tcg-collector  Dave default settings on install
+19-07-2024  sauce-for-tcg-collector  Dave default settings on install
+19-07-2024  sauce-for-tcg-collector  No need for separate commands
+19-07-2024  sauce-for-tcg-collector  No need for separate commands
 ```
