@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
-05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
-05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
-05-08-2024  sauce-for-tcg-collector  Show warning when price sync is older than a week
-05-08-2024  sauce-for-tcg-collector  Use appState
-05-08-2024  sauce-for-tcg-collector  Use appState
-05-08-2024  sauce-for-tcg-collector  Removed obsolete message
-05-08-2024  sauce-for-tcg-collector  Removed obsolete message
-05-08-2024  sauce-for-tcg-collector  Removed obsolete files
-05-08-2024  sauce-for-tcg-collector  Removed obsolete files
+06-08-2024  wca-rest-api             New API build
+06-08-2024  sauce-for-tcg-collector  Allow to use esc button
+06-08-2024  sauce-for-tcg-collector  Allow to use esc button
+06-08-2024  sauce-for-tcg-collector  Allow to click bigger area to select cards to print
+06-08-2024  sauce-for-tcg-collector  Allow to click bigger area to select cards to print
+06-08-2024  sauce-for-tcg-collector  Allow to click bigger area to select expansions to print
+06-08-2024  sauce-for-tcg-collector  Allow to click bigger area to select expansions to print
+06-08-2024  sauce-for-tcg-collector  Allow to click bigger area to select expansions to print
+06-08-2024  sauce-for-tcg-collector  Allow to click bigger area to select expansions to print
+05-08-2024  robiningelbrecht.be      New site build
 ```
