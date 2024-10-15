@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10009`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10056`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-14-10-2024  configuration        Update and rename install-pi-hole-pi-vpn.md to install-pi-hole.md
-14-10-2024  configuration        Update install-pi-hole-pi-vpn.md
-14-10-2024  configuration        Update install-pi-hole-pi-vpn.md
-14-10-2024  configuration        Create install-pi-hole-pi-vpn.md
-14-10-2024  wca-rest-api         New API build
-14-10-2024  robiningelbrecht     Added Redis
-13-10-2024  robiningelbrecht     Updated GitHub profile
-13-10-2024  robiningelbrecht.be  New site build
-13-10-2024  strava-activities    Updated strava activities
-13-10-2024  strava-activities    Updated strava activities
+15-10-2024  configuration  Update README.md
+15-10-2024  configuration  Delete raspberry-pi/wireguard.conf
+15-10-2024  configuration  Update hoptspot.sh
+15-10-2024  configuration  Update hoptspot.sh
+15-10-2024  wca-rest-api   New API build
+15-10-2024  configuration  Update hoptspot.sh
+15-10-2024  configuration  Update hoptspot.sh
+15-10-2024  configuration  Update hoptspot.sh
+15-10-2024  configuration  Update README.md
+15-10-2024  configuration  Create wireguard.conf
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,24 +22,24 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2210 commits     ██████░░░░░░░░░░░░░░░░░░░   22.08 %
-🌆 Daytime                 3874 commits     ██████████░░░░░░░░░░░░░░░   38.71 %
-🌃 Evening                 3590 commits     █████████░░░░░░░░░░░░░░░░   35.87 %
-🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.35 %
+🌞 Morning                 2222 commits     ██████░░░░░░░░░░░░░░░░░░░   22.10 %
+🌆 Daytime                 3901 commits     ██████████░░░░░░░░░░░░░░░   38.79 %
+🌃 Evening                 3598 commits     █████████░░░░░░░░░░░░░░░░   35.78 %
+🌙 Night                   335 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.33 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
 <!--START_SECTION:commits-per-weekday-->
-**📅 I&#039;m Most Productive on Sunday**
+**📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1610 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-Tuesday                   1405 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Wednesday                 1363 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Thursday                  1354 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Monday                    1615 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Tuesday                   1447 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Wednesday                 1363 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Thursday                  1354 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Friday                    1473 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Saturday                  1190 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Sunday                    1614 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
