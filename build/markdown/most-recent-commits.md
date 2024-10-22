@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-21-10-2024  wca-rest-api                      New API build
-21-10-2024  tcg-collector-rare-candy-scraper  Implemented Egons feedback
-21-10-2024  tcg-collector-rare-candy-scraper  Better slug handling
-21-10-2024  tcg-collector-rare-candy-scraper  Put into variabkes
-21-10-2024  tcg-collector-rare-candy-scraper  Readme
-21-10-2024  tcg-collector-rare-candy-scraper  hasBadQuality = false
-20-10-2024  robiningelbrecht                  Updated GitHub profile
-20-10-2024  robiningelbrecht.be               New site build
-20-10-2024  tcg-collector-rare-candy-scraper  Scraped expansion-pack
-20-10-2024  strava-activities                 Updated strava activities
+22-10-2024  wca-rest-api                      New API build
+22-10-2024  tcg-collector-rare-candy-scraper  Allow to scrape multiple sets at once
+22-10-2024  tcg-collector-rare-candy-scraper  More mapping
+22-10-2024  tcg-collector-rare-candy-scraper  Some fixes for numbered sets
+22-10-2024  tcg-collector-rare-candy-scraper  Map sets yo
+22-10-2024  tcg-collector-rare-candy-scraper  Map sets
+22-10-2024  tcg-collector-rare-candy-scraper  Improve console output
+22-10-2024  tcg-collector-rare-candy-scraper  Some renames
+22-10-2024  tcg-collector-rare-candy-scraper  Started on console command to scrape all rare candy set data to fix mapping
+21-10-2024  robiningelbrecht                  Updated GitHub profile
 ```

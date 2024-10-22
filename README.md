@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10152`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10169`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-21-10-2024  wca-rest-api                      New API build
-21-10-2024  tcg-collector-rare-candy-scraper  Implemented Egons feedback
-21-10-2024  tcg-collector-rare-candy-scraper  Better slug handling
-21-10-2024  tcg-collector-rare-candy-scraper  Put into variabkes
-21-10-2024  tcg-collector-rare-candy-scraper  Readme
-21-10-2024  tcg-collector-rare-candy-scraper  hasBadQuality = false
-20-10-2024  robiningelbrecht                  Updated GitHub profile
-20-10-2024  robiningelbrecht.be               New site build
-20-10-2024  tcg-collector-rare-candy-scraper  Scraped expansion-pack
-20-10-2024  strava-activities                 Updated strava activities
+22-10-2024  wca-rest-api                      New API build
+22-10-2024  tcg-collector-rare-candy-scraper  Allow to scrape multiple sets at once
+22-10-2024  tcg-collector-rare-candy-scraper  More mapping
+22-10-2024  tcg-collector-rare-candy-scraper  Some fixes for numbered sets
+22-10-2024  tcg-collector-rare-candy-scraper  Map sets yo
+22-10-2024  tcg-collector-rare-candy-scraper  Map sets
+22-10-2024  tcg-collector-rare-candy-scraper  Improve console output
+22-10-2024  tcg-collector-rare-candy-scraper  Some renames
+22-10-2024  tcg-collector-rare-candy-scraper  Started on console command to scrape all rare candy set data to fix mapping
+21-10-2024  robiningelbrecht                  Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2244 commits     ██████░░░░░░░░░░░░░░░░░░░   22.10 %
-🌆 Daytime                 3935 commits     ██████████░░░░░░░░░░░░░░░   38.76 %
-🌃 Evening                 3629 commits     █████████░░░░░░░░░░░░░░░░   35.75 %
-🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.39 %
+🌞 Morning                 2251 commits     ██████░░░░░░░░░░░░░░░░░░░   22.14 %
+🌆 Daytime                 3937 commits     ██████████░░░░░░░░░░░░░░░   38.72 %
+🌃 Evening                 3637 commits     █████████░░░░░░░░░░░░░░░░   35.77 %
+🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.38 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1621 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-Tuesday                   1455 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
-Wednesday                 1381 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Thursday                  1364 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Friday                    1495 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Saturday                  1202 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Sunday                    1634 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Monday                    1629 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Tuesday                   1464 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Wednesday                 1381 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Thursday                  1364 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Friday                    1495 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Saturday                  1202 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Sunday                    1634 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
