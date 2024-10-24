@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-23-10-2024  wca-rest-api                      New API build
-23-10-2024  tcg-collector-rare-candy-scraper  Added utput to gitignore
-22-10-2024  robiningelbrecht                  Updated GitHub profile
-22-10-2024  robiningelbrecht.be               New site build
-22-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
-22-10-2024  tcg-collector-rare-candy-scraper  Some cool changes
-22-10-2024  strava-activities                 Updated strava activities
-22-10-2024  strava-activities                 Updated strava activities
-22-10-2024  wca-rest-api                      New API build
-22-10-2024  tcg-collector-rare-candy-scraper  Allow to scrape multiple sets at once
+24-10-2024  wca-rest-api                      New API build
+24-10-2024  raspberry-pi                      Update README.md
+24-10-2024  raspberry-pi                      Update README.md
+24-10-2024  tcg-collector-rare-candy-scraper  Removed dead code
+23-10-2024  robiningelbrecht                  Updated GitHub profile
+23-10-2024  robiningelbrecht.be               New site build
+23-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
+23-10-2024  tcg-collector-rare-candy-scraper  Fix typo
+23-10-2024  tcg-collector-rare-candy-scraper  Fix file names
+23-10-2024  tcg-collector-rare-candy-scraper  Fix file names
 ```
