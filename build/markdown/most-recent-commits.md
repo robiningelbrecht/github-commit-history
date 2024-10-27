@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
+27-10-2024  wca-rest-api                      New API build
+27-10-2024  tcg-collector-rare-candy-scraper  Matching cards preps
+27-10-2024  tcg-collector-rare-candy-scraper  Dropped scraping unmatched sets
+26-10-2024  robiningelbrecht                  Updated GitHub profile
+26-10-2024  robiningelbrecht.be               New site build
+26-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
+26-10-2024  strava-activities                 Updated strava activities
+26-10-2024  strava-activities                 Updated strava activities
 26-10-2024  wca-rest-api                      New API build
 25-10-2024  robiningelbrecht                  Updated GitHub profile
-25-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
-25-10-2024  strava-activities                 Updated strava activities
-25-10-2024  strava-activities                 Updated strava activities
-25-10-2024  jpn-cards-docs                    Excliude v1 from being searchable
-25-10-2024  jpn-cards-docs                    Removed npm lock
-25-10-2024  jpn-cards-docs                    Added depraction notices
-25-10-2024  wca-rest-api                      New API build
-25-10-2024  tcg-collector-rare-candy-scraper  Allow to scrape non mapped sets
 ```

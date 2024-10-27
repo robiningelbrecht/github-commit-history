@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10207`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10215`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
+27-10-2024  wca-rest-api                      New API build
+27-10-2024  tcg-collector-rare-candy-scraper  Matching cards preps
+27-10-2024  tcg-collector-rare-candy-scraper  Dropped scraping unmatched sets
+26-10-2024  robiningelbrecht                  Updated GitHub profile
+26-10-2024  robiningelbrecht.be               New site build
+26-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
+26-10-2024  strava-activities                 Updated strava activities
+26-10-2024  strava-activities                 Updated strava activities
 26-10-2024  wca-rest-api                      New API build
 25-10-2024  robiningelbrecht                  Updated GitHub profile
-25-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
-25-10-2024  strava-activities                 Updated strava activities
-25-10-2024  strava-activities                 Updated strava activities
-25-10-2024  jpn-cards-docs                    Excliude v1 from being searchable
-25-10-2024  jpn-cards-docs                    Removed npm lock
-25-10-2024  jpn-cards-docs                    Added depraction notices
-25-10-2024  wca-rest-api                      New API build
-25-10-2024  tcg-collector-rare-candy-scraper  Allow to scrape non mapped sets
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,9 +22,9 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2255 commits     ██████░░░░░░░░░░░░░░░░░░░   22.09 %
-🌆 Daytime                 3948 commits     ██████████░░░░░░░░░░░░░░░   38.68 %
-🌃 Evening                 3660 commits     █████████░░░░░░░░░░░░░░░░   35.86 %
+🌞 Morning                 2257 commits     ██████░░░░░░░░░░░░░░░░░░░   22.09 %
+🌆 Daytime                 3949 commits     ██████████░░░░░░░░░░░░░░░   38.66 %
+🌃 Evening                 3665 commits     █████████░░░░░░░░░░░░░░░░   35.88 %
 🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.37 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Sunday**
 
 ```text
-Monday                    1629 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Tuesday                   1470 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Wednesday                 1391 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Thursday                  1373 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Friday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Saturday                  1203 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Sunday                    1634 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Monday                    1629 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Tuesday                   1470 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
+Wednesday                 1391 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Thursday                  1373 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Friday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.75 %
+Saturday                  1208 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Sunday                    1637 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
