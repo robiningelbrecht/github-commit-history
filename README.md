@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10244`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10256`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-29-10-2024  tcg-collector-rare-candy-scraper  Pretty code
-29-10-2024  tcg-collector-rare-candy-scraper  Scrape data for sets we do not have card for
-29-10-2024  tcg-collector-rare-candy-scraper  Fix some buggies
-29-10-2024  tcg-collector-rare-candy-scraper  Better matching algorithm
-28-10-2024  robiningelbrecht                  Updated GitHub profile
-28-10-2024  robiningelbrecht.be               New site build
-28-10-2024  tcg-collector-rare-candy-scraper  Better error messages
-28-10-2024  tcg-collector-rare-candy-scraper  Use TCGC api to match cards
-28-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
-28-10-2024  strava-activities                 Updated strava activities
+30-10-2024  tcg-collector-rare-candy-scraper  Better log filename
+30-10-2024  strava-activities                 Updated strava activities
+30-10-2024  strava-activities                 Updated strava activities
+30-10-2024  tcg-collector-rare-candy-scraper  Better logging
+30-10-2024  tcg-collector-rare-candy-scraper  Better logging
+30-10-2024  tcg-collector-rare-candy-scraper  Better logging
+30-10-2024  tcg-collector-rare-candy-scraper  Write output to log
+29-10-2024  robiningelbrecht                  Updated GitHub profile
+29-10-2024  robiningelbrecht.be               New site build
+29-10-2024  tcg-collector-japanese-prices     Updated prices for Japanese cards in collection
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2270 commits     ██████░░░░░░░░░░░░░░░░░░░   22.16 %
-🌆 Daytime                 3953 commits     ██████████░░░░░░░░░░░░░░░   38.59 %
-🌃 Evening                 3677 commits     █████████░░░░░░░░░░░░░░░░   35.89 %
-🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.36 %
+🌞 Morning                 2276 commits     ██████░░░░░░░░░░░░░░░░░░░   22.19 %
+🌆 Daytime                 3954 commits     ██████████░░░░░░░░░░░░░░░   38.55 %
+🌃 Evening                 3682 commits     █████████░░░░░░░░░░░░░░░░   35.90 %
+🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.35 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1649 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-Tuesday                   1474 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Wednesday                 1391 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Thursday                  1373 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Friday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Saturday                  1208 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Sunday                    1642 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Monday                    1649 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Tuesday                   1479 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Wednesday                 1398 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Thursday                  1373 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Friday                    1507 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Saturday                  1208 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Sunday                    1642 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
