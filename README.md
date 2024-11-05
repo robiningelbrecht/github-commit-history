@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10294`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10316`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-04-11-2024  strava-activities              Updated strava activities
-04-11-2024  strava-activities              Updated strava activities
-04-11-2024  wca-rest-api                   New API build
-04-11-2024  argus                          Make headless chrome work in docker
-04-11-2024  argus                          Added some basic functionality
-04-11-2024  argus                          Added some basic functionality
-04-11-2024  argus                          Init commit
-03-11-2024  robiningelbrecht               Updated GitHub profile
-03-11-2024  robiningelbrecht.be            New site build
-03-11-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+05-11-2024  argus         Added format and quality
+05-11-2024  argus         Ignore some directories
+05-11-2024  argus         More docs
+05-11-2024  argus         More documentation
+05-11-2024  argus         Added structure to docs
+05-11-2024  argus         CapturePageRequestHandler
+05-11-2024  argus         Stupid logo
+05-11-2024  wca-rest-api  New API build
+05-11-2024  argus         Some docs config
+05-11-2024  argus         Some docs config
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2281 commits     ██████░░░░░░░░░░░░░░░░░░░   22.16 %
-🌆 Daytime                 3958 commits     ██████████░░░░░░░░░░░░░░░   38.45 %
-🌃 Evening                 3711 commits     █████████░░░░░░░░░░░░░░░░   36.05 %
-🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.34 %
+🌞 Morning                 2285 commits     ██████░░░░░░░░░░░░░░░░░░░   22.15 %
+🌆 Daytime                 3969 commits     ██████████░░░░░░░░░░░░░░░   38.47 %
+🌃 Evening                 3718 commits     █████████░░░░░░░░░░░░░░░░   36.04 %
+🌙 Night                   344 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.33 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1656 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-Tuesday                   1479 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
-Wednesday                 1405 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Thursday                  1378 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Friday                    1514 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Saturday                  1214 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
-Sunday                    1648 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Monday                    1662 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Tuesday                   1495 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.49 %
+Wednesday                 1405 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Thursday                  1378 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Friday                    1514 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Saturday                  1214 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Sunday                    1648 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
