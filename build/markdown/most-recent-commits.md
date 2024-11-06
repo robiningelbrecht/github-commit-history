@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-05-11-2024  argus         Added format and quality
-05-11-2024  argus         Ignore some directories
-05-11-2024  argus         More docs
-05-11-2024  argus         More documentation
-05-11-2024  argus         Added structure to docs
-05-11-2024  argus         CapturePageRequestHandler
-05-11-2024  argus         Stupid logo
-05-11-2024  wca-rest-api  New API build
-05-11-2024  argus         Some docs config
-05-11-2024  argus         Some docs config
+06-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  More plan of attack
+06-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  More plan of attack
+06-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Plan of attack
+06-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Use real emoji
+06-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Plan of attack
+06-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Test commit to see if I can push
+06-11-2024  argus                                                    Readme
+06-11-2024  wca-rest-api                                             New API build
+06-11-2024  argus                                                    Enable dark mode
+06-11-2024  argus                                                    Rearragne code
 ```
