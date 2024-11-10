@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-09-11-2024  symfony-skeleton               Readme
-09-11-2024  symfony-skeleton               Fixed Stan errors
-09-11-2024  symfony-skeleton               Init commit
-09-11-2024  symfony-skeleton               Initial commit
-09-11-2024  wca-rest-api                   New API build
-08-11-2024  robiningelbrecht               Updated GitHub profile
-08-11-2024  robiningelbrecht.be            New site build
-08-11-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-08-11-2024  strava-activities              Updated strava activities
-08-11-2024  strava-activities              Updated strava activities
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Update README.md
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added CartStatus enum
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added CartStatus enum
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added Cart Entity
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added Customer entoty
+10-11-2024  symfony-skeleton                                         Fix PHPstan error
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Added Product entity
+10-11-2024  symfony-skeleton                                         Improved make file
+10-11-2024  symfony-skeleton                                         Added identifier
+10-11-2024  technical-assignment-back-end-engineer-robiningelbrecht  Installed and configured Doctrine
 ```
