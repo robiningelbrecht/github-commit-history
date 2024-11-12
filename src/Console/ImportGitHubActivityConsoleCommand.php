@@ -49,6 +49,9 @@ class ImportGitHubActivityConsoleCommand extends Command
                 if (str_contains($gitHubRepo['name'], 'assignment')) {
                     continue;
                 }
+                if(!empty($gitHubRepo['private'])) {
+                    continue;
+                }
 
 
                 $languages = $this->gitHub->getRepoLanguages(
