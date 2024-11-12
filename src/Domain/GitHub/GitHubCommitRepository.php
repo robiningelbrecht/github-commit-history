@@ -17,6 +17,9 @@ class GitHubCommitRepository
     {
         $commits = [];
         foreach ($this->gitHubRepoRepository->findAll() as $repo) {
+            if($repo->getName() === 'technical-assignment-back-end-engineer-robiningelbrecht'){
+                continue;
+            }
             $commitRepository = $this->gitHubRepoCommitRepositoryFactory->for($repo->getName());
             $commits = array_merge($commits, $commitRepository->findAll());
         }
