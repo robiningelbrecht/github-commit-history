@@ -21,7 +21,8 @@ class ImportGitHubActivityConsoleCommand extends Command
         private readonly GitHub $gitHub,
         private readonly GitHubRepoRepository $gitHubRepoRepository,
         private readonly GitHubRepoCommitRepositoryFactory $gitHubRepoCommitRepositoryFactory
-    ) {
+    )
+    {
         parent::__construct();
     }
 
@@ -42,6 +43,13 @@ class ImportGitHubActivityConsoleCommand extends Command
                 if ('github-commit-history' === $gitHubRepo['name']) {
                     continue;
                 }
+                if (str_contains($gitHubRepo['name'], 'technical-assignment')) {
+                    continue;
+                }
+                if (str_contains($gitHubRepo['name'], 'assignment')) {
+                    continue;
+                }
+
 
                 $languages = $this->gitHub->getRepoLanguages(
                     $gitHubRepo['owner']['login'],
@@ -79,7 +87,7 @@ class ImportGitHubActivityConsoleCommand extends Command
 
                 $commitRepository->addMany(
                     array_map(
-                        fn (array $commit) => Commit::fromMap($commit),
+                        fn(array $commit) => Commit::fromMap($commit),
                         $commits
                     )
                 );
