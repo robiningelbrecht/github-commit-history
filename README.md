@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10572`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10580`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
+22-11-2024  wca-rest-api                   New API build
+21-11-2024  robiningelbrecht               Updated GitHub profile
+21-11-2024  robiningelbrecht.be            New site build
+21-11-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+21-11-2024  raspberry-pi                   Update dynamic.yml
+21-11-2024  raspberry-pi                   Update README.md
+21-11-2024  strava-activities              Updated strava activities
+21-11-2024  strava-activities              Updated strava activities
 21-11-2024  wca-rest-api                   New API build
 21-11-2024  raspberry-pi                   gitignore
-21-11-2024  raspberry-pi                   traefik
-21-11-2024  raspberry-pi                   traefik
-20-11-2024  robiningelbrecht               Updated GitHub profile
-20-11-2024  robiningelbrecht.be            New site build
-20-11-2024  raspberry-pi                   Better github logo
-20-11-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-20-11-2024  raspberry-pi                   Update config.yml
-20-11-2024  raspberry-pi                   Update README.md
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,9 +22,9 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2363 commits     ██████░░░░░░░░░░░░░░░░░░░   22.35 %
-🌆 Daytime                 4026 commits     ██████████░░░░░░░░░░░░░░░   38.08 %
-🌃 Evening                 3835 commits     █████████░░░░░░░░░░░░░░░░   36.28 %
+🌞 Morning                 2363 commits     ██████░░░░░░░░░░░░░░░░░░░   22.33 %
+🌆 Daytime                 4027 commits     ██████████░░░░░░░░░░░░░░░   38.06 %
+🌃 Evening                 3842 commits     █████████░░░░░░░░░░░░░░░░   36.31 %
 🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.29 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1737 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-Tuesday                   1566 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Wednesday                 1456 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Thursday                  1395 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Friday                    1527 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Monday                    1737 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Tuesday                   1566 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Wednesday                 1456 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Thursday                  1402 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25 %
+Friday                    1528 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
 Saturday                  1230 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Sunday                    1661 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Sunday                    1661 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
