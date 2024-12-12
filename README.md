@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10716`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10736`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-11-12-2024  wca-rest-api                   New API build
-10-12-2024  robiningelbrecht               Updated GitHub profile
-10-12-2024  robiningelbrecht.be            New site build
-10-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
-10-12-2024  strava-activities              Updated strava activities
-10-12-2024  strava-activities              Updated strava activities
-10-12-2024  strava-statistics              Fix tests
-10-12-2024  strava-statistics              Tank you Stan
-10-12-2024  wca-rest-api                   New API build
-10-12-2024  strava-statistics              Stan still helping me
+12-12-2024  strava-statistics  Create build dir
+12-12-2024  strava-statistics  Create container with php &amp; nginx
+12-12-2024  strava-statistics  Add cron to php-fpm
+12-12-2024  strava-statistics  Migrations
+12-12-2024  strava-statistics  Migrations
+12-12-2024  wca-rest-api       New API build
+12-12-2024  strava-statistics  Fixed all tests
+12-12-2024  strava-statistics  Fixed ImportStravaDataConsoleCommandTest
+12-12-2024  strava-statistics  Fixed BuildHtmlVersionCommandHandlerTest
+12-12-2024  strava-statistics  Fixed ImportActivitiesCommandHandlerTest
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2370 commits     ██████░░░░░░░░░░░░░░░░░░░   22.12 %
-🌆 Daytime                 4061 commits     █████████░░░░░░░░░░░░░░░░   37.90 %
-🌃 Evening                 3937 commits     █████████░░░░░░░░░░░░░░░░   36.74 %
-🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.25 %
+🌞 Morning                 2379 commits     ██████░░░░░░░░░░░░░░░░░░░   22.16 %
+🌆 Daytime                 4065 commits     █████████░░░░░░░░░░░░░░░░   37.86 %
+🌃 Evening                 3944 commits     █████████░░░░░░░░░░░░░░░░   36.74 %
+🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.24 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1755 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
-Tuesday                   1603 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Wednesday                 1472 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.74 %
-Thursday                  1414 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Friday                    1546 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Saturday                  1248 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Sunday                    1678 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Monday                    1755 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Tuesday                   1603 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Wednesday                 1477 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Thursday                  1429 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Friday                    1546 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Saturday                  1248 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Sunday                    1678 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
