@@ -1,14 +1,14 @@
 **⏳ Most recent commits**
                                         
 ```text
-15-12-2024  strava-statistics              Way better setup
-15-12-2024  strava-statistics              Import FTPs
-15-12-2024  wca-rest-api                   New API build
-15-12-2024  strava-statistics              Import ftp values
-15-12-2024  strava-statistics              Write to correct directories
-15-12-2024  strava-statistics              Remove useage of remote files
-15-12-2024  strava-statistics              Finished image? plzzz
-14-12-2024  robiningelbrecht               Updated GitHub profile
-14-12-2024  robiningelbrecht.be            New site build
-14-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+16-12-2024  strava-statistics           Better README
+16-12-2024  wca-rest-api                New API build
+16-12-2024  strava-statistics           Readme
+16-12-2024  strava-statistics           USe local images
+16-12-2024  strava-activities-template  Merge pull request #349 from robiningelbrecht/robiningelbrecht-patch-1  Update README.md
+16-12-2024  strava-activities-template  Update README.md
+16-12-2024  strava-statistics           Forgot CSS
+16-12-2024  strava-statistics           Install dependencies before creating new image
+16-12-2024  strava-statistics           Prettier intro page
+15-12-2024  robiningelbrecht            Updated GitHub profile
 ```

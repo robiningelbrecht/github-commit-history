@@ -1,20 +1,20 @@
 # GitHub commit history
-This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10767`<!--END_SECTION:total-commit-count--> commits* 🎉.
+This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-date-->`16-06-2017`<!--END_SECTION:first-commit-date--> I pushed a total of <!--START_SECTION:total-commit-count-->`10791`<!--END_SECTION:total-commit-count--> commits* 🎉.
 
 <!--START_SECTION:most-recent-commits-->
 **⏳ Most recent commits**
                                         
 ```text
-15-12-2024  strava-statistics              Way better setup
-15-12-2024  strava-statistics              Import FTPs
-15-12-2024  wca-rest-api                   New API build
-15-12-2024  strava-statistics              Import ftp values
-15-12-2024  strava-statistics              Write to correct directories
-15-12-2024  strava-statistics              Remove useage of remote files
-15-12-2024  strava-statistics              Finished image? plzzz
-14-12-2024  robiningelbrecht               Updated GitHub profile
-14-12-2024  robiningelbrecht.be            New site build
-14-12-2024  tcg-collector-japanese-prices  Updated prices for Japanese cards in collection
+16-12-2024  strava-statistics           Better README
+16-12-2024  wca-rest-api                New API build
+16-12-2024  strava-statistics           Readme
+16-12-2024  strava-statistics           USe local images
+16-12-2024  strava-activities-template  Merge pull request #349 from robiningelbrecht/robiningelbrecht-patch-1  Update README.md
+16-12-2024  strava-activities-template  Update README.md
+16-12-2024  strava-statistics           Forgot CSS
+16-12-2024  strava-statistics           Install dependencies before creating new image
+16-12-2024  strava-statistics           Prettier intro page
+15-12-2024  robiningelbrecht            Updated GitHub profile
 ```
 <!--END_SECTION:most-recent-commits-->  
 
@@ -22,10 +22,10 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **I&#039;m an Early 🐤**
 
 ```text
-🌞 Morning                 2381 commits     ██████░░░░░░░░░░░░░░░░░░░   22.11 %
-🌆 Daytime                 4078 commits     █████████░░░░░░░░░░░░░░░░   37.87 %
-🌃 Evening                 3960 commits     █████████░░░░░░░░░░░░░░░░   36.78 %
-🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.23 %
+🌞 Morning                 2382 commits     ██████░░░░░░░░░░░░░░░░░░░   22.07 %
+🌆 Daytime                 4085 commits     █████████░░░░░░░░░░░░░░░░   37.86 %
+🌃 Evening                 3976 commits     █████████░░░░░░░░░░░░░░░░   36.85 %
+🌙 Night                   348 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.22 %
 ```
 <!--END_SECTION:commits-per-day-time-->  
 
@@ -33,13 +33,13 @@ This is my personal GitHub commit history. Since <!--START_SECTION:first-commit-
 **📅 I&#039;m Most Productive on Monday**
 
 ```text
-Monday                    1755 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-Tuesday                   1603 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Wednesday                 1477 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Thursday                  1435 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Friday                    1556 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-Saturday                  1256 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Sunday                    1685 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Monday                    1764 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Tuesday                   1603 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Wednesday                 1477 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Thursday                  1435 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Friday                    1556 commits     ████░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Saturday                  1256 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Sunday                    1700 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
 ```
 <!--END_SECTION:commits-per-weekday-->  
 
